@@ -1,0 +1,47 @@
+name: Update Motion Graphics Trends
+
+on:
+  schedule:
+    # 매일 한국시간 오전 9시 (UTC 0시)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r scripts/requirements.txt
+    
+    - name: Collect YouTube data
+      env:
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      run: |
+        python scripts/collect-youtube.py
+    
+    - name: Collect Vimeo data
+      env:
+        VIMEO_ACCESS_TOKEN: ${{ secrets.VIMEO_ACCESS_TOKEN }}
+      run: |
+        python scripts/collect-vimeo.py
+    
+    - name: Analyze trends
+      run: |
+        python scripts/analyze-trends.py
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add public/data/*.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update trends data - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
