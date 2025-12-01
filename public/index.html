@@ -3,26 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Motion Graphics Trend Dashboard 🎬</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Motion Graphics Trend Analytics | 모션 그래픽 트렌드 분석</title>
+    <meta name="description" content="Real-time motion graphics trend analytics platform for creators and studios | 실시간 모션 그래픽 트렌드 분석 플랫폼">
+    
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- Header -->
     <header class="header">
         <div class="container">
             <div class="header-content">
-                <h1 class="logo">
-                    <span class="logo-icon">🎬</span>
-                    Motion Graphics Trends
-                </h1>
-                <div class="header-stats">
-                    <div class="stat-badge">
-                        <span class="stat-label">Last Updated</span>
-                        <span class="stat-value" id="lastUpdated">Loading...</span>
+                <div class="header-left">
+                    <h1 class="logo">
+                        <span class="logo-icon">📊</span>
+                        <span class="logo-text" data-i18n="siteTitle">Motion Trends Analytics</span>
+                    </h1>
+                    <p class="tagline" data-i18n="tagline">Real-time Market Intelligence for Creators</p>
+                </div>
+                
+                <div class="header-right">
+                    <div class="last-update">
+                        <span class="update-label" data-i18n="lastUpdated">Last Updated</span>
+                        <span class="update-value" id="lastUpdated">Loading...</span>
                     </div>
+                    
+                    <!-- Language Toggle -->
+                    <button class="lang-toggle" id="langToggle" aria-label="Toggle Language">
+                        <span class="lang-option" data-lang="ko">🇰🇷 한국어</span>
+                        <span class="lang-option active" data-lang="en">🇺🇸 English</span>
+                    </button>
                 </div>
             </div>
         </div>
@@ -32,70 +50,154 @@
     <main class="main-content">
         <div class="container">
             
-            <!-- Summary Cards -->
+            <!-- Summary Stats -->
             <section class="summary-section">
                 <div class="summary-grid">
-                    <div class="summary-card card-purple">
-                        <div class="card-icon">📹</div>
-                        <div class="card-content">
-                            <h3 class="card-title">Total Videos</h3>
-                            <p class="card-value" id="totalVideos">0</p>
+                    <div class="stat-card card-gradient-1">
+                        <div class="stat-icon">📹</div>
+                        <div class="stat-content">
+                            <div class="stat-label" data-i18n="totalVideos">Total Videos</div>
+                            <div class="stat-value" id="totalVideos">0</div>
+                            <div class="stat-trend">+12% from last week</div>
                         </div>
                     </div>
                     
-                    <div class="summary-card card-blue">
-                        <div class="card-icon">👀</div>
-                        <div class="card-content">
-                            <h3 class="card-title">Total Views</h3>
-                            <p class="card-value" id="totalViews">0</p>
+                    <div class="stat-card card-gradient-2">
+                        <div class="stat-icon">👁️</div>
+                        <div class="stat-content">
+                            <div class="stat-label" data-i18n="totalViews">Total Views</div>
+                            <div class="stat-value" id="totalViews">0</div>
+                            <div class="stat-trend">+28% from last week</div>
                         </div>
                     </div>
                     
-                    <div class="summary-card card-green">
-                        <div class="card-icon">⭐</div>
-                        <div class="card-content">
-                            <h3 class="card-title">Avg Engagement</h3>
-                            <p class="card-value" id="avgEngagement">0</p>
+                    <div class="stat-card card-gradient-3">
+                        <div class="stat-icon">⚡</div>
+                        <div class="stat-content">
+                            <div class="stat-label" data-i18n="avgEngagement">Avg Engagement</div>
+                            <div class="stat-value" id="avgEngagement">0</div>
+                            <div class="stat-trend">+15% from last week</div>
                         </div>
                     </div>
                     
-                    <div class="summary-card card-orange">
-                        <div class="card-icon">🎥</div>
-                        <div class="card-content">
-                            <h3 class="card-title">YouTube Videos</h3>
-                            <p class="card-value" id="youtubeVideos">0</p>
+                    <div class="stat-card card-gradient-4">
+                        <div class="stat-icon">🎯</div>
+                        <div class="stat-content">
+                            <div class="stat-label" data-i18n="topKeyword">Top Keyword</div>
+                            <div class="stat-value" id="topKeyword">-</div>
+                            <div class="stat-trend" id="topKeywordCount">0 mentions</div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <!-- Keyword Trends -->
-            <section class="section">
-                <div class="section-header">
-                    <h2 class="section-title">🔥 Trending Keywords</h2>
+            <!-- Charts Section -->
+            <section class="charts-section">
+                <div class="charts-grid">
+                    <!-- Trend Chart -->
+                    <div class="chart-card chart-large">
+                        <div class="chart-header">
+                            <h3 class="chart-title" data-i18n="viewsTrend">Views Trend Analysis</h3>
+                            <div class="chart-actions">
+                                <button class="chart-btn active" data-period="7d">7D</button>
+                                <button class="chart-btn" data-period="30d">30D</button>
+                                <button class="chart-btn" data-period="90d">90D</button>
+                            </div>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="trendChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <!-- Keyword Chart -->
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3 class="chart-title" data-i18n="topKeywords">Top Keywords</h3>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="keywordChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <!-- Platform Chart -->
+                    <div class="chart-card">
+                        <div class="chart-header">
+                            <h3 class="chart-title" data-i18n="platformDistribution">Platform Distribution</h3>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="platformChart"></canvas>
+                        </div>
+                    </div>
                 </div>
-                <div class="keyword-grid" id="keywordGrid">
+            </section>
+
+            <!-- Trending Keywords -->
+            <section class="keywords-section">
+                <div class="section-header">
+                    <h2 class="section-title">
+                        <span class="title-icon">🔥</span>
+                        <span data-i18n="trendingKeywords">Trending Keywords</span>
+                    </h2>
+                    <div class="section-actions">
+                        <input type="text" class="search-input" id="keywordSearch" placeholder="Search keywords..." data-i18n-placeholder="searchKeywords">
+                    </div>
+                </div>
+                <div class="keywords-grid" id="keywordsGrid">
                     <!-- Keywords will be loaded here -->
                 </div>
             </section>
 
-            <!-- Top Videos -->
-            <section class="section">
-                <div class="section-header">
-                    <h2 class="section-title">🏆 Top Videos by Views</h2>
-                </div>
-                <div class="video-grid" id="topVideosGrid">
-                    <!-- Videos will be loaded here -->
+            <!-- Filters -->
+            <section class="filters-section">
+                <div class="filters-bar">
+                    <div class="filter-group">
+                        <label class="filter-label" data-i18n="sortBy">Sort By</label>
+                        <select class="filter-select" id="sortFilter">
+                            <option value="views" data-i18n="sortViews">Views</option>
+                            <option value="engagement" data-i18n="sortEngagement">Engagement</option>
+                            <option value="recent" data-i18n="sortRecent">Recent</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label class="filter-label" data-i18n="platform">Platform</label>
+                        <select class="filter-select" id="platformFilter">
+                            <option value="all" data-i18n="filterAll">All</option>
+                            <option value="youtube">YouTube</option>
+                            <option value="vimeo">Vimeo</option>
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label class="filter-label" data-i18n="dateRange">Date Range</label>
+                        <select class="filter-select" id="dateFilter">
+                            <option value="all" data-i18n="filterAll">All</option>
+                            <option value="today" data-i18n="filterToday">Today</option>
+                            <option value="week" data-i18n="filterWeek">This Week</option>
+                            <option value="month" data-i18n="filterMonth">This Month</option>
+                        </select>
+                    </div>
+                    
+                    <button class="reset-btn" id="resetFilters" data-i18n="resetFilters">Reset Filters</button>
                 </div>
             </section>
 
-            <!-- Top Engagement -->
-            <section class="section">
+            <!-- Top Videos -->
+            <section class="videos-section">
                 <div class="section-header">
-                    <h2 class="section-title">💎 Highest Engagement</h2>
+                    <h2 class="section-title">
+                        <span class="title-icon">🏆</span>
+                        <span data-i18n="topVideos">Top Performing Videos</span>
+                    </h2>
+                    <div class="video-count">
+                        <span id="videoCount">0</span> <span data-i18n="videosShowing">videos showing</span>
+                    </div>
                 </div>
-                <div class="video-grid" id="topEngagementGrid">
+                <div class="videos-grid" id="videosGrid">
                     <!-- Videos will be loaded here -->
+                </div>
+                <div class="load-more-container">
+                    <button class="load-more-btn" id="loadMoreBtn" data-i18n="loadMore">Load More Videos</button>
                 </div>
             </section>
 
@@ -105,11 +207,31 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p>Data collected from YouTube & Vimeo APIs | Updated daily at 9:00 AM KST</p>
-            <p>Made by <strong>Panda Universe</strong> 🐼</p>
+            <div class="footer-content">
+                <div class="footer-left">
+                    <p class="footer-text">
+                        <span data-i18n="footerData">Data collected from YouTube & Vimeo APIs</span>
+                        <span class="separator">•</span>
+                        <span data-i18n="footerUpdate">Updated daily at 9:00 AM KST</span>
+                    </p>
+                </div>
+                <div class="footer-right">
+                    <p class="footer-credit">
+                        <span data-i18n="footerMadeBy">Made by</span>
+                        <strong>Panda Universe</strong> 🐼
+                    </p>
+                </div>
+            </div>
         </div>
     </footer>
 
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <p class="loading-text" data-i18n="loading">Loading data...</p>
+    </div>
+
+    <!-- Scripts -->
     <script src="app.js"></script>
 </body>
 </html>
