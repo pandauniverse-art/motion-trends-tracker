@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motion Graphics Trend Dashboard 🎬</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">
+                    <span class="logo-icon">🎬</span>
+                    Motion Graphics Trends
+                </h1>
+                <div class="header-stats">
+                    <div class="stat-badge">
+                        <span class="stat-label">Last Updated</span>
+                        <span class="stat-value" id="lastUpdated">Loading...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            
+            <!-- Summary Cards -->
+            <section class="summary-section">
+                <div class="summary-grid">
+                    <div class="summary-card card-purple">
+                        <div class="card-icon">📹</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Total Videos</h3>
+                            <p class="card-value" id="totalVideos">0</p>
+                        </div>
+                    </div>
+                    
+                    <div class="summary-card card-blue">
+                        <div class="card-icon">👀</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Total Views</h3>
+                            <p class="card-value" id="totalViews">0</p>
+                        </div>
+                    </div>
+                    
+                    <div class="summary-card card-green">
+                        <div class="card-icon">⭐</div>
+                        <div class="card-content">
+                            <h3 class="card-title">Avg Engagement</h3>
+                            <p class="card-value" id="avgEngagement">0</p>
+                        </div>
+                    </div>
+                    
+                    <div class="summary-card card-orange">
+                        <div class="card-icon">🎥</div>
+                        <div class="card-content">
+                            <h3 class="card-title">YouTube Videos</h3>
+                            <p class="card-value" id="youtubeVideos">0</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Keyword Trends -->
+            <section class="section">
+                <div class="section-header">
+                    <h2 class="section-title">🔥 Trending Keywords</h2>
+                </div>
+                <div class="keyword-grid" id="keywordGrid">
+                    <!-- Keywords will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Top Videos -->
+            <section class="section">
+                <div class="section-header">
+                    <h2 class="section-title">🏆 Top Videos by Views</h2>
+                </div>
+                <div class="video-grid" id="topVideosGrid">
+                    <!-- Videos will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Top Engagement -->
+            <section class="section">
+                <div class="section-header">
+                    <h2 class="section-title">💎 Highest Engagement</h2>
+                </div>
+                <div class="video-grid" id="topEngagementGrid">
+                    <!-- Videos will be loaded here -->
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>Data collected from YouTube & Vimeo APIs | Updated daily at 9:00 AM KST</p>
+            <p>Made by <strong>Panda Universe</strong> 🐼</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
