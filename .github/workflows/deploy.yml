@@ -8,20 +8,20 @@ on:
       - 'public/**'
   workflow_dispatch:
 
+# GitHub Pages 배포에 필요한 권한 설정
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# 동시 배포 방지
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  # 빌드 및 업로드 Job
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -34,7 +34,18 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'public'
-      
+  
+  # 배포 Job
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    
+    # GitHub Pages environment 설정
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
