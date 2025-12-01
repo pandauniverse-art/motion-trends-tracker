@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2025-12-01T00:00:00",
+  "totalVideos": 0,
+  "keywordTrends": [],
+  "platformStats": {
+    "youtube": {
+      "count": 0,
+      "totalViews": 0
+    },
+    "vimeo": {
+      "count": 0,
+      "totalViews": 0
+    }
+  },
+  "topVideos": [],
+  "topEngagement": [],
+  "summary": {
+    "youtubeVideos": 0,
+    "vimeoVideos": 0,
+    "totalViews": 0,
+    "avgEngagement": 0
+  }
+}
