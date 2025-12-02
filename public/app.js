@@ -141,22 +141,37 @@ function formatNumber(num) {
 }
 
 function formatDate(dateString) {
-    const date = new Date(dateString);
-    const now = new Date();
-    const diffTime = Math.abs(now - date);
-    const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
-    const diffDays = Math.floor(diffHours / 24);
+    try {
+        // UTC 시간을 한국 시간(KST, UTC+9)으로 변환
+        const utcDate = new Date(dateString);
+        const kstDate = new Date(utcDate.getTime() + (9 * 60 * 60 * 1000));
+        
+        const now = new Date();
+        const diffTime = Math.abs(now - kstDate);
+        const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
+        const diffDays = Math.floor(diffHours / 24);
 
-    if (currentLang === 'ko') {
-        if (diffDays > 0) return `${diffDays}일 전`;
-        if (diffHours > 0) return `${diffHours}시간 전`;
-        return '방금 전';
-    } else {
-        if (diffDays > 0) return `${diffDays}d ago`;
-        if (diffHours > 0) return `${diffHours}h ago`;
-        return 'just now';
+        // 디버그용 로그 (F12 콘솔에서 확인 가능)
+        console.log('📅 Original UTC:', dateString);
+        console.log('🇰🇷 KST Converted:', kstDate.toLocaleString('ko-KR'));
+        console.log('⏰ Time diff (hours):', diffHours);
+        console.log('📆 Time diff (days):', diffDays);
+
+        if (currentLang === 'ko') {
+            if (diffDays > 0) return `${diffDays}일 전`;
+            if (diffHours > 0) return `${diffHours}시간 전`;
+            return '방금 전';
+        } else {
+            if (diffDays > 0) return `${diffDays}d ago`;
+            if (diffHours > 0) return `${diffHours}h ago`;
+            return 'just now';
+        }
+    } catch (error) {
+        console.error('❌ Date formatting error:', error, dateString);
+        return dateString;
     }
 }
+
 
 // ========================================
 // SUMMARY CARDS
