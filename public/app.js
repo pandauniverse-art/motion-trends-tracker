@@ -142,20 +142,19 @@ function formatNumber(num) {
 
 function formatDate(dateString) {
     try {
-        // UTC 시간을 한국 시간(KST, UTC+9)으로 변환
-        const utcDate = new Date(dateString);
-        const kstDate = new Date(utcDate.getTime() + (9 * 60 * 60 * 1000));
-        
+        // dateString이 이미 KST 시간이므로 그대로 사용
+        const updatedDate = new Date(dateString);
         const now = new Date();
-        const diffTime = Math.abs(now - kstDate);
+        
+        const diffTime = Math.abs(now - updatedDate);
         const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
         const diffDays = Math.floor(diffHours / 24);
 
-        // 디버그용 로그 (F12 콘솔에서 확인 가능)
-        console.log('📅 Original UTC:', dateString);
-        console.log('🇰🇷 KST Converted:', kstDate.toLocaleString('ko-KR'));
-        console.log('⏰ Time diff (hours):', diffHours);
-        console.log('📆 Time diff (days):', diffDays);
+        // 디버깅 로그
+        console.log('📅 Updated Date:', updatedDate.toLocaleString('ko-KR'));
+        console.log('🕐 Current Time:', now.toLocaleString('ko-KR'));
+        console.log('⏰ Diff (hours):', diffHours);
+        console.log('📆 Diff (days):', diffDays);
 
         if (currentLang === 'ko') {
             if (diffDays > 0) return `${diffDays}일 전`;
