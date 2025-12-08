@@ -97,7 +97,13 @@ function detectBrowserLanguage() {
 
 function setLanguage(lang) {
     currentLang = lang;
-    localStorage.setItem('preferredLang', lang);
+    
+    // Safe localStorage save
+    try {
+        localStorage.setItem('preferredLang', lang);
+    } catch (e) {
+        console.warn('localStorage not available:', e);
+    }
     
     // Update all translations
     document.querySelectorAll('[data-i18n]').forEach(element => {
@@ -653,10 +659,18 @@ async function loadData() {
 // ========================================
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Set initial language
-    const savedLang = localStorage.getItem('preferredLang') || detectBrowserLanguage();
-    currentLang = savedLang;
-    setLanguage(savedLang);
+    // Set initial language with safe localStorage access
+    let savedLang;
+    try {
+        savedLang = localStorage.getItem('preferredLang');
+    } catch (e) {
+        console.warn('localStorage not available:', e);
+        savedLang = null;
+    }
+    
+    const lang = savedLang || detectBrowserLanguage();
+    currentLang = lang;
+    setLanguage(lang);
     
     // Setup event listeners
     setupEventListeners();
