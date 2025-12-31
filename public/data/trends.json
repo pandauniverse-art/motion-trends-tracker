@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T01:23:45.695148",
+  "lastUpdated": "2025-12-31T01:24:44.559499",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -30,7 +30,7 @@
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 199615336
+      "totalViews": 224703929
     },
     "vimeo": {
       "count": 0,
@@ -47,12 +47,12 @@
       "channel": "Bishi4u",
       "publishedAt": "2025-12-15T16:35:33Z",
       "url": "https://www.youtube.com/watch?v=UW30wa-zGdE",
-      "viewCount": 75714493,
-      "likeCount": 254220,
-      "commentCount": 428,
+      "viewCount": 78740771,
+      "likeCount": 264818,
+      "commentCount": 456,
       "duration": "PT10S",
       "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133754",
+      "collectedAt": "2025-12-31T01:23:50.654070",
       "engagementScore": 3.37
     },
     {
@@ -64,13 +64,30 @@
       "channel": "Bishi4u",
       "publishedAt": "2025-12-11T12:42:24Z",
       "url": "https://www.youtube.com/watch?v=q0gNP5hwmZ8",
-      "viewCount": 62372998,
-      "likeCount": 163888,
-      "commentCount": 44,
+      "viewCount": 64227815,
+      "likeCount": 169380,
+      "commentCount": 45,
       "duration": "PT5S",
       "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133762",
-      "engagementScore": 2.63
+      "collectedAt": "2025-12-31T01:23:50.654080",
+      "engagementScore": 2.64
+    },
+    {
+      "platform": "youtube",
+      "id": "Dn7cf0MGzzY",
+      "title": "Cube Monsters 😈😈😈",
+      "description": "Tiny Cube Monsters awaken, glowing softly with emotion. ✨ A playful, magical 3D world created in Cinema 4D.",
+      "thumbnail": "https://i.ytimg.com/vi/Dn7cf0MGzzY/hqdefault.jpg",
+      "channel": "Zeno3D",
+      "publishedAt": "2025-12-23T21:00:22Z",
+      "url": "https://www.youtube.com/watch?v=Dn7cf0MGzzY",
+      "viewCount": 20061843,
+      "likeCount": 86554,
+      "commentCount": 24,
+      "duration": "PT21S",
+      "keyword": "3d motion design",
+      "collectedAt": "2025-12-31T01:23:50.654083",
+      "engagementScore": 4.32
     },
     {
       "platform": "youtube",
@@ -81,12 +98,12 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-05T21:01:16Z",
       "url": "https://www.youtube.com/watch?v=y9MbypfXItU",
-      "viewCount": 16401511,
-      "likeCount": 64920,
+      "viewCount": 16519075,
+      "likeCount": 65374,
       "commentCount": 18,
       "duration": "PT15S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187899",
+      "collectedAt": "2025-12-31T01:23:49.692373",
       "engagementScore": 3.96
     },
     {
@@ -98,12 +115,12 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-10T21:00:50Z",
       "url": "https://www.youtube.com/watch?v=bastfkaJFBU",
-      "viewCount": 8610471,
-      "likeCount": 30347,
+      "viewCount": 8700546,
+      "likeCount": 30684,
       "commentCount": 10,
       "duration": "PT12S",
       "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133765",
+      "collectedAt": "2025-12-31T01:23:50.654087",
       "engagementScore": 3.53
     },
     {
@@ -115,13 +132,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-08T21:00:05Z",
       "url": "https://www.youtube.com/watch?v=5Z2Kjts8bho",
-      "viewCount": 6987578,
-      "likeCount": 28082,
+      "viewCount": 7281778,
+      "likeCount": 29337,
       "commentCount": 6,
       "duration": "PT14S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187912",
-      "engagementScore": 4.02
+      "collectedAt": "2025-12-31T01:23:49.692384",
+      "engagementScore": 4.03
     },
     {
       "platform": "youtube",
@@ -132,13 +149,13 @@
       "channel": "Jaxon Pham",
       "publishedAt": "2025-12-20T19:10:26Z",
       "url": "https://www.youtube.com/watch?v=5SwyRfnCqjQ",
-      "viewCount": 3762894,
-      "likeCount": 174096,
-      "commentCount": 548,
+      "viewCount": 3799373,
+      "likeCount": 175838,
+      "commentCount": 555,
       "duration": "PT54S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730065",
-      "engagementScore": 46.56
+      "collectedAt": "2025-12-31T01:23:49.242546",
+      "engagementScore": 46.57
     },
     {
       "platform": "youtube",
@@ -149,13 +166,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-20T09:45:02Z",
       "url": "https://www.youtube.com/watch?v=Q8kAVPijEaY",
-      "viewCount": 3112929,
-      "likeCount": 97362,
-      "commentCount": 736,
+      "viewCount": 3269960,
+      "likeCount": 102038,
+      "commentCount": 773,
       "duration": "PT11S",
       "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133768",
-      "engagementScore": 31.75
+      "collectedAt": "2025-12-31T01:23:50.654090",
+      "engagementScore": 31.68
     },
     {
       "platform": "youtube",
@@ -166,13 +183,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-16T21:00:00Z",
       "url": "https://www.youtube.com/watch?v=hnRWHKfIrRc",
-      "viewCount": 2493844,
-      "likeCount": 9885,
+      "viewCount": 2555006,
+      "likeCount": 10100,
       "commentCount": 14,
       "duration": "PT14S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187916",
-      "engagementScore": 3.97
+      "collectedAt": "2025-12-31T01:23:49.692388",
+      "engagementScore": 3.96
     },
     {
       "platform": "youtube",
@@ -183,12 +200,12 @@
       "channel": "Bishi4u",
       "publishedAt": "2025-12-16T03:40:59Z",
       "url": "https://www.youtube.com/watch?v=jgbCuQifNaA",
-      "viewCount": 2462290,
-      "likeCount": 8398,
-      "commentCount": 1,
+      "viewCount": 2465894,
+      "likeCount": 8408,
+      "commentCount": 2,
       "duration": "PT9S",
       "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133770",
+      "collectedAt": "2025-12-31T01:23:50.654093",
       "engagementScore": 3.41
     },
     {
@@ -200,13 +217,13 @@
       "channel": "VAL",
       "publishedAt": "2025-12-04T23:30:30Z",
       "url": "https://www.youtube.com/watch?v=tIMjENj-6Kk",
-      "viewCount": 2229759,
-      "likeCount": 21582,
-      "commentCount": 397,
+      "viewCount": 2242483,
+      "likeCount": 21768,
+      "commentCount": 401,
       "duration": "PT12S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730077",
-      "engagementScore": 10.04
+      "collectedAt": "2025-12-31T01:23:49.242558",
+      "engagementScore": 10.06
     },
     {
       "platform": "youtube",
@@ -217,13 +234,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-07T21:00:37Z",
       "url": "https://www.youtube.com/watch?v=Vm8k0xVf05E",
-      "viewCount": 1873955,
-      "likeCount": 8451,
+      "viewCount": 1921473,
+      "likeCount": 8649,
       "commentCount": 6,
       "duration": "PT20S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187920",
-      "engagementScore": 4.52
+      "collectedAt": "2025-12-31T01:23:49.692392",
+      "engagementScore": 4.51
     },
     {
       "platform": "youtube",
@@ -234,12 +251,12 @@
       "channel": "VAL",
       "publishedAt": "2025-12-09T23:30:19Z",
       "url": "https://www.youtube.com/watch?v=sfB--A8X0K4",
-      "viewCount": 1842909,
-      "likeCount": 12029,
+      "viewCount": 1844188,
+      "likeCount": 12038,
       "commentCount": 64,
       "duration": "PT12S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730080",
+      "collectedAt": "2025-12-31T01:23:49.242562",
       "engagementScore": 6.6
     },
     {
@@ -251,13 +268,13 @@
       "channel": "VAL",
       "publishedAt": "2025-12-17T23:30:04Z",
       "url": "https://www.youtube.com/watch?v=DB-g7nebbXM",
-      "viewCount": 1272273,
-      "likeCount": 13815,
-      "commentCount": 145,
+      "viewCount": 1281835,
+      "likeCount": 13884,
+      "commentCount": 146,
       "duration": "PT12S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730084",
-      "engagementScore": 11.09
+      "collectedAt": "2025-12-31T01:23:49.242565",
+      "engagementScore": 11.06
     },
     {
       "platform": "youtube",
@@ -268,13 +285,13 @@
       "channel": "VAL",
       "publishedAt": "2025-12-22T23:30:04Z",
       "url": "https://www.youtube.com/watch?v=AlfZOGVJ9vA",
-      "viewCount": 1267036,
-      "likeCount": 14274,
-      "commentCount": 276,
+      "viewCount": 1277331,
+      "likeCount": 14341,
+      "commentCount": 277,
       "duration": "PT13S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730086",
-      "engagementScore": 11.7
+      "collectedAt": "2025-12-31T01:23:49.242568",
+      "engagementScore": 11.66
     },
     {
       "platform": "youtube",
@@ -285,12 +302,12 @@
       "channel": "VAL",
       "publishedAt": "2025-12-12T23:30:05Z",
       "url": "https://www.youtube.com/watch?v=FvjGXr-cMaE",
-      "viewCount": 1055393,
-      "likeCount": 11393,
-      "commentCount": 243,
+      "viewCount": 1059346,
+      "likeCount": 11436,
+      "commentCount": 244,
       "duration": "PT12S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730089",
+      "collectedAt": "2025-12-31T01:23:49.242571",
       "engagementScore": 11.26
     },
     {
@@ -302,13 +319,47 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-13T21:00:21Z",
       "url": "https://www.youtube.com/watch?v=CLuJ2IHEiWA",
-      "viewCount": 888121,
-      "likeCount": 4153,
+      "viewCount": 906745,
+      "likeCount": 4228,
       "commentCount": 12,
       "duration": "PT17S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187923",
-      "engagementScore": 4.7
+      "collectedAt": "2025-12-31T01:23:49.692395",
+      "engagementScore": 4.69
+    },
+    {
+      "platform": "youtube",
+      "id": "HocZdyZDq1o",
+      "title": "This glove rig is so smooth! 🧤✨by BANNO Yuki",
+      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
+      "thumbnail": "https://i.ytimg.com/vi/HocZdyZDq1o/hqdefault.jpg",
+      "channel": "BlenderHub ",
+      "publishedAt": "2025-12-22T10:00:27Z",
+      "url": "https://www.youtube.com/watch?v=HocZdyZDq1o",
+      "viewCount": 820991,
+      "likeCount": 15854,
+      "commentCount": 91,
+      "duration": "PT12S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2025-12-31T01:23:50.135213",
+      "engagementScore": 19.53
+    },
+    {
+      "platform": "youtube",
+      "id": "HocZdyZDq1o",
+      "title": "This glove rig is so smooth! 🧤✨by BANNO Yuki",
+      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
+      "thumbnail": "https://i.ytimg.com/vi/HocZdyZDq1o/hqdefault.jpg",
+      "channel": "BlenderHub ",
+      "publishedAt": "2025-12-22T10:00:27Z",
+      "url": "https://www.youtube.com/watch?v=HocZdyZDq1o",
+      "viewCount": 820991,
+      "likeCount": 15854,
+      "commentCount": 91,
+      "duration": "PT12S",
+      "keyword": "3d motion design",
+      "collectedAt": "2025-12-31T01:23:50.654096",
+      "engagementScore": 19.53
     },
     {
       "platform": "youtube",
@@ -319,64 +370,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-01T21:00:18Z",
       "url": "https://www.youtube.com/watch?v=KkpKQLHf56c",
-      "viewCount": 811291,
-      "likeCount": 3471,
+      "viewCount": 818755,
+      "likeCount": 3494,
       "commentCount": 3,
       "duration": "PT12S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187926",
-      "engagementScore": 4.29
-    },
-    {
-      "platform": "youtube",
-      "id": "uvkyrKJiIKU",
-      "title": "Cute Box Monsters 💖",
-      "description": "Cute Box Monsters come to life with lively expressions and shimmering colors that change with every emotion ✨ A short 3D ...",
-      "thumbnail": "https://i.ytimg.com/vi/uvkyrKJiIKU/hqdefault.jpg",
-      "channel": "Zeno3D",
-      "publishedAt": "2025-12-21T21:00:56Z",
-      "url": "https://www.youtube.com/watch?v=uvkyrKJiIKU",
-      "viewCount": 809300,
-      "likeCount": 4177,
-      "commentCount": 8,
-      "duration": "PT15S",
-      "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133775",
-      "engagementScore": 5.18
-    },
-    {
-      "platform": "youtube",
-      "id": "HocZdyZDq1o",
-      "title": "This glove rig is so smooth! 🧤✨by BANNO Yuki",
-      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
-      "thumbnail": "https://i.ytimg.com/vi/HocZdyZDq1o/hqdefault.jpg",
-      "channel": "BlenderHub ",
-      "publishedAt": "2025-12-22T10:00:27Z",
-      "url": "https://www.youtube.com/watch?v=HocZdyZDq1o",
-      "viewCount": 800888,
-      "likeCount": 15487,
-      "commentCount": 88,
-      "duration": "PT12S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2025-12-30T01:22:49.707930",
-      "engagementScore": 19.56
-    },
-    {
-      "platform": "youtube",
-      "id": "HocZdyZDq1o",
-      "title": "This glove rig is so smooth! 🧤✨by BANNO Yuki",
-      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
-      "thumbnail": "https://i.ytimg.com/vi/HocZdyZDq1o/hqdefault.jpg",
-      "channel": "BlenderHub ",
-      "publishedAt": "2025-12-22T10:00:27Z",
-      "url": "https://www.youtube.com/watch?v=HocZdyZDq1o",
-      "viewCount": 800888,
-      "likeCount": 15487,
-      "commentCount": 88,
-      "duration": "PT12S",
-      "keyword": "3d motion design",
-      "collectedAt": "2025-12-30T01:22:50.133772",
-      "engagementScore": 19.56
+      "collectedAt": "2025-12-31T01:23:49.692398",
+      "engagementScore": 4.27
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "Workshop Warrior",
       "publishedAt": "2025-12-06T03:21:05Z",
       "url": "https://www.youtube.com/watch?v=lf51pJFHWCA",
-      "viewCount": 63186,
-      "likeCount": 7017,
+      "viewCount": 64292,
+      "likeCount": 7108,
       "commentCount": 185,
       "duration": "PT6M35S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2025-12-30T01:22:49.707946",
-      "engagementScore": 116.91
+      "collectedAt": "2025-12-31T01:23:50.135232",
+      "engagementScore": 116.31
     },
     {
       "platform": "youtube",
@@ -406,30 +406,13 @@
       "channel": "Maria Tokar",
       "publishedAt": "2025-12-19T00:41:09Z",
       "url": "https://www.youtube.com/watch?v=IK67VeKPvzo",
-      "viewCount": 7053,
-      "likeCount": 637,
-      "commentCount": 44,
+      "viewCount": 7183,
+      "likeCount": 656,
+      "commentCount": 46,
       "duration": "PT16M13S",
       "keyword": "motion design trends",
-      "collectedAt": "2025-12-30T01:22:48.162356",
-      "engagementScore": 102.79
-    },
-    {
-      "platform": "youtube",
-      "id": "NtZemvF9bj0",
-      "title": "12 Graphic Design Trends for 2026",
-      "description": "In this video I share 12 Graphic Design Trends for 2026 that I have observed that you can use to inspire your creative work, ...",
-      "thumbnail": "https://i.ytimg.com/vi/NtZemvF9bj0/hqdefault.jpg",
-      "channel": "Philip VanDusen",
-      "publishedAt": "2025-12-09T15:00:47Z",
-      "url": "https://www.youtube.com/watch?v=NtZemvF9bj0",
-      "viewCount": 23618,
-      "likeCount": 1475,
-      "commentCount": 95,
-      "duration": "PT13M25S",
-      "keyword": "motion design trends",
-      "collectedAt": "2025-12-30T01:22:48.162342",
-      "engagementScore": 70.5
+      "collectedAt": "2025-12-31T01:23:48.680530",
+      "engagementScore": 104.13
     },
     {
       "platform": "youtube",
@@ -440,13 +423,30 @@
       "channel": "School of Motion",
       "publishedAt": "2025-12-10T19:28:17Z",
       "url": "https://www.youtube.com/watch?v=Zsh6rovgNuY",
-      "viewCount": 8367,
-      "likeCount": 496,
+      "viewCount": 8437,
+      "likeCount": 499,
       "commentCount": 46,
       "duration": "PT33M35S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2025-12-30T01:22:47.711510",
-      "engagementScore": 70.28
+      "collectedAt": "2025-12-31T01:23:48.151378",
+      "engagementScore": 70.05
+    },
+    {
+      "platform": "youtube",
+      "id": "NtZemvF9bj0",
+      "title": "12 Graphic Design Trends for 2026",
+      "description": "In this video I share 12 Graphic Design Trends for 2026 that I have observed that you can use to inspire your creative work, ...",
+      "thumbnail": "https://i.ytimg.com/vi/NtZemvF9bj0/hqdefault.jpg",
+      "channel": "Philip VanDusen",
+      "publishedAt": "2025-12-09T15:00:47Z",
+      "url": "https://www.youtube.com/watch?v=NtZemvF9bj0",
+      "viewCount": 24174,
+      "likeCount": 1494,
+      "commentCount": 95,
+      "duration": "PT13M25S",
+      "keyword": "motion design trends",
+      "collectedAt": "2025-12-31T01:23:48.680512",
+      "engagementScore": 69.66
     },
     {
       "platform": "youtube",
@@ -457,13 +457,13 @@
       "channel": "Smeaf",
       "publishedAt": "2025-12-18T09:28:40Z",
       "url": "https://www.youtube.com/watch?v=TMEN886Pt5I",
-      "viewCount": 109779,
-      "likeCount": 6732,
-      "commentCount": 392,
+      "viewCount": 110587,
+      "likeCount": 6771,
+      "commentCount": 395,
       "duration": "PT9M7S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2025-12-30T01:22:49.707939",
-      "engagementScore": 68.46
+      "collectedAt": "2025-12-31T01:23:50.135225",
+      "engagementScore": 68.37
     },
     {
       "platform": "youtube",
@@ -474,12 +474,12 @@
       "channel": "SonduckFilm",
       "publishedAt": "2025-12-17T16:26:49Z",
       "url": "https://www.youtube.com/watch?v=we5pvKZToh8",
-      "viewCount": 32901,
-      "likeCount": 2142,
+      "viewCount": 33231,
+      "likeCount": 2164,
       "commentCount": 15,
       "duration": "PT1M23S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2025-12-30T01:22:47.711498",
+      "collectedAt": "2025-12-31T01:23:48.151366",
       "engagementScore": 66.02
     },
     {
@@ -491,13 +491,13 @@
       "channel": "Jaxon Pham",
       "publishedAt": "2025-12-19T19:50:13Z",
       "url": "https://www.youtube.com/watch?v=BpVqEHGNLRc",
-      "viewCount": 597571,
-      "likeCount": 38151,
-      "commentCount": 320,
+      "viewCount": 621963,
+      "likeCount": 39394,
+      "commentCount": 332,
       "duration": "PT8S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730098",
-      "engagementScore": 64.91
+      "collectedAt": "2025-12-31T01:23:49.242581",
+      "engagementScore": 64.41
     },
     {
       "platform": "youtube",
@@ -508,13 +508,13 @@
       "channel": "School of Motion",
       "publishedAt": "2025-12-15T14:06:39Z",
       "url": "https://www.youtube.com/watch?v=X3-6KkfVars",
-      "viewCount": 10847,
-      "likeCount": 543,
+      "viewCount": 10927,
+      "likeCount": 544,
       "commentCount": 44,
       "duration": "PT12M52S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2025-12-30T01:22:49.187942",
-      "engagementScore": 58.17
+      "collectedAt": "2025-12-31T01:23:49.692422",
+      "engagementScore": 57.84
     },
     {
       "platform": "youtube",
@@ -525,13 +525,13 @@
       "channel": "虹深°ぬふ / Nijipuka Nuhu",
       "publishedAt": "2025-12-19T09:16:51Z",
       "url": "https://www.youtube.com/watch?v=KboJPuELTzo",
-      "viewCount": 654876,
-      "likeCount": 36430,
-      "commentCount": 829,
+      "viewCount": 666998,
+      "likeCount": 36757,
+      "commentCount": 832,
       "duration": "PT25S",
       "keyword": "after effects animation",
-      "collectedAt": "2025-12-30T01:22:48.730095",
-      "engagementScore": 58.16
+      "collectedAt": "2025-12-31T01:23:49.242578",
+      "engagementScore": 57.6
     },
     {
       "platform": "youtube",
@@ -542,19 +542,19 @@
       "channel": "SonduckFilm",
       "publishedAt": "2025-12-03T15:14:17Z",
       "url": "https://www.youtube.com/watch?v=BNx4CL3RjtE",
-      "viewCount": 19747,
-      "likeCount": 971,
+      "viewCount": 19870,
+      "likeCount": 973,
       "commentCount": 16,
       "duration": "PT1M6S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2025-12-30T01:22:47.711514",
-      "engagementScore": 50.79
+      "collectedAt": "2025-12-31T01:23:48.151383",
+      "engagementScore": 50.58
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 199615336,
-    "avgEngagement": 26.89
+    "totalViews": 224703929,
+    "avgEngagement": 27.71
   }
 }
