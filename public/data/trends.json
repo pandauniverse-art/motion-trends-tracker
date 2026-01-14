@@ -1,7 +1,11 @@
 {
-  "lastUpdated": "2026-01-13T01:22:23.807649",
+  "lastUpdated": "2026-01-14T01:28:28.228343",
   "totalVideos": 50,
   "keywordTrends": [
+    {
+      "keyword": "cinema 4d motion",
+      "count": 10
+    },
     {
       "keyword": "3d motion design",
       "count": 10
@@ -15,22 +19,18 @@
       "count": 10
     },
     {
-      "keyword": "cinema 4d motion",
-      "count": 9
-    },
-    {
       "keyword": "motion design trends",
       "count": 7
     },
     {
       "keyword": "motion graphics 2024",
-      "count": 4
+      "count": 3
     }
   ],
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 87195339
+      "totalViews": 87492900
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-23T21:00:22Z",
       "url": "https://www.youtube.com/watch?v=Dn7cf0MGzzY",
-      "viewCount": 27004230,
-      "likeCount": 114662,
+      "viewCount": 27249688,
+      "likeCount": 115580,
       "commentCount": 34,
       "duration": "PT21S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-01-13T01:21:26.998272",
-      "engagementScore": 4.25
+      "collectedAt": "2026-01-14T01:27:35.866515",
+      "engagementScore": 4.24
     },
     {
       "platform": "youtube",
@@ -64,13 +64,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-23T21:00:22Z",
       "url": "https://www.youtube.com/watch?v=Dn7cf0MGzzY",
-      "viewCount": 27004230,
-      "likeCount": 114662,
+      "viewCount": 27249688,
+      "likeCount": 115580,
       "commentCount": 34,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980061",
-      "engagementScore": 4.25
+      "collectedAt": "2026-01-14T01:27:36.946702",
+      "engagementScore": 4.24
     },
     {
       "platform": "youtube",
@@ -81,13 +81,13 @@
       "channel": "Jaxon Pham",
       "publishedAt": "2025-12-20T19:10:26Z",
       "url": "https://www.youtube.com/watch?v=5SwyRfnCqjQ",
-      "viewCount": 4165406,
-      "likeCount": 186730,
-      "commentCount": 583,
+      "viewCount": 4174183,
+      "likeCount": 187005,
+      "commentCount": 585,
       "duration": "PT54S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561060",
-      "engagementScore": 45.11
+      "collectedAt": "2026-01-14T01:27:35.361173",
+      "engagementScore": 45.08
     },
     {
       "platform": "youtube",
@@ -98,13 +98,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-20T09:45:02Z",
       "url": "https://www.youtube.com/watch?v=Q8kAVPijEaY",
-      "viewCount": 4071964,
-      "likeCount": 128664,
-      "commentCount": 1078,
+      "viewCount": 4095040,
+      "likeCount": 129424,
+      "commentCount": 1091,
       "duration": "PT11S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980075",
-      "engagementScore": 32.13
+      "collectedAt": "2026-01-14T01:27:36.946711",
+      "engagementScore": 32.14
     },
     {
       "platform": "youtube",
@@ -115,13 +115,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-28T21:00:47Z",
       "url": "https://www.youtube.com/watch?v=oJXEnmvsAxc",
-      "viewCount": 2605988,
-      "likeCount": 11604,
+      "viewCount": 2645810,
+      "likeCount": 11763,
       "commentCount": 9,
       "duration": "PT17S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980081",
-      "engagementScore": 4.46
+      "collectedAt": "2026-01-14T01:27:36.946715",
+      "engagementScore": 4.45
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "VAL",
       "publishedAt": "2025-12-18T23:30:17Z",
       "url": "https://www.youtube.com/watch?v=jjG8nuktawo",
-      "viewCount": 2167702,
-      "likeCount": 19924,
-      "commentCount": 354,
+      "viewCount": 2173194,
+      "likeCount": 19991,
+      "commentCount": 356,
       "duration": "PT14S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561076",
-      "engagementScore": 9.52
+      "collectedAt": "2026-01-14T01:27:35.361187",
+      "engagementScore": 9.53
     },
     {
       "platform": "youtube",
@@ -149,13 +149,13 @@
       "channel": "AL4RS",
       "publishedAt": "2025-12-15T14:30:43Z",
       "url": "https://www.youtube.com/watch?v=ndmv1G12BTA",
-      "viewCount": 1994307,
-      "likeCount": 67576,
-      "commentCount": 505,
+      "viewCount": 2031604,
+      "likeCount": 68453,
+      "commentCount": 513,
       "duration": "PT58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561073",
-      "engagementScore": 34.39
+      "collectedAt": "2026-01-14T01:27:35.361184",
+      "engagementScore": 34.2
     },
     {
       "platform": "youtube",
@@ -166,12 +166,12 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-17T21:00:00Z",
       "url": "https://www.youtube.com/watch?v=9K0rOUA2Elk",
-      "viewCount": 1683968,
-      "likeCount": 7367,
+      "viewCount": 1689209,
+      "likeCount": 7385,
       "commentCount": 8,
       "duration": "PT15S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980087",
+      "collectedAt": "2026-01-14T01:27:36.946719",
       "engagementScore": 4.38
     },
     {
@@ -183,13 +183,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-27T19:00:39Z",
       "url": "https://www.youtube.com/watch?v=eDz-8hkAOfA",
-      "viewCount": 1553510,
-      "likeCount": 18721,
-      "commentCount": 355,
+      "viewCount": 1557592,
+      "likeCount": 18759,
+      "commentCount": 357,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-13T01:21:27.453358",
-      "engagementScore": 12.51
+      "collectedAt": "2026-01-14T01:27:36.384581",
+      "engagementScore": 12.5
     },
     {
       "platform": "youtube",
@@ -200,13 +200,13 @@
       "channel": "VAL",
       "publishedAt": "2026-01-05T23:30:05Z",
       "url": "https://www.youtube.com/watch?v=7eDq_H1q0i4",
-      "viewCount": 1462277,
-      "likeCount": 14050,
+      "viewCount": 1478264,
+      "likeCount": 14193,
       "commentCount": 118,
       "duration": "PT12S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561086",
-      "engagementScore": 9.77
+      "collectedAt": "2026-01-14T01:27:35.361195",
+      "engagementScore": 9.76
     },
     {
       "platform": "youtube",
@@ -217,13 +217,13 @@
       "channel": "VAL",
       "publishedAt": "2025-12-22T23:30:04Z",
       "url": "https://www.youtube.com/watch?v=AlfZOGVJ9vA",
-      "viewCount": 1432788,
-      "likeCount": 16015,
-      "commentCount": 290,
+      "viewCount": 1437441,
+      "likeCount": 16086,
+      "commentCount": 291,
       "duration": "PT13S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561083",
-      "engagementScore": 11.58
+      "collectedAt": "2026-01-14T01:27:35.361190",
+      "engagementScore": 11.6
     },
     {
       "platform": "youtube",
@@ -234,13 +234,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-28T19:00:46Z",
       "url": "https://www.youtube.com/watch?v=pRRJZA7io8I",
-      "viewCount": 1424952,
-      "likeCount": 17691,
-      "commentCount": 440,
+      "viewCount": 1434760,
+      "likeCount": 17766,
+      "commentCount": 441,
       "duration": "PT4S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980092",
-      "engagementScore": 13.03
+      "collectedAt": "2026-01-14T01:27:36.946722",
+      "engagementScore": 13.0
     },
     {
       "platform": "youtube",
@@ -251,13 +251,13 @@
       "channel": "VAL",
       "publishedAt": "2025-12-17T23:30:04Z",
       "url": "https://www.youtube.com/watch?v=DB-g7nebbXM",
-      "viewCount": 1362043,
-      "likeCount": 14657,
-      "commentCount": 151,
+      "viewCount": 1365382,
+      "likeCount": 14701,
+      "commentCount": 152,
       "duration": "PT12S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561080",
-      "engagementScore": 10.98
+      "collectedAt": "2026-01-14T01:27:35.361192",
+      "engagementScore": 10.99
     },
     {
       "platform": "youtube",
@@ -268,13 +268,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-31T09:20:37Z",
       "url": "https://www.youtube.com/watch?v=oPltpZ_4-OI",
-      "viewCount": 1209610,
-      "likeCount": 14918,
-      "commentCount": 155,
+      "viewCount": 1220198,
+      "likeCount": 15013,
+      "commentCount": 156,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-13T01:21:27.453372",
-      "engagementScore": 12.59
+      "collectedAt": "2026-01-14T01:27:36.384600",
+      "engagementScore": 12.56
     },
     {
       "platform": "youtube",
@@ -285,13 +285,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-31T09:20:37Z",
       "url": "https://www.youtube.com/watch?v=oPltpZ_4-OI",
-      "viewCount": 1209610,
-      "likeCount": 14918,
-      "commentCount": 155,
+      "viewCount": 1220198,
+      "likeCount": 15013,
+      "commentCount": 156,
       "duration": "PT4S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980097",
-      "engagementScore": 12.59
+      "collectedAt": "2026-01-14T01:27:36.946725",
+      "engagementScore": 12.56
     },
     {
       "platform": "youtube",
@@ -302,13 +302,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-01-05T21:01:18Z",
       "url": "https://www.youtube.com/watch?v=zV8JaEVQ-x0",
-      "viewCount": 1136010,
-      "likeCount": 5904,
+      "viewCount": 1207836,
+      "likeCount": 6188,
       "commentCount": 7,
       "duration": "PT20S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980101",
-      "engagementScore": 5.21
+      "collectedAt": "2026-01-14T01:27:36.946728",
+      "engagementScore": 5.13
     },
     {
       "platform": "youtube",
@@ -319,30 +319,13 @@
       "channel": "虹深°ぬふ / Nijipuka Nuhu",
       "publishedAt": "2025-12-19T09:16:51Z",
       "url": "https://www.youtube.com/watch?v=KboJPuELTzo",
-      "viewCount": 817327,
-      "likeCount": 41287,
+      "viewCount": 822879,
+      "likeCount": 41435,
       "commentCount": 896,
       "duration": "PT25S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561090",
-      "engagementScore": 52.71
-    },
-    {
-      "platform": "youtube",
-      "id": "iP5OYtOqHtw",
-      "title": "Cute Monster Cubes 💖",
-      "description": "The tiny, lively Cute Monster Cubes burst into life, each one glowing with its own playful spark and irresistible personality.",
-      "thumbnail": "https://i.ytimg.com/vi/iP5OYtOqHtw/hqdefault.jpg",
-      "channel": "Zeno3D",
-      "publishedAt": "2025-12-14T21:00:45Z",
-      "url": "https://www.youtube.com/watch?v=iP5OYtOqHtw",
-      "viewCount": 773162,
-      "likeCount": 3705,
-      "commentCount": 3,
-      "duration": "PT15S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980106",
-      "engagementScore": 4.8
+      "collectedAt": "2026-01-14T01:27:35.361198",
+      "engagementScore": 52.53
     },
     {
       "platform": "youtube",
@@ -353,13 +336,13 @@
       "channel": "Jaxon Pham",
       "publishedAt": "2025-12-19T19:50:13Z",
       "url": "https://www.youtube.com/watch?v=BpVqEHGNLRc",
-      "viewCount": 769688,
-      "likeCount": 44725,
-      "commentCount": 377,
+      "viewCount": 773600,
+      "likeCount": 44881,
+      "commentCount": 375,
       "duration": "PT8S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561093",
-      "engagementScore": 59.09
+      "collectedAt": "2026-01-14T01:27:35.361200",
+      "engagementScore": 58.99
     },
     {
       "platform": "youtube",
@@ -370,13 +353,30 @@
       "channel": "VAL",
       "publishedAt": "2025-12-24T23:30:19Z",
       "url": "https://www.youtube.com/watch?v=nRcIRXisvvU",
-      "viewCount": 735513,
-      "likeCount": 7914,
+      "viewCount": 737348,
+      "likeCount": 7938,
       "commentCount": 92,
       "duration": "PT13S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561096",
-      "engagementScore": 11.01
+      "collectedAt": "2026-01-14T01:27:35.361202",
+      "engagementScore": 11.02
+    },
+    {
+      "platform": "youtube",
+      "id": "a8mRmK1K-Mg",
+      "title": "A Truly Sad Moment in The Forge Roblox #theforge #roblox #animation",
+      "description": "Hashtags: #theforge #99nightsintheforest #roblox #robloxedit #robloxshorts #robloxmemes #robloxedits #robloxindonesia ...",
+      "thumbnail": "https://i.ytimg.com/vi/a8mRmK1K-Mg/hqdefault.jpg",
+      "channel": "VAL",
+      "publishedAt": "2025-12-16T23:30:01Z",
+      "url": "https://www.youtube.com/watch?v=a8mRmK1K-Mg",
+      "viewCount": 602688,
+      "likeCount": 7513,
+      "commentCount": 109,
+      "duration": "PT15S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-01-14T01:27:35.361209",
+      "engagementScore": 12.83
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "Bad Normals",
       "publishedAt": "2025-12-21T18:00:06Z",
       "url": "https://www.youtube.com/watch?v=oAKrQboXo78",
-      "viewCount": 73419,
-      "likeCount": 8128,
-      "commentCount": 207,
+      "viewCount": 74423,
+      "likeCount": 8224,
+      "commentCount": 209,
       "duration": "PT14M35S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-13T01:21:27.453384",
-      "engagementScore": 116.35
+      "collectedAt": "2026-01-14T01:27:36.384609",
+      "engagementScore": 116.12
     },
     {
       "platform": "youtube",
@@ -406,13 +406,30 @@
       "channel": "Maria Tokar",
       "publishedAt": "2025-12-19T00:41:09Z",
       "url": "https://www.youtube.com/watch?v=IK67VeKPvzo",
-      "viewCount": 8853,
-      "likeCount": 757,
+      "viewCount": 9005,
+      "likeCount": 766,
       "commentCount": 49,
       "duration": "PT16M13S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-01-13T01:21:26.032306",
-      "engagementScore": 96.58
+      "collectedAt": "2026-01-14T01:27:34.807210",
+      "engagementScore": 95.95
+    },
+    {
+      "platform": "youtube",
+      "id": "MC53GwwOrVA",
+      "title": "Animate Images in Blender Like After Effects",
+      "description": "In this blender tutorial we will be displacing images in blender based on the geometry that they're placed on. We are re-creating ...",
+      "thumbnail": "https://i.ytimg.com/vi/MC53GwwOrVA/hqdefault.jpg",
+      "channel": "Ducky 3D",
+      "publishedAt": "2025-12-24T17:00:39Z",
+      "url": "https://www.youtube.com/watch?v=MC53GwwOrVA",
+      "viewCount": 21413,
+      "likeCount": 1628,
+      "commentCount": 72,
+      "duration": "PT13M7S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-01-14T01:27:36.384629",
+      "engagementScore": 82.75
     },
     {
       "platform": "youtube",
@@ -423,13 +440,13 @@
       "channel": "Sketchy Visuals.",
       "publishedAt": "2025-12-31T21:01:46Z",
       "url": "https://www.youtube.com/watch?v=CVpwXsIreFU",
-      "viewCount": 3153,
-      "likeCount": 233,
+      "viewCount": 3241,
+      "likeCount": 236,
       "commentCount": 14,
       "duration": "PT33M48S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-01-13T01:21:26.998311",
-      "engagementScore": 82.78
+      "collectedAt": "2026-01-14T01:27:35.866547",
+      "engagementScore": 81.46
     },
     {
       "platform": "youtube",
@@ -440,13 +457,13 @@
       "channel": "Aevy Video School",
       "publishedAt": "2025-12-20T15:04:02Z",
       "url": "https://www.youtube.com/watch?v=eNpIP4ZSAeY",
-      "viewCount": 337395,
-      "likeCount": 23218,
-      "commentCount": 112,
+      "viewCount": 338693,
+      "likeCount": 23316,
+      "commentCount": 114,
       "duration": "PT1M22S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-13T01:21:27.980110",
-      "engagementScore": 69.48
+      "collectedAt": "2026-01-14T01:27:36.946731",
+      "engagementScore": 69.51
     },
     {
       "platform": "youtube",
@@ -457,13 +474,13 @@
       "channel": "Smeaf",
       "publishedAt": "2025-12-18T09:28:40Z",
       "url": "https://www.youtube.com/watch?v=TMEN886Pt5I",
-      "viewCount": 115543,
-      "likeCount": 6972,
-      "commentCount": 404,
+      "viewCount": 115739,
+      "likeCount": 6974,
+      "commentCount": 405,
       "duration": "PT9M7S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-13T01:21:27.453377",
-      "engagementScore": 67.33
+      "collectedAt": "2026-01-14T01:27:36.384603",
+      "engagementScore": 67.25
     },
     {
       "platform": "youtube",
@@ -474,13 +491,13 @@
       "channel": "SonduckFilm",
       "publishedAt": "2025-12-17T16:26:49Z",
       "url": "https://www.youtube.com/watch?v=we5pvKZToh8",
-      "viewCount": 35658,
-      "likeCount": 2286,
+      "viewCount": 35816,
+      "likeCount": 2293,
       "commentCount": 18,
       "duration": "PT1M23S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-01-13T01:21:25.530514",
-      "engagementScore": 65.12
+      "collectedAt": "2026-01-14T01:27:34.321634",
+      "engagementScore": 65.03
     },
     {
       "platform": "youtube",
@@ -491,30 +508,13 @@
       "channel": "Jagat Edit Decode",
       "publishedAt": "2026-01-03T15:45:24Z",
       "url": "https://www.youtube.com/watch?v=DsRMc_IL3j8",
-      "viewCount": 2322,
-      "likeCount": 138,
+      "viewCount": 2336,
+      "likeCount": 139,
       "commentCount": 3,
       "duration": "PT1M50S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-01-13T01:21:25.530536",
-      "engagementScore": 62.02
-    },
-    {
-      "platform": "youtube",
-      "id": "nXU0Tw6mw8k",
-      "title": "Cinema 4D 2026.1 — Still Relevant? (+ New Feature Example)",
-      "description": "Cinema4D #3DArtist #aiart #3d #Cinema4D2026.1 Is Cinema 4D still relevant in 2025 and beyond — or is AI about to replace 3D ...",
-      "thumbnail": "https://i.ytimg.com/vi/nXU0Tw6mw8k/hqdefault.jpg",
-      "channel": "3DBONFIRE",
-      "publishedAt": "2025-12-17T13:57:38Z",
-      "url": "https://www.youtube.com/watch?v=nXU0Tw6mw8k",
-      "viewCount": 4506,
-      "likeCount": 169,
-      "commentCount": 49,
-      "duration": "PT12M45S",
-      "keyword": "cinema 4d motion",
-      "collectedAt": "2026-01-13T01:21:26.998308",
-      "engagementScore": 59.25
+      "collectedAt": "2026-01-14T01:27:34.321651",
+      "engagementScore": 62.07
     },
     {
       "platform": "youtube",
@@ -525,36 +525,36 @@
       "channel": "Jaxon Pham",
       "publishedAt": "2025-12-19T19:50:13Z",
       "url": "https://www.youtube.com/watch?v=BpVqEHGNLRc",
-      "viewCount": 769688,
-      "likeCount": 44725,
-      "commentCount": 377,
+      "viewCount": 773600,
+      "likeCount": 44881,
+      "commentCount": 375,
       "duration": "PT8S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-13T01:21:26.561093",
-      "engagementScore": 59.09
+      "collectedAt": "2026-01-14T01:27:35.361200",
+      "engagementScore": 58.99
     },
     {
       "platform": "youtube",
-      "id": "hDYGeRcbnKA",
-      "title": "The Real Way to Make Money With Blender in 2026",
-      "description": "100 Blender Tips in a PDF   https://store.blendervitals.com/p/bv/ Check out CraftCloud: https://craftcloud3d.com/ Content used ...",
-      "thumbnail": "https://i.ytimg.com/vi/hDYGeRcbnKA/hqdefault.jpg",
-      "channel": "BlenderVitals",
-      "publishedAt": "2026-01-01T17:00:47Z",
-      "url": "https://www.youtube.com/watch?v=hDYGeRcbnKA",
-      "viewCount": 50885,
-      "likeCount": 2732,
-      "commentCount": 89,
-      "duration": "PT8M34S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-13T01:21:27.453396",
-      "engagementScore": 57.19
+      "id": "nXU0Tw6mw8k",
+      "title": "Cinema 4D 2026.1 — Still Relevant? (+ New Feature Example)",
+      "description": "Cinema4D #3DArtist #aiart #3d #Cinema4D2026.1 Is Cinema 4D still relevant in 2025 and beyond — or is AI about to replace 3D ...",
+      "thumbnail": "https://i.ytimg.com/vi/nXU0Tw6mw8k/hqdefault.jpg",
+      "channel": "3DBONFIRE",
+      "publishedAt": "2025-12-17T13:57:38Z",
+      "url": "https://www.youtube.com/watch?v=nXU0Tw6mw8k",
+      "viewCount": 4543,
+      "likeCount": 170,
+      "commentCount": 49,
+      "duration": "PT12M45S",
+      "keyword": "cinema 4d motion",
+      "collectedAt": "2026-01-14T01:27:35.866544",
+      "engagementScore": 58.99
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 87195339,
-    "avgEngagement": 31.26
+    "totalViews": 87492900,
+    "avgEngagement": 31.88
   }
 }
