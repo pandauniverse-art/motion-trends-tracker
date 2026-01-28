@@ -1,36 +1,36 @@
 {
-  "lastUpdated": "2026-01-27T01:41:03.402120",
+  "lastUpdated": "2026-01-28T01:27:47.401905",
   "totalVideos": 50,
   "keywordTrends": [
     {
       "keyword": "3d motion design",
-      "count": 10
-    },
-    {
-      "keyword": "cinema 4d motion",
-      "count": 10
-    },
-    {
-      "keyword": "after effects animation",
-      "count": 10
+      "count": 21
     },
     {
       "keyword": "blender motion graphics",
       "count": 10
     },
     {
+      "keyword": "cinema 4d motion",
+      "count": 8
+    },
+    {
+      "keyword": "after effects animation",
+      "count": 8
+    },
+    {
       "keyword": "motion design trends",
-      "count": 7
+      "count": 2
     },
     {
       "keyword": "motion graphics 2024",
-      "count": 3
+      "count": 1
     }
   ],
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 25827612
+      "totalViews": 28313302
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,13 @@
       "channel": "TrueLapse AI",
       "publishedAt": "2025-12-31T14:15:39Z",
       "url": "https://www.youtube.com/watch?v=hzhWIwLczDw",
-      "viewCount": 3771117,
-      "likeCount": 36330,
+      "viewCount": 3774512,
+      "likeCount": 36357,
       "commentCount": 59,
       "duration": "PT25S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625223",
-      "engagementScore": 9.67
+      "collectedAt": "2026-01-28T01:26:55.672399",
+      "engagementScore": 9.66
     },
     {
       "platform": "youtube",
@@ -64,12 +64,12 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-01-07T21:00:02Z",
       "url": "https://www.youtube.com/watch?v=1rHj2k2XBUI",
-      "viewCount": 2804060,
-      "likeCount": 12103,
+      "viewCount": 2826191,
+      "likeCount": 12196,
       "commentCount": 19,
       "duration": "PT15S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-01-27T01:39:58.737714",
+      "collectedAt": "2026-01-28T01:26:54.648193",
       "engagementScore": 4.33
     },
     {
@@ -81,30 +81,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-01-08T21:00:13Z",
       "url": "https://www.youtube.com/watch?v=BOR0-shiL-E",
-      "viewCount": 1906649,
-      "likeCount": 8288,
+      "viewCount": 2010546,
+      "likeCount": 8666,
       "commentCount": 5,
       "duration": "PT18S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625230",
-      "engagementScore": 4.35
-    },
-    {
-      "platform": "youtube",
-      "id": "pRRJZA7io8I",
-      "title": "This is absolutely GAME-CHANGING for character artists!",
-      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
-      "thumbnail": "https://i.ytimg.com/vi/pRRJZA7io8I/hqdefault.jpg",
-      "channel": "BlenderHub ",
-      "publishedAt": "2025-12-28T19:00:46Z",
-      "url": "https://www.youtube.com/watch?v=pRRJZA7io8I",
-      "viewCount": 1512839,
-      "likeCount": 18352,
-      "commentCount": 458,
-      "duration": "PT4S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625236",
-      "engagementScore": 12.74
+      "collectedAt": "2026-01-28T01:26:55.672410",
+      "engagementScore": 4.32
     },
     {
       "platform": "youtube",
@@ -115,13 +98,30 @@
       "channel": "Wizzy Tutorials ",
       "publishedAt": "2026-01-24T13:35:25Z",
       "url": "https://www.youtube.com/watch?v=DWyKIkMsHHg",
-      "viewCount": 1505964,
-      "likeCount": 32066,
-      "commentCount": 233,
+      "viewCount": 1989684,
+      "likeCount": 41224,
+      "commentCount": 278,
       "duration": "PT23S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269037",
-      "engagementScore": 21.6
+      "collectedAt": "2026-01-28T01:26:54.117383",
+      "engagementScore": 21.0
+    },
+    {
+      "platform": "youtube",
+      "id": "bEq9S1cStso",
+      "title": "Já imaginou ver o texto do seu vídeo interagir com o mundo real?",
+      "description": "Com o After Effects e o Premiere Pro, dá pra criar tracking de câmera 3D, integrar texto nas paredes e adicionar efeitos sonoros ...",
+      "thumbnail": "https://i.ytimg.com/vi/bEq9S1cStso/hqdefault.jpg",
+      "channel": "Adobe Brasil",
+      "publishedAt": "2026-01-12T17:01:59Z",
+      "url": "https://www.youtube.com/watch?v=bEq9S1cStso",
+      "viewCount": 1587514,
+      "likeCount": 1416,
+      "commentCount": 5,
+      "duration": "PT46S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-01-28T01:26:55.672461",
+      "engagementScore": 0.9
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-01-05T21:01:18Z",
       "url": "https://www.youtube.com/watch?v=zV8JaEVQ-x0",
-      "viewCount": 1485048,
-      "likeCount": 7514,
+      "viewCount": 1497662,
+      "likeCount": 7600,
       "commentCount": 8,
       "duration": "PT20S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625234",
-      "engagementScore": 5.07
+      "collectedAt": "2026-01-28T01:26:55.672414",
+      "engagementScore": 5.09
     },
     {
       "platform": "youtube",
@@ -149,13 +149,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-29T21:00:30Z",
       "url": "https://www.youtube.com/watch?v=SsJP_oDY-vU",
-      "viewCount": 1296516,
-      "likeCount": 6802,
+      "viewCount": 1306763,
+      "likeCount": 6880,
       "commentCount": 14,
       "duration": "PT26S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-01-27T01:39:58.737720",
-      "engagementScore": 5.27
+      "collectedAt": "2026-01-28T01:26:54.648203",
+      "engagementScore": 5.29
     },
     {
       "platform": "youtube",
@@ -166,13 +166,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2025-12-29T21:00:30Z",
       "url": "https://www.youtube.com/watch?v=SsJP_oDY-vU",
-      "viewCount": 1296516,
-      "likeCount": 6802,
+      "viewCount": 1306763,
+      "likeCount": 6880,
       "commentCount": 14,
       "duration": "PT26S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625244",
-      "engagementScore": 5.27
+      "collectedAt": "2026-01-28T01:26:55.672417",
+      "engagementScore": 5.29
     },
     {
       "platform": "youtube",
@@ -183,13 +183,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-31T09:20:37Z",
       "url": "https://www.youtube.com/watch?v=oPltpZ_4-OI",
-      "viewCount": 1295779,
-      "likeCount": 15645,
+      "viewCount": 1298617,
+      "likeCount": 15666,
       "commentCount": 161,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-27T01:39:59.224029",
-      "engagementScore": 12.32
+      "collectedAt": "2026-01-28T01:26:55.119454",
+      "engagementScore": 12.31
     },
     {
       "platform": "youtube",
@@ -200,13 +200,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-31T09:20:37Z",
       "url": "https://www.youtube.com/watch?v=oPltpZ_4-OI",
-      "viewCount": 1295764,
-      "likeCount": 15644,
+      "viewCount": 1298617,
+      "likeCount": 15666,
       "commentCount": 161,
       "duration": "PT4S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625247",
-      "engagementScore": 12.32
+      "collectedAt": "2026-01-28T01:26:55.672424",
+      "engagementScore": 12.31
     },
     {
       "platform": "youtube",
@@ -217,13 +217,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-01-02T21:00:22Z",
       "url": "https://www.youtube.com/watch?v=D3v2WNW3iag",
-      "viewCount": 940890,
-      "likeCount": 4220,
+      "viewCount": 949303,
+      "likeCount": 4250,
       "commentCount": 8,
       "duration": "PT14S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625249",
-      "engagementScore": 4.5
+      "collectedAt": "2026-01-28T01:26:55.672427",
+      "engagementScore": 4.49
     },
     {
       "platform": "youtube",
@@ -234,13 +234,13 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-01-18T21:00:00Z",
       "url": "https://www.youtube.com/watch?v=aqWgBFY_twE",
-      "viewCount": 893300,
-      "likeCount": 3813,
-      "commentCount": 3,
+      "viewCount": 901239,
+      "likeCount": 3858,
+      "commentCount": 5,
       "duration": "PT12S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-01-27T01:39:58.737723",
-      "engagementScore": 4.28
+      "collectedAt": "2026-01-28T01:26:54.648206",
+      "engagementScore": 4.29
     },
     {
       "platform": "youtube",
@@ -251,13 +251,13 @@
       "channel": "VAL",
       "publishedAt": "2026-01-01T23:30:18Z",
       "url": "https://www.youtube.com/watch?v=qCV-e32r2rI",
-      "viewCount": 623807,
-      "likeCount": 4528,
+      "viewCount": 625914,
+      "likeCount": 4555,
       "commentCount": 27,
       "duration": "PT8S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269044",
-      "engagementScore": 7.35
+      "collectedAt": "2026-01-28T01:26:54.117394",
+      "engagementScore": 7.36
     },
     {
       "platform": "youtube",
@@ -268,12 +268,12 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-01-03T19:00:28Z",
       "url": "https://www.youtube.com/watch?v=90lPEt15syY",
-      "viewCount": 549945,
-      "likeCount": 5335,
+      "viewCount": 550559,
+      "likeCount": 5339,
       "commentCount": 45,
       "duration": "PT5S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625251",
+      "collectedAt": "2026-01-28T01:26:55.672431",
       "engagementScore": 9.86
     },
     {
@@ -285,13 +285,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-01-22T19:00:18Z",
       "url": "https://www.youtube.com/watch?v=HqNqwKfIRDA",
-      "viewCount": 531212,
-      "likeCount": 7737,
-      "commentCount": 45,
+      "viewCount": 536651,
+      "likeCount": 7814,
+      "commentCount": 47,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-27T01:39:59.224036",
-      "engagementScore": 14.73
+      "collectedAt": "2026-01-28T01:26:55.119464",
+      "engagementScore": 14.74
     },
     {
       "platform": "youtube",
@@ -302,30 +302,30 @@
       "channel": "BlenderHub ",
       "publishedAt": "2025-12-29T18:27:20Z",
       "url": "https://www.youtube.com/watch?v=-NApjPbSfmg",
-      "viewCount": 434719,
-      "likeCount": 3661,
+      "viewCount": 434888,
+      "likeCount": 3663,
       "commentCount": 27,
       "duration": "PT5S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625254",
+      "collectedAt": "2026-01-28T01:26:55.672434",
       "engagementScore": 8.55
     },
     {
       "platform": "youtube",
-      "id": "9ilyFegvWpw",
-      "title": "《 The Gambler Is Coming Soon 🎰🔥》[ Hakari Manga Animation Edit ] #jjkseason3#jujutsukaisen#hakari",
-      "description": "Audio belongs to its respective owners. This content is made for entertainment under fair use. Contact me for any concerns.",
-      "thumbnail": "https://i.ytimg.com/vi/9ilyFegvWpw/hqdefault.jpg",
-      "channel": "Hajime Anime",
-      "publishedAt": "2026-01-17T20:50:24Z",
-      "url": "https://www.youtube.com/watch?v=9ilyFegvWpw",
-      "viewCount": 383345,
-      "likeCount": 10620,
-      "commentCount": 164,
-      "duration": "PT28S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269047",
-      "engagementScore": 28.56
+      "id": "YEbt34jXJWs",
+      "title": "Cant believe this is a 3D model!! by ushika",
+      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
+      "thumbnail": "https://i.ytimg.com/vi/YEbt34jXJWs/hqdefault.jpg",
+      "channel": "BlenderHub ",
+      "publishedAt": "2026-01-02T19:46:38Z",
+      "url": "https://www.youtube.com/watch?v=YEbt34jXJWs",
+      "viewCount": 423690,
+      "likeCount": 7977,
+      "commentCount": 90,
+      "duration": "PT4S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-01-28T01:26:55.672440",
+      "engagementScore": 19.25
     },
     {
       "platform": "youtube",
@@ -336,13 +336,30 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-01-06T11:04:41Z",
       "url": "https://www.youtube.com/watch?v=DSbtNdRr8hQ",
-      "viewCount": 336559,
-      "likeCount": 5442,
-      "commentCount": 37,
+      "viewCount": 338391,
+      "likeCount": 5470,
+      "commentCount": 36,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-27T01:39:59.224048",
-      "engagementScore": 16.39
+      "collectedAt": "2026-01-28T01:26:55.119484",
+      "engagementScore": 16.38
+    },
+    {
+      "platform": "youtube",
+      "id": "DSbtNdRr8hQ",
+      "title": "This is absolutely GENIUS technical! 👁️by kensyouen_Y",
+      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
+      "thumbnail": "https://i.ytimg.com/vi/DSbtNdRr8hQ/hqdefault.jpg",
+      "channel": "BlenderHub ",
+      "publishedAt": "2026-01-06T11:04:41Z",
+      "url": "https://www.youtube.com/watch?v=DSbtNdRr8hQ",
+      "viewCount": 338391,
+      "likeCount": 5470,
+      "commentCount": 36,
+      "duration": "PT4S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-01-28T01:26:55.672450",
+      "engagementScore": 16.38
     },
     {
       "platform": "youtube",
@@ -353,30 +370,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-01-03T12:16:01Z",
       "url": "https://www.youtube.com/watch?v=zB-3kGN8IXc",
-      "viewCount": 322804,
-      "likeCount": 6144,
+      "viewCount": 323550,
+      "likeCount": 6156,
       "commentCount": 61,
       "duration": "PT7S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-01-27T01:39:59.625256",
-      "engagementScore": 19.41
-    },
-    {
-      "platform": "youtube",
-      "id": "Dao7OHblRDo",
-      "title": "Anime Style in Blender by @CGDASH_",
-      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
-      "thumbnail": "https://i.ytimg.com/vi/Dao7OHblRDo/hqdefault.jpg",
-      "channel": "BlenderHub ",
-      "publishedAt": "2026-01-20T09:30:05Z",
-      "url": "https://www.youtube.com/watch?v=Dao7OHblRDo",
-      "viewCount": 304281,
-      "likeCount": 6150,
-      "commentCount": 53,
-      "duration": "PT8S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-27T01:39:59.224039",
-      "engagementScore": 20.56
+      "collectedAt": "2026-01-28T01:26:55.672437",
+      "engagementScore": 19.4
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "Stay Tooned",
       "publishedAt": "2025-12-29T23:01:04Z",
       "url": "https://www.youtube.com/watch?v=iB-176j7ONs",
-      "viewCount": 65338,
-      "likeCount": 6057,
-      "commentCount": 456,
+      "viewCount": 66171,
+      "likeCount": 6107,
+      "commentCount": 466,
       "duration": "PT4M51S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-01-27T01:39:59.224060",
-      "engagementScore": 106.66
+      "collectedAt": "2026-01-28T01:26:55.119496",
+      "engagementScore": 106.38
     },
     {
       "platform": "youtube",
@@ -406,13 +406,13 @@
       "channel": "SonduckFilm",
       "publishedAt": "2026-01-05T14:35:01Z",
       "url": "https://www.youtube.com/watch?v=8ZA55fWl0dU",
-      "viewCount": 94660,
-      "likeCount": 7520,
-      "commentCount": 70,
+      "viewCount": 97054,
+      "likeCount": 7661,
+      "commentCount": 72,
       "duration": "PT9M12S",
-      "keyword": "motion design trends",
-      "collectedAt": "2026-01-27T01:39:57.709027",
-      "engagementScore": 80.92
+      "keyword": "motion graphics 2024",
+      "collectedAt": "2026-01-28T01:26:53.082308",
+      "engagementScore": 80.42
     },
     {
       "platform": "youtube",
@@ -423,64 +423,47 @@
       "channel": "SonduckFilm",
       "publishedAt": "2026-01-05T14:35:01Z",
       "url": "https://www.youtube.com/watch?v=8ZA55fWl0dU",
-      "viewCount": 94660,
-      "likeCount": 7520,
-      "commentCount": 70,
+      "viewCount": 97054,
+      "likeCount": 7661,
+      "commentCount": 72,
+      "duration": "PT9M12S",
+      "keyword": "motion design trends",
+      "collectedAt": "2026-01-28T01:26:53.579767",
+      "engagementScore": 80.42
+    },
+    {
+      "platform": "youtube",
+      "id": "8ZA55fWl0dU",
+      "title": "10 After Effects Skills You Must Know For 2026",
+      "description": "50000+ Templates: https://www.sonduckfilm.com/ - Here are 10 After Effects skills and techniques to produce amazing motion ...",
+      "thumbnail": "https://i.ytimg.com/vi/8ZA55fWl0dU/hqdefault.jpg",
+      "channel": "SonduckFilm",
+      "publishedAt": "2026-01-05T14:35:01Z",
+      "url": "https://www.youtube.com/watch?v=8ZA55fWl0dU",
+      "viewCount": 97054,
+      "likeCount": 7661,
+      "commentCount": 72,
       "duration": "PT9M12S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269050",
-      "engagementScore": 80.92
+      "collectedAt": "2026-01-28T01:26:54.117398",
+      "engagementScore": 80.42
     },
     {
       "platform": "youtube",
-      "id": "u302hpxNDFs",
-      "title": "How To Master Saas Explainer – Full After Effects Tutorial",
-      "description": "How to master Saas Explainer – Full After Effects Tutorial 01 If you've been wanting to learn or understand how the SaaS ...",
-      "thumbnail": "https://i.ytimg.com/vi/u302hpxNDFs/hqdefault.jpg",
-      "channel": "Editwithtrix",
-      "publishedAt": "2026-01-01T19:00:06Z",
-      "url": "https://www.youtube.com/watch?v=u302hpxNDFs",
-      "viewCount": 24619,
-      "likeCount": 1640,
-      "commentCount": 148,
-      "duration": "PT1H59M51S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269064",
-      "engagementScore": 78.64
-    },
-    {
-      "platform": "youtube",
-      "id": "Jccbzpicst8",
-      "title": "Master SaaS Motion Graphics in 30 Minutes (After Effects)",
-      "description": "In this After Effects tutorial, I'll show you how to create a high-end SaaS product launch animation, inspired by companies like ...",
-      "thumbnail": "https://i.ytimg.com/vi/Jccbzpicst8/hqdefault.jpg",
-      "channel": "TomsProject",
-      "publishedAt": "2026-01-10T17:32:32Z",
-      "url": "https://www.youtube.com/watch?v=Jccbzpicst8",
-      "viewCount": 29038,
-      "likeCount": 1927,
-      "commentCount": 123,
-      "duration": "PT37M37S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269062",
-      "engagementScore": 74.83
-    },
-    {
-      "platform": "youtube",
-      "id": "fB7IGnAPBkA",
-      "title": "5 Trending Motion Graphic Styles To Know in After Effects 2026",
-      "description": "50000+ Templates: https://www.sonduckfilm.com/ - Here are 5 amazing techniques to make your motion graphics the absolute ...",
-      "thumbnail": "https://i.ytimg.com/vi/fB7IGnAPBkA/hqdefault.jpg",
+      "id": "8ZA55fWl0dU",
+      "title": "10 After Effects Skills You Must Know For 2026",
+      "description": "50000+ Templates: https://www.sonduckfilm.com/ - Here are 10 After Effects skills and techniques to produce amazing motion ...",
+      "thumbnail": "https://i.ytimg.com/vi/8ZA55fWl0dU/hqdefault.jpg",
       "channel": "SonduckFilm",
-      "publishedAt": "2026-01-12T15:20:01Z",
-      "url": "https://www.youtube.com/watch?v=fB7IGnAPBkA",
-      "viewCount": 19109,
-      "likeCount": 1269,
-      "commentCount": 25,
-      "duration": "PT7M34S",
-      "keyword": "motion design trends",
-      "collectedAt": "2026-01-27T01:39:57.709044",
-      "engagementScore": 69.03
+      "publishedAt": "2026-01-05T14:35:01Z",
+      "url": "https://www.youtube.com/watch?v=8ZA55fWl0dU",
+      "viewCount": 97054,
+      "likeCount": 7661,
+      "commentCount": 72,
+      "duration": "PT9M12S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-01-28T01:26:55.672446",
+      "engagementScore": 80.42
     },
     {
       "platform": "youtube",
@@ -491,70 +474,87 @@
       "channel": "Jake In Motion",
       "publishedAt": "2026-01-23T13:00:15Z",
       "url": "https://www.youtube.com/watch?v=6wQjuplvypI",
-      "viewCount": 75004,
-      "likeCount": 4411,
-      "commentCount": 304,
+      "viewCount": 93952,
+      "likeCount": 5198,
+      "commentCount": 329,
       "duration": "PT28M34S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269057",
-      "engagementScore": 66.92
+      "collectedAt": "2026-01-28T01:26:54.117404",
+      "engagementScore": 62.33
     },
     {
       "platform": "youtube",
-      "id": "SB8JBPvtWvA",
-      "title": "Apple-Style UI Motion Graphics in After Effects | Recreate Creatoroly Project (FREE Project Files)",
-      "description": "In this full After Effects tutorial, I recreate a clean Apple-style UI motion graphics project completely from scratch and explain every ...",
-      "thumbnail": "https://i.ytimg.com/vi/SB8JBPvtWvA/hqdefault.jpg",
-      "channel": "Mhd Labs",
-      "publishedAt": "2025-12-31T23:00:46Z",
-      "url": "https://www.youtube.com/watch?v=SB8JBPvtWvA",
-      "viewCount": 23833,
-      "likeCount": 1515,
-      "commentCount": 39,
-      "duration": "PT22M20S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269066",
-      "engagementScore": 66.84
+      "id": "6wQjuplvypI",
+      "title": "After Effects 26 Changes EVERYTHING",
+      "description": "20% off my courses, tools, and bundles this month only! https://jkinmo.com/ma6lt7 After Effects 26 is here, and Adobe packed in a ...",
+      "thumbnail": "https://i.ytimg.com/vi/6wQjuplvypI/hqdefault.jpg",
+      "channel": "Jake In Motion",
+      "publishedAt": "2026-01-23T13:00:15Z",
+      "url": "https://www.youtube.com/watch?v=6wQjuplvypI",
+      "viewCount": 93952,
+      "likeCount": 5198,
+      "commentCount": 329,
+      "duration": "PT28M34S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-01-28T01:26:55.672453",
+      "engagementScore": 62.33
     },
     {
       "platform": "youtube",
-      "id": "BMk2zTmF0jM",
-      "title": "26 After Effects PLUGINS to Use in 2026",
-      "description": "There are thousands of After Effects plugins, but most of them just slow you down. In this video, I break down the only plugins that ...",
-      "thumbnail": "https://i.ytimg.com/vi/BMk2zTmF0jM/hqdefault.jpg",
-      "channel": "Gavin Herman",
-      "publishedAt": "2026-01-01T08:00:13Z",
-      "url": "https://www.youtube.com/watch?v=BMk2zTmF0jM",
-      "viewCount": 23226,
-      "likeCount": 1380,
-      "commentCount": 37,
-      "duration": "PT12M9S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-01-27T01:39:58.269069",
-      "engagementScore": 62.6
-    },
-    {
-      "platform": "youtube",
-      "id": "sxVMb-4VFyE",
-      "title": "10 After Effects Motion Graphic Design Trends for 2026",
-      "description": "50000+ Templates: https://www.sonduckfilm.com/ - Here are 10 incredible After Effects techniques that will give you all the tricks ...",
-      "thumbnail": "https://i.ytimg.com/vi/sxVMb-4VFyE/hqdefault.jpg",
+      "id": "2bi5YcnOGkA",
+      "title": "The Biggest After Effects Update Just Changed Motion Graphics",
+      "description": "50000+ Templates: https://www.sonduckfilm.com/ - Are you ready to harness the brand new features of After Effects and create the ...",
+      "thumbnail": "https://i.ytimg.com/vi/2bi5YcnOGkA/hqdefault.jpg",
       "channel": "SonduckFilm",
-      "publishedAt": "2026-01-19T15:04:59Z",
-      "url": "https://www.youtube.com/watch?v=sxVMb-4VFyE",
-      "viewCount": 22611,
-      "likeCount": 1347,
-      "commentCount": 26,
-      "duration": "PT9M54S",
+      "publishedAt": "2026-01-26T14:55:02Z",
+      "url": "https://www.youtube.com/watch?v=2bi5YcnOGkA",
+      "viewCount": 39954,
+      "likeCount": 2005,
+      "commentCount": 67,
+      "duration": "PT8M11S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-01-28T01:26:54.117407",
+      "engagementScore": 53.54
+    },
+    {
+      "platform": "youtube",
+      "id": "2bi5YcnOGkA",
+      "title": "The Biggest After Effects Update Just Changed Motion Graphics",
+      "description": "50000+ Templates: https://www.sonduckfilm.com/ - Are you ready to harness the brand new features of After Effects and create the ...",
+      "thumbnail": "https://i.ytimg.com/vi/2bi5YcnOGkA/hqdefault.jpg",
+      "channel": "SonduckFilm",
+      "publishedAt": "2026-01-26T14:55:02Z",
+      "url": "https://www.youtube.com/watch?v=2bi5YcnOGkA",
+      "viewCount": 39954,
+      "likeCount": 2005,
+      "commentCount": 67,
+      "duration": "PT8M11S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-01-28T01:26:55.672474",
+      "engagementScore": 53.54
+    },
+    {
+      "platform": "youtube",
+      "id": "yHs9-RVTwsA",
+      "title": "Graphic Design Trends 2026 — And How to Actually Use Them!",
+      "description": "Discover the most important graphic design trends of 2026 and learn exactly how to use them the right way in your own work!",
+      "thumbnail": "https://i.ytimg.com/vi/yHs9-RVTwsA/hqdefault.jpg",
+      "channel": "Satori Graphics",
+      "publishedAt": "2026-01-06T13:00:07Z",
+      "url": "https://www.youtube.com/watch?v=yHs9-RVTwsA",
+      "viewCount": 52463,
+      "likeCount": 2289,
+      "commentCount": 87,
+      "duration": "PT13M14S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-01-27T01:39:57.709040",
-      "engagementScore": 61.87
+      "collectedAt": "2026-01-28T01:26:53.579779",
+      "engagementScore": 46.95
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 25827612,
-    "avgEngagement": 26.81
+    "totalViews": 28313302,
+    "avgEngagement": 23.11
   }
 }
