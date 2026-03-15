@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T01:48:58.324666",
+  "lastUpdated": "2026-03-15T02:05:30.018631",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -20,17 +20,17 @@
     },
     {
       "keyword": "motion graphics 2024",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "motion design trends",
-      "count": 3
+      "count": 2
     }
   ],
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 25933074
+      "totalViews": 25062234
     },
     "vimeo": {
       "count": 0,
@@ -47,12 +47,12 @@
       "channel": "Zeno3D",
       "publishedAt": "2026-03-07T21:00:00Z",
       "url": "https://www.youtube.com/watch?v=ubWs3l53EWI",
-      "viewCount": 9960165,
-      "likeCount": 43714,
+      "viewCount": 10039390,
+      "likeCount": 44050,
       "commentCount": 29,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417608",
+      "collectedAt": "2026-03-15T02:04:42.206983",
       "engagementScore": 4.39
     },
     {
@@ -64,30 +64,13 @@
       "channel": "Gmaer 3D",
       "publishedAt": "2026-02-21T10:39:41Z",
       "url": "https://www.youtube.com/watch?v=rDayPWwUhDQ",
-      "viewCount": 2304151,
-      "likeCount": 10914,
+      "viewCount": 2307906,
+      "likeCount": 10927,
       "commentCount": 5,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417616",
+      "collectedAt": "2026-03-15T02:04:42.206995",
       "engagementScore": 4.74
-    },
-    {
-      "platform": "youtube",
-      "id": "K_jnboR5V1c",
-      "title": "Satisfying 3D Dice Loop Animation 🎲✨",
-      "description": "Experience the mesmerizing flow of these 3D dice! This satisfying loop animation features a vibrant blue and neon yellow color ...",
-      "thumbnail": "https://i.ytimg.com/vi/K_jnboR5V1c/hqdefault.jpg",
-      "channel": "Z-AXIS-3D ",
-      "publishedAt": "2026-02-28T00:55:59Z",
-      "url": "https://www.youtube.com/watch?v=K_jnboR5V1c",
-      "viewCount": 2008155,
-      "likeCount": 5662,
-      "commentCount": 6,
-      "duration": "PT5S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417619",
-      "engagementScore": 2.83
     },
     {
       "platform": "youtube",
@@ -98,13 +81,13 @@
       "channel": "If Need Be",
       "publishedAt": "2026-03-07T20:38:47Z",
       "url": "https://www.youtube.com/watch?v=LuwWI2GhnKk",
-      "viewCount": 1581846,
-      "likeCount": 57022,
-      "commentCount": 388,
+      "viewCount": 1619072,
+      "likeCount": 57714,
+      "commentCount": 393,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812398",
-      "engagementScore": 36.54
+      "collectedAt": "2026-03-15T02:04:40.316946",
+      "engagementScore": 36.13
     },
     {
       "platform": "youtube",
@@ -115,13 +98,30 @@
       "channel": "BLACKPINK",
       "publishedAt": "2026-02-23T09:00:19Z",
       "url": "https://www.youtube.com/watch?v=l-_1pTW1yp4",
-      "viewCount": 1540691,
-      "likeCount": 195025,
-      "commentCount": 8613,
+      "viewCount": 1544507,
+      "likeCount": 195091,
+      "commentCount": 8610,
       "duration": "PT40S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-03-14T01:48:04.811186",
-      "engagementScore": 137.76
+      "collectedAt": "2026-03-15T02:04:39.139752",
+      "engagementScore": 137.46
+    },
+    {
+      "platform": "youtube",
+      "id": "QFI_mDk0o90",
+      "title": "Brainrot face ball falling 520 balls  #roblox #looping",
+      "description": "\"520 balls, 1 perfect loop. Experience the ultimate physics simulation in full color. Don't blink or you'll miss the reset!",
+      "thumbnail": "https://i.ytimg.com/vi/QFI_mDk0o90/hqdefault.jpg",
+      "channel": "NK edition 3D",
+      "publishedAt": "2026-03-07T14:00:00Z",
+      "url": "https://www.youtube.com/watch?v=QFI_mDk0o90",
+      "viewCount": 1020862,
+      "likeCount": 3835,
+      "commentCount": 10,
+      "duration": "PT16S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-03-15T02:04:42.207030",
+      "engagementScore": 3.78
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "MDA 3D",
       "publishedAt": "2026-02-27T13:42:41Z",
       "url": "https://www.youtube.com/watch?v=RAPShoV06ds",
-      "viewCount": 913297,
-      "likeCount": 3582,
+      "viewCount": 953971,
+      "likeCount": 3721,
       "commentCount": 2,
       "duration": "PT16S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417622",
-      "engagementScore": 3.93
+      "collectedAt": "2026-03-15T02:04:42.206999",
+      "engagementScore": 3.9
     },
     {
       "platform": "youtube",
@@ -149,13 +149,13 @@
       "channel": "Gmaer 3D",
       "publishedAt": "2026-02-24T12:00:33Z",
       "url": "https://www.youtube.com/watch?v=Gsy1Ar980fI",
-      "viewCount": 825728,
+      "viewCount": 827279,
       "likeCount": 3761,
       "commentCount": 2,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417625",
-      "engagementScore": 4.56
+      "collectedAt": "2026-03-15T02:04:42.207025",
+      "engagementScore": 4.55
     },
     {
       "platform": "youtube",
@@ -166,13 +166,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-03-07T23:00:16Z",
       "url": "https://www.youtube.com/watch?v=J3wp9P_q5k8",
-      "viewCount": 644161,
-      "likeCount": 2683,
+      "viewCount": 657100,
+      "likeCount": 2718,
       "commentCount": 7,
       "duration": "PT20S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417630",
-      "engagementScore": 4.19
+      "collectedAt": "2026-03-15T02:04:42.207037",
+      "engagementScore": 4.16
     },
     {
       "platform": "youtube",
@@ -183,13 +183,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-03-09T23:00:12Z",
       "url": "https://www.youtube.com/watch?v=EWABSaPhd44",
-      "viewCount": 589280,
-      "likeCount": 2044,
+      "viewCount": 591932,
+      "likeCount": 2058,
       "commentCount": 4,
       "duration": "PT12S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-03-14T01:48:06.749704",
-      "engagementScore": 3.48
+      "collectedAt": "2026-03-15T02:04:41.627490",
+      "engagementScore": 3.49
     },
     {
       "platform": "youtube",
@@ -200,13 +200,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-03-09T23:00:12Z",
       "url": "https://www.youtube.com/watch?v=EWABSaPhd44",
-      "viewCount": 589280,
-      "likeCount": 2044,
+      "viewCount": 591932,
+      "likeCount": 2058,
       "commentCount": 4,
       "duration": "PT12S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417637",
-      "engagementScore": 3.48
+      "collectedAt": "2026-03-15T02:04:42.207041",
+      "engagementScore": 3.49
     },
     {
       "platform": "youtube",
@@ -217,12 +217,12 @@
       "channel": "Framer3D",
       "publishedAt": "2026-02-14T12:01:16Z",
       "url": "https://www.youtube.com/watch?v=lKNhfLmM8Z0",
-      "viewCount": 538843,
-      "likeCount": 1977,
+      "viewCount": 541084,
+      "likeCount": 1984,
       "commentCount": 4,
       "duration": "PT10S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417639",
+      "collectedAt": "2026-03-15T02:04:42.207048",
       "engagementScore": 3.68
     },
     {
@@ -234,13 +234,13 @@
       "channel": "MDA 3D",
       "publishedAt": "2026-02-19T12:43:38Z",
       "url": "https://www.youtube.com/watch?v=-iynu-3qduA",
-      "viewCount": 529487,
-      "likeCount": 2053,
+      "viewCount": 540743,
+      "likeCount": 2090,
       "commentCount": 4,
       "duration": "PT19S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417642",
-      "engagementScore": 3.89
+      "collectedAt": "2026-03-15T02:04:42.207045",
+      "engagementScore": 3.88
     },
     {
       "platform": "youtube",
@@ -251,13 +251,13 @@
       "channel": "VAL",
       "publishedAt": "2026-02-16T23:30:11Z",
       "url": "https://www.youtube.com/watch?v=SRQo00My3Q0",
-      "viewCount": 305421,
-      "likeCount": 2151,
+      "viewCount": 307509,
+      "likeCount": 2172,
       "commentCount": 14,
       "duration": "PT7S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812418",
-      "engagementScore": 7.13
+      "collectedAt": "2026-03-15T02:04:40.316967",
+      "engagementScore": 7.15
     },
     {
       "platform": "youtube",
@@ -268,30 +268,13 @@
       "channel": "Spider-Man TEAM",
       "publishedAt": "2026-02-27T02:45:02Z",
       "url": "https://www.youtube.com/watch?v=SLIdz_sdqBs",
-      "viewCount": 278715,
+      "viewCount": 278773,
       "likeCount": 0,
       "commentCount": 2,
       "duration": "PT15S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-03-14T01:48:06.308001",
+      "collectedAt": "2026-03-15T02:04:40.970748",
       "engagementScore": 0.01
-    },
-    {
-      "platform": "youtube",
-      "id": "qhg2LJVEyuE",
-      "title": "Happy Women’s Day Celebration | Women’s Day Wishes Status | March 8 Special",
-      "description": "Happy Women's Day Celebration | Women's Day Wishes Status | March 8 Special Description: Celebrate the strength, love, and ...",
-      "thumbnail": "https://i.ytimg.com/vi/qhg2LJVEyuE/hqdefault.jpg",
-      "channel": "RT Nandhu's World",
-      "publishedAt": "2026-03-07T11:30:48Z",
-      "url": "https://www.youtube.com/watch?v=qhg2LJVEyuE",
-      "viewCount": 270235,
-      "likeCount": 1968,
-      "commentCount": 22,
-      "duration": "PT10S",
-      "keyword": "motion graphics 2024",
-      "collectedAt": "2026-03-14T01:48:04.811198",
-      "engagementScore": 7.45
     },
     {
       "platform": "youtube",
@@ -302,13 +285,13 @@
       "channel": "Knightcube 3D",
       "publishedAt": "2026-03-04T05:30:00Z",
       "url": "https://www.youtube.com/watch?v=4dqlWkYCQwU",
-      "viewCount": 267120,
-      "likeCount": 594,
+      "viewCount": 277041,
+      "likeCount": 622,
       "commentCount": 0,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-03-14T01:48:06.749731",
-      "engagementScore": 2.22
+      "collectedAt": "2026-03-15T02:04:41.627517",
+      "engagementScore": 2.25
     },
     {
       "platform": "youtube",
@@ -319,13 +302,47 @@
       "channel": "レイ徒🇯🇵",
       "publishedAt": "2026-02-22T11:15:01Z",
       "url": "https://www.youtube.com/watch?v=I4VtLbrwKRk",
-      "viewCount": 266244,
-      "likeCount": 8792,
-      "commentCount": 550,
+      "viewCount": 275403,
+      "likeCount": 9005,
+      "commentCount": 561,
       "duration": "PT35S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812408",
-      "engagementScore": 37.15
+      "collectedAt": "2026-03-15T02:04:40.316961",
+      "engagementScore": 36.77
+    },
+    {
+      "platform": "youtube",
+      "id": "qhg2LJVEyuE",
+      "title": "Happy Women’s Day Celebration | Women’s Day Wishes Status | March 8 Special",
+      "description": "Happy Women's Day Celebration | Women's Day Wishes Status | March 8 Special Description: Celebrate the strength, love, and ...",
+      "thumbnail": "https://i.ytimg.com/vi/qhg2LJVEyuE/hqdefault.jpg",
+      "channel": "RT Nandhu's World",
+      "publishedAt": "2026-03-07T11:30:48Z",
+      "url": "https://www.youtube.com/watch?v=qhg2LJVEyuE",
+      "viewCount": 270500,
+      "likeCount": 1969,
+      "commentCount": 22,
+      "duration": "PT10S",
+      "keyword": "motion graphics 2024",
+      "collectedAt": "2026-03-15T02:04:39.139765",
+      "engagementScore": 7.44
+    },
+    {
+      "platform": "youtube",
+      "id": "6OEa3i3CsKs",
+      "title": "Instagram Viral Text Reels Tutorial | Instagram Trending Text Effect Reels Editing | Fisheye Text",
+      "description": "Instagram Viral Text Reels Tutorial | Instagram Trending Text Effect Reels Editing | Fisheye Text Telegram Link ...",
+      "thumbnail": "https://i.ytimg.com/vi/6OEa3i3CsKs/hqdefault.jpg",
+      "channel": "Tech Lokesh",
+      "publishedAt": "2026-03-08T06:10:07Z",
+      "url": "https://www.youtube.com/watch?v=6OEa3i3CsKs",
+      "viewCount": 264078,
+      "likeCount": 3830,
+      "commentCount": 50,
+      "duration": "PT31S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-03-15T02:04:40.316957",
+      "engagementScore": 14.88
     },
     {
       "platform": "youtube",
@@ -336,13 +353,13 @@
       "channel": "Lytta_qwincc",
       "publishedAt": "2026-02-17T11:05:14Z",
       "url": "https://www.youtube.com/watch?v=1UEMau403ms",
-      "viewCount": 252514,
+      "viewCount": 257998,
       "likeCount": 0,
-      "commentCount": 115,
+      "commentCount": 114,
       "duration": "PT24S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812412",
-      "engagementScore": 0.91
+      "collectedAt": "2026-03-15T02:04:40.316964",
+      "engagementScore": 0.88
     },
     {
       "platform": "youtube",
@@ -353,30 +370,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-03-02T12:06:52Z",
       "url": "https://www.youtube.com/watch?v=rL8tI-kP7Ao",
-      "viewCount": 229469,
-      "likeCount": 2547,
+      "viewCount": 231079,
+      "likeCount": 2570,
       "commentCount": 39,
       "duration": "PT6S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-03-14T01:48:06.749722",
-      "engagementScore": 11.44
-    },
-    {
-      "platform": "youtube",
-      "id": "CpoH9TGrwaE",
-      "title": "Seedance 2.0 destroys Kling 3.0 and Veo 3 + Access",
-      "description": "Seedance 2.0 is absolutely insane I wasn't really into versions 1.0 and 1.5 and didn't use them at all. But after running several ...",
-      "thumbnail": "https://i.ytimg.com/vi/CpoH9TGrwaE/hqdefault.jpg",
-      "channel": "re4ee",
-      "publishedAt": "2026-02-14T12:28:42Z",
-      "url": "https://www.youtube.com/watch?v=CpoH9TGrwaE",
-      "viewCount": 222025,
-      "likeCount": 4979,
-      "commentCount": 354,
-      "duration": "PT7M9S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-03-14T01:48:07.417628",
-      "engagementScore": 25.61
+      "collectedAt": "2026-03-15T02:04:41.627510",
+      "engagementScore": 11.46
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "BLACKPINK",
       "publishedAt": "2026-02-23T09:00:19Z",
       "url": "https://www.youtube.com/watch?v=l-_1pTW1yp4",
-      "viewCount": 1540691,
-      "likeCount": 195025,
-      "commentCount": 8613,
+      "viewCount": 1544507,
+      "likeCount": 195091,
+      "commentCount": 8610,
       "duration": "PT40S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-03-14T01:48:04.811186",
-      "engagementScore": 137.76
+      "collectedAt": "2026-03-15T02:04:39.139752",
+      "engagementScore": 137.46
     },
     {
       "platform": "youtube",
@@ -406,13 +406,30 @@
       "channel": "NaughtyyJuan",
       "publishedAt": "2026-02-25T21:01:35Z",
       "url": "https://www.youtube.com/watch?v=y5Q-AhxPh9A",
-      "viewCount": 59105,
-      "likeCount": 5766,
-      "commentCount": 113,
+      "viewCount": 60680,
+      "likeCount": 5873,
+      "commentCount": 115,
       "duration": "PT16M41S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812432",
-      "engagementScore": 101.38
+      "collectedAt": "2026-03-15T02:04:40.316978",
+      "engagementScore": 100.58
+    },
+    {
+      "platform": "youtube",
+      "id": "xK-V827sz-k",
+      "title": "so did you love this human made art?😁 #3dartist #blendertutorial #blenderguru #blender3d #blender",
+      "description": "Can you believe 90% of this was done in just 4-5 hours. Only the little tweaking took half a day. But, it was worth it, right?",
+      "thumbnail": "https://i.ytimg.com/vi/xK-V827sz-k/hqdefault.jpg",
+      "channel": "Rosepixels",
+      "publishedAt": "2026-03-11T18:31:30Z",
+      "url": "https://www.youtube.com/watch?v=xK-V827sz-k",
+      "viewCount": 36054,
+      "likeCount": 3234,
+      "commentCount": 62,
+      "duration": "PT14S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-03-15T02:04:41.627527",
+      "engagementScore": 93.14
     },
     {
       "platform": "youtube",
@@ -423,13 +440,13 @@
       "channel": "CONTROL Z",
       "publishedAt": "2026-02-27T11:35:00Z",
       "url": "https://www.youtube.com/watch?v=5qQHTLiIhdQ",
-      "viewCount": 8493,
-      "likeCount": 715,
+      "viewCount": 8544,
+      "likeCount": 717,
       "commentCount": 20,
       "duration": "PT1M13S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-03-14T01:48:04.811202",
-      "engagementScore": 88.9
+      "collectedAt": "2026-03-15T02:04:39.139773",
+      "engagementScore": 88.6
     },
     {
       "platform": "youtube",
@@ -440,13 +457,13 @@
       "channel": "Kram.Visuals",
       "publishedAt": "2026-02-15T09:55:58Z",
       "url": "https://www.youtube.com/watch?v=_BFmg7xa0E8",
-      "viewCount": 2835,
+      "viewCount": 2857,
       "likeCount": 160,
       "commentCount": 32,
       "duration": "PT19S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-03-14T01:48:06.308083",
-      "engagementScore": 79.01
+      "collectedAt": "2026-03-15T02:04:40.970787",
+      "engagementScore": 78.4
     },
     {
       "platform": "youtube",
@@ -457,13 +474,13 @@
       "channel": "Ducky 3D",
       "publishedAt": "2026-02-23T17:38:16Z",
       "url": "https://www.youtube.com/watch?v=HUncjp9xA-M",
-      "viewCount": 28696,
-      "likeCount": 1883,
+      "viewCount": 28852,
+      "likeCount": 1888,
       "commentCount": 93,
       "duration": "PT21M44S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-03-14T01:48:06.749744",
-      "engagementScore": 72.1
+      "collectedAt": "2026-03-15T02:04:41.627520",
+      "engagementScore": 71.88
     },
     {
       "platform": "youtube",
@@ -474,13 +491,13 @@
       "channel": "NOYON EDITS",
       "publishedAt": "2026-03-01T12:41:46Z",
       "url": "https://www.youtube.com/watch?v=OXOxTgliegU",
-      "viewCount": 2656,
+      "viewCount": 2690,
       "likeCount": 108,
       "commentCount": 41,
       "duration": "PT26S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-03-14T01:48:04.811206",
-      "engagementScore": 71.54
+      "collectedAt": "2026-03-15T02:04:39.139776",
+      "engagementScore": 70.63
     },
     {
       "platform": "youtube",
@@ -491,70 +508,53 @@
       "channel": "Aasil Khan",
       "publishedAt": "2026-02-27T11:48:52Z",
       "url": "https://www.youtube.com/watch?v=4oNTuPmhgx0",
-      "viewCount": 46778,
-      "likeCount": 2810,
-      "commentCount": 158,
+      "viewCount": 48253,
+      "likeCount": 2883,
+      "commentCount": 159,
       "duration": "PT16M39S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812435",
-      "engagementScore": 66.83
+      "collectedAt": "2026-03-15T02:04:40.316984",
+      "engagementScore": 66.34
     },
     {
       "platform": "youtube",
-      "id": "ZGzuckJxGQc",
-      "title": "Tutorial trend I&#39;m not cute anymore 💕#imnotcuteanymore #animation #animationmeme #aftereffects",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ZGzuckJxGQc/hqdefault.jpg",
-      "channel": "Chorloms",
-      "publishedAt": "2026-03-04T17:50:01Z",
-      "url": "https://www.youtube.com/watch?v=ZGzuckJxGQc",
-      "viewCount": 161653,
-      "likeCount": 9867,
-      "commentCount": 66,
-      "duration": "PT1M12S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812424",
-      "engagementScore": 61.85
+      "id": "-yMp5_AqEag",
+      "title": "Create INSANE 3D Camera Animation in After Effects | Full Detailed Tutorial In Hindi (Step-by-Step)",
+      "description": "In this complete After Effects tutorial, I will show you how to create INSANE cinematic 3D camera animation step-by-step.",
+      "thumbnail": "https://i.ytimg.com/vi/-yMp5_AqEag/hqdefault.jpg",
+      "channel": "MotionAstra",
+      "publishedAt": "2026-02-16T11:00:01Z",
+      "url": "https://www.youtube.com/watch?v=-yMp5_AqEag",
+      "viewCount": 34521,
+      "likeCount": 1966,
+      "commentCount": 142,
+      "duration": "PT21M27S",
+      "keyword": "motion graphics 2024",
+      "collectedAt": "2026-03-15T02:04:39.139769",
+      "engagementScore": 65.18
     },
     {
       "platform": "youtube",
-      "id": "f3O1aWNTKNQ",
-      "title": "Make Cinematic Motion Graphic Stories in After Effects",
-      "description": "7500+ After Effects Presets: https://bit.ly/AnimationPresetPack - Your motion graphics are only as good as your story. And After ...",
-      "thumbnail": "https://i.ytimg.com/vi/f3O1aWNTKNQ/hqdefault.jpg",
-      "channel": "SonduckFilm",
-      "publishedAt": "2026-02-16T14:55:00Z",
-      "url": "https://www.youtube.com/watch?v=f3O1aWNTKNQ",
-      "viewCount": 107516,
-      "likeCount": 6402,
-      "commentCount": 106,
-      "duration": "PT9M41S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-03-14T01:48:05.812421",
-      "engagementScore": 61.52
-    },
-    {
-      "platform": "youtube",
-      "id": "TTvG22tkggw",
-      "title": "Motion Design Showreel | Product Videos",
-      "description": "Motion Design Showreel | Nazar Butolin x Astra Motion Concept, Creative Direction, Script, Storyboards - done by Astra Motion ...",
-      "thumbnail": "https://i.ytimg.com/vi/TTvG22tkggw/hqdefault.jpg",
-      "channel": "Nazar B.",
-      "publishedAt": "2026-02-13T09:34:57Z",
-      "url": "https://www.youtube.com/watch?v=TTvG22tkggw",
-      "viewCount": 425,
-      "likeCount": 22,
-      "commentCount": 2,
-      "duration": "PT55S",
-      "keyword": "motion design trends",
-      "collectedAt": "2026-03-14T01:48:05.322123",
-      "engagementScore": 61.18
+      "id": "5G2lV-pVPD0",
+      "title": "Powerful Particle Flow Animation in Blender 5.0",
+      "description": "In this Blender motion graphics tutorial we will be making a particle system that uses a repeat zone to make the animation more ...",
+      "thumbnail": "https://i.ytimg.com/vi/5G2lV-pVPD0/hqdefault.jpg",
+      "channel": "Ducky 3D",
+      "publishedAt": "2026-02-26T17:00:07Z",
+      "url": "https://www.youtube.com/watch?v=5G2lV-pVPD0",
+      "viewCount": 17886,
+      "likeCount": 987,
+      "commentCount": 70,
+      "duration": "PT17M59S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-03-15T02:04:41.627523",
+      "engagementScore": 63.01
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 25933074,
-    "avgEngagement": 27.5
+    "totalViews": 25062234,
+    "avgEngagement": 30.21
   }
 }
