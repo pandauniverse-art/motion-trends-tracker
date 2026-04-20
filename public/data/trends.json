@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T02:25:43.352661",
+  "lastUpdated": "2026-04-20T02:26:21.186952",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -30,7 +30,7 @@
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 59284744
+      "totalViews": 60150392
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,13 @@
       "channel": "RenaissanceVirtual",
       "publishedAt": "2026-03-31T04:25:59Z",
       "url": "https://www.youtube.com/watch?v=vO7gH0eRjl8",
-      "viewCount": 21340956,
-      "likeCount": 327586,
-      "commentCount": 4579,
+      "viewCount": 21926727,
+      "likeCount": 333914,
+      "commentCount": 4662,
       "duration": "PT16S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-04-19T02:25:00.731848",
-      "engagementScore": 15.78
+      "collectedAt": "2026-04-20T02:25:38.971035",
+      "engagementScore": 15.65
     },
     {
       "platform": "youtube",
@@ -64,12 +64,12 @@
       "channel": "ToothCraft",
       "publishedAt": "2026-04-10T14:00:21Z",
       "url": "https://www.youtube.com/watch?v=Bw2zNRTeyBs",
-      "viewCount": 4496520,
+      "viewCount": 4785703,
       "likeCount": 0,
-      "commentCount": 180,
+      "commentCount": 193,
       "duration": "PT46S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713404",
+      "collectedAt": "2026-04-20T02:25:37.933134",
       "engagementScore": 0.08
     },
     {
@@ -81,13 +81,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-04-04T10:00:03Z",
       "url": "https://www.youtube.com/watch?v=1XY_1CKuwpM",
-      "viewCount": 4091282,
-      "likeCount": 17785,
+      "viewCount": 4245955,
+      "likeCount": 18529,
       "commentCount": 22,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-04-19T02:25:00.731861",
-      "engagementScore": 4.36
+      "collectedAt": "2026-04-20T02:25:38.971045",
+      "engagementScore": 4.37
     },
     {
       "platform": "youtube",
@@ -98,13 +98,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-04-04T10:00:03Z",
       "url": "https://www.youtube.com/watch?v=1XY_1CKuwpM",
-      "viewCount": 4091282,
-      "likeCount": 17785,
+      "viewCount": 4245955,
+      "likeCount": 18529,
       "commentCount": 22,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276259",
-      "engagementScore": 4.36
+      "collectedAt": "2026-04-20T02:25:39.457806",
+      "engagementScore": 4.37
     },
     {
       "platform": "youtube",
@@ -115,13 +115,13 @@
       "channel": "VAL",
       "publishedAt": "2026-03-24T23:30:02Z",
       "url": "https://www.youtube.com/watch?v=74Td59hM9x0",
-      "viewCount": 3549487,
-      "likeCount": 15007,
-      "commentCount": 238,
+      "viewCount": 3760798,
+      "likeCount": 15774,
+      "commentCount": 252,
       "duration": "PT11S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713416",
-      "engagementScore": 4.36
+      "collectedAt": "2026-04-20T02:25:37.933144",
+      "engagementScore": 4.33
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "Jax 3D",
       "publishedAt": "2026-04-14T01:05:11Z",
       "url": "https://www.youtube.com/watch?v=h57yA-1WhWU",
-      "viewCount": 2646877,
-      "likeCount": 10546,
+      "viewCount": 2671685,
+      "likeCount": 10673,
       "commentCount": 4,
       "duration": "PT19S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276272",
-      "engagementScore": 3.99
+      "collectedAt": "2026-04-20T02:25:39.457823",
+      "engagementScore": 4.0
     },
     {
       "platform": "youtube",
@@ -149,12 +149,12 @@
       "channel": "Framer3D",
       "publishedAt": "2026-04-14T10:01:37Z",
       "url": "https://www.youtube.com/watch?v=yyfeulbHw9A",
-      "viewCount": 2267270,
-      "likeCount": 10062,
-      "commentCount": 10,
+      "viewCount": 2504024,
+      "likeCount": 11122,
+      "commentCount": 11,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-04-19T02:25:00.731866",
+      "collectedAt": "2026-04-20T02:25:38.971049",
       "engagementScore": 4.45
     },
     {
@@ -166,12 +166,12 @@
       "channel": "Framer3D",
       "publishedAt": "2026-04-14T10:01:37Z",
       "url": "https://www.youtube.com/watch?v=yyfeulbHw9A",
-      "viewCount": 2267270,
-      "likeCount": 10062,
-      "commentCount": 10,
+      "viewCount": 2504024,
+      "likeCount": 11122,
+      "commentCount": 11,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276276",
+      "collectedAt": "2026-04-20T02:25:39.457819",
       "engagementScore": 4.45
     },
     {
@@ -183,13 +183,13 @@
       "channel": "ARRiverse",
       "publishedAt": "2026-04-10T10:37:17Z",
       "url": "https://www.youtube.com/watch?v=U2GLsdftmOE",
-      "viewCount": 1825678,
-      "likeCount": 32637,
-      "commentCount": 187,
+      "viewCount": 1842997,
+      "likeCount": 33572,
+      "commentCount": 194,
       "duration": "PT2M",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713420",
-      "engagementScore": 18.08
+      "collectedAt": "2026-04-20T02:25:37.933148",
+      "engagementScore": 18.43
     },
     {
       "platform": "youtube",
@@ -200,12 +200,12 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-03-25T09:30:27Z",
       "url": "https://www.youtube.com/watch?v=ojQcIUcfbCo",
-      "viewCount": 1522980,
+      "viewCount": 1523150,
       "likeCount": 15187,
       "commentCount": 86,
       "duration": "PT4S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-04-19T02:25:00.731869",
+      "collectedAt": "2026-04-20T02:25:38.971052",
       "engagementScore": 10.08
     },
     {
@@ -217,12 +217,12 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-03-25T09:30:27Z",
       "url": "https://www.youtube.com/watch?v=ojQcIUcfbCo",
-      "viewCount": 1522979,
+      "viewCount": 1523150,
       "likeCount": 15187,
       "commentCount": 86,
       "duration": "PT4S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276281",
+      "collectedAt": "2026-04-20T02:25:39.457828",
       "engagementScore": 10.08
     },
     {
@@ -234,13 +234,13 @@
       "channel": "Consoles To Cinema",
       "publishedAt": "2026-03-31T16:00:00Z",
       "url": "https://www.youtube.com/watch?v=5qvwDeWR9Rw",
-      "viewCount": 1308553,
-      "likeCount": 37360,
-      "commentCount": 448,
+      "viewCount": 1378836,
+      "likeCount": 39727,
+      "commentCount": 471,
       "duration": "PT35S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713422",
-      "engagementScore": 29.24
+      "collectedAt": "2026-04-20T02:25:37.933151",
+      "engagementScore": 29.5
     },
     {
       "platform": "youtube",
@@ -251,30 +251,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-03-27T12:00:00Z",
       "url": "https://www.youtube.com/watch?v=JExqJ0hcEEc",
-      "viewCount": 1220616,
+      "viewCount": 1220712,
       "likeCount": 14254,
       "commentCount": 123,
       "duration": "PT6S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276284",
+      "collectedAt": "2026-04-20T02:25:39.457831",
       "engagementScore": 11.88
-    },
-    {
-      "platform": "youtube",
-      "id": "rPhRvhLRCms",
-      "title": "Omni-Man Educating Children | Invincible (2026) | HEAVENLY JUMPSTYLE (slowed) #edit #shorts",
-      "description": "Omni-Man Educating Children | Invincible (2026) | HEAVENLY JUMPSTYLE (slowed) #movieedits #film #movie #action #fighting ...",
-      "thumbnail": "https://i.ytimg.com/vi/rPhRvhLRCms/hqdefault.jpg",
-      "channel": "Shaun AK",
-      "publishedAt": "2026-03-20T13:31:08Z",
-      "url": "https://www.youtube.com/watch?v=rPhRvhLRCms",
-      "viewCount": 901261,
-      "likeCount": 23324,
-      "commentCount": 216,
-      "duration": "PT46S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713425",
-      "engagementScore": 26.36
     },
     {
       "platform": "youtube",
@@ -285,13 +268,13 @@
       "channel": "VAL",
       "publishedAt": "2026-04-14T23:30:12Z",
       "url": "https://www.youtube.com/watch?v=_f4QIDIXiBM",
-      "viewCount": 761663,
-      "likeCount": 5565,
-      "commentCount": 74,
+      "viewCount": 777633,
+      "likeCount": 5636,
+      "commentCount": 75,
       "duration": "PT14S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713429",
-      "engagementScore": 7.5
+      "collectedAt": "2026-04-20T02:25:37.933154",
+      "engagementScore": 7.44
     },
     {
       "platform": "youtube",
@@ -302,30 +285,13 @@
       "channel": "BlenderHub ",
       "publishedAt": "2026-04-08T18:49:35Z",
       "url": "https://www.youtube.com/watch?v=3MtlO6yj7Ho",
-      "viewCount": 590983,
-      "likeCount": 12468,
-      "commentCount": 122,
+      "viewCount": 603396,
+      "likeCount": 12789,
+      "commentCount": 124,
       "duration": "PT26S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-04-19T02:25:00.731873",
-      "engagementScore": 21.51
-    },
-    {
-      "platform": "youtube",
-      "id": "3MtlO6yj7Ho",
-      "title": "Insane modeling process in blender by kensyouen_Y",
-      "description": "SUBSCRIBE FOR MORE Blender tips WHO IS BlenderHub? BlenderHub is for blender 3d artists, we create and share blender ...",
-      "thumbnail": "https://i.ytimg.com/vi/3MtlO6yj7Ho/hqdefault.jpg",
-      "channel": "BlenderHub ",
-      "publishedAt": "2026-04-08T18:49:35Z",
-      "url": "https://www.youtube.com/watch?v=3MtlO6yj7Ho",
-      "viewCount": 590983,
-      "likeCount": 12468,
-      "commentCount": 122,
-      "duration": "PT26S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276287",
-      "engagementScore": 21.51
+      "collectedAt": "2026-04-20T02:25:38.971055",
+      "engagementScore": 21.61
     },
     {
       "platform": "youtube",
@@ -336,13 +302,30 @@
       "channel": "Framer3D",
       "publishedAt": "2026-04-08T10:00:39Z",
       "url": "https://www.youtube.com/watch?v=LgK8Lx0_bMA",
-      "viewCount": 535245,
-      "likeCount": 2669,
+      "viewCount": 545766,
+      "likeCount": 2722,
       "commentCount": 3,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276291",
+      "collectedAt": "2026-04-20T02:25:39.457834",
       "engagementScore": 5.0
+    },
+    {
+      "platform": "youtube",
+      "id": "IeNtBavaGgQ",
+      "title": "Smart House: Plumbing errors #moderndesign #design #architecture #aftereffects",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/IeNtBavaGgQ/hqdefault.jpg",
+      "channel": "FINE DESIGNS",
+      "publishedAt": "2026-04-10T08:11:18Z",
+      "url": "https://www.youtube.com/watch?v=IeNtBavaGgQ",
+      "viewCount": 515468,
+      "likeCount": 2024,
+      "commentCount": 8,
+      "duration": "PT29S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-04-20T02:25:37.933160",
+      "engagementScore": 3.96
     },
     {
       "platform": "youtube",
@@ -353,12 +336,12 @@
       "channel": "Geometry Monster",
       "publishedAt": "2026-04-01T15:00:56Z",
       "url": "https://www.youtube.com/watch?v=nRDfngXLWBU",
-      "viewCount": 462745,
-      "likeCount": 1389,
+      "viewCount": 463031,
+      "likeCount": 1390,
       "commentCount": 1,
       "duration": "PT8S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-04-19T02:25:01.276303",
+      "collectedAt": "2026-04-20T02:25:39.457841",
       "engagementScore": 3.01
     },
     {
@@ -370,32 +353,49 @@
       "channel": "NK edition 3D",
       "publishedAt": "2026-04-12T13:30:00Z",
       "url": "https://www.youtube.com/watch?v=Ti-JMkKuH50",
-      "viewCount": 422904,
-      "likeCount": 1395,
+      "viewCount": 436960,
+      "likeCount": 1480,
       "commentCount": 12,
       "duration": "PT5S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713445",
-      "engagementScore": 3.36
+      "collectedAt": "2026-04-20T02:25:37.933174",
+      "engagementScore": 3.44
+    },
+    {
+      "platform": "youtube",
+      "id": "dmr1r8jbSBE",
+      "title": "0% Soft vs 100% Soft... Ball vs Cone #blender3d  #satisfying",
+      "description": "blender3d #cgianimation #satisfying #asmr #blender #softbodysimulation #blendersimulation #asmranimation.",
+      "thumbnail": "https://i.ytimg.com/vi/dmr1r8jbSBE/hqdefault.jpg",
+      "channel": "RenaissanceVirtual",
+      "publishedAt": "2026-03-29T08:50:33Z",
+      "url": "https://www.youtube.com/watch?v=dmr1r8jbSBE",
+      "viewCount": 395017,
+      "likeCount": 3367,
+      "commentCount": 70,
+      "duration": "PT15S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-04-20T02:25:38.971058",
+      "engagementScore": 8.88
     }
   ],
   "topEngagement": [
     {
       "platform": "youtube",
-      "id": "XNUOhv3L9rw",
-      "title": "If i Animated Invincible",
-      "description": "I added some extra lighting and compositing to INVINCIBLE. Also for those mad about the title, it was chosen because it performs ...",
-      "thumbnail": "https://i.ytimg.com/vi/XNUOhv3L9rw/hqdefault.jpg",
-      "channel": "Team Maguire",
-      "publishedAt": "2026-04-08T15:01:03Z",
-      "url": "https://www.youtube.com/watch?v=XNUOhv3L9rw",
-      "viewCount": 217322,
-      "likeCount": 14371,
-      "commentCount": 1706,
-      "duration": "PT1M14S",
+      "id": "1gIbZh_TBQo",
+      "title": "After Effects｜イラスト1枚でできるキャラクターの動かし方｜How I made this animation MV",
+      "description": "00:00 オープニング Opening 00:18 イラストの作画 drawing Illustration 01:11 アンカーポイントの設定 Set the anchor point 01:56 ...",
+      "thumbnail": "https://i.ytimg.com/vi/1gIbZh_TBQo/hqdefault.jpg",
+      "channel": "湯川 Yukawa",
+      "publishedAt": "2026-04-12T11:00:05Z",
+      "url": "https://www.youtube.com/watch?v=1gIbZh_TBQo",
+      "viewCount": 80664,
+      "likeCount": 14501,
+      "commentCount": 86,
+      "duration": "PT5M4S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713432",
-      "engagementScore": 81.83
+      "collectedAt": "2026-04-20T02:25:37.933177",
+      "engagementScore": 181.9
     },
     {
       "platform": "youtube",
@@ -406,13 +406,13 @@
       "channel": "Fadlan eFc | 3D Logo Animation",
       "publishedAt": "2026-03-24T17:44:15Z",
       "url": "https://www.youtube.com/watch?v=zmuzEPIWbUg",
-      "viewCount": 1176,
+      "viewCount": 1177,
       "likeCount": 63,
       "commentCount": 4,
       "duration": "PT1M14S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-04-19T02:24:58.522452",
-      "engagementScore": 60.37
+      "collectedAt": "2026-04-20T02:25:36.914915",
+      "engagementScore": 60.32
     },
     {
       "platform": "youtube",
@@ -423,13 +423,30 @@
       "channel": "Saptarshi Prakash",
       "publishedAt": "2026-03-31T13:30:37Z",
       "url": "https://www.youtube.com/watch?v=oS6yrgwSIqc",
-      "viewCount": 10626,
-      "likeCount": 548,
+      "viewCount": 10698,
+      "likeCount": 554,
       "commentCount": 38,
       "duration": "PT7M16S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-04-19T02:24:59.022404",
-      "engagementScore": 58.72
+      "collectedAt": "2026-04-20T02:25:37.359657",
+      "engagementScore": 58.89
+    },
+    {
+      "platform": "youtube",
+      "id": "abbGrS-td4Y",
+      "title": "Vray Now Free For Blender Community!  🎉",
+      "description": "Vray is now available for the blender community for free. Grab Vray For Free: https://www.chaos.com/vray/blender/community ...",
+      "thumbnail": "https://i.ytimg.com/vi/abbGrS-td4Y/hqdefault.jpg",
+      "channel": "askNK",
+      "publishedAt": "2026-04-15T18:00:03Z",
+      "url": "https://www.youtube.com/watch?v=abbGrS-td4Y",
+      "viewCount": 46847,
+      "likeCount": 2065,
+      "commentCount": 236,
+      "duration": "PT12M25S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-04-20T02:25:38.971074",
+      "engagementScore": 54.16
     },
     {
       "platform": "youtube",
@@ -440,13 +457,13 @@
       "channel": "School of Motion",
       "publishedAt": "2026-03-30T11:26:03Z",
       "url": "https://www.youtube.com/watch?v=KGAN0TWt9jg",
-      "viewCount": 14108,
-      "likeCount": 644,
+      "viewCount": 14145,
+      "likeCount": 645,
       "commentCount": 55,
       "duration": "PT12M10S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-04-19T02:25:00.238052",
-      "engagementScore": 53.44
+      "collectedAt": "2026-04-20T02:25:38.386743",
+      "engagementScore": 53.38
     },
     {
       "platform": "youtube",
@@ -457,13 +474,13 @@
       "channel": "Yaroflasher",
       "publishedAt": "2026-03-30T18:00:00Z",
       "url": "https://www.youtube.com/watch?v=ikPGQGoUjQ0",
-      "viewCount": 49475,
-      "likeCount": 2174,
-      "commentCount": 137,
+      "viewCount": 50436,
+      "likeCount": 2216,
+      "commentCount": 139,
       "duration": "PT13M7S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-04-19T02:25:00.238044",
-      "engagementScore": 49.48
+      "collectedAt": "2026-04-20T02:25:38.386732",
+      "engagementScore": 49.45
     },
     {
       "platform": "youtube",
@@ -474,13 +491,13 @@
       "channel": "School of Motion",
       "publishedAt": "2026-04-06T12:00:42Z",
       "url": "https://www.youtube.com/watch?v=9zPHf59LpWk",
-      "viewCount": 11506,
-      "likeCount": 497,
+      "viewCount": 11553,
+      "likeCount": 499,
       "commentCount": 22,
       "duration": "PT11M44S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-04-19T02:25:00.238062",
-      "engagementScore": 47.02
+      "collectedAt": "2026-04-20T02:25:38.386750",
+      "engagementScore": 47.0
     },
     {
       "platform": "youtube",
@@ -491,30 +508,13 @@
       "channel": "PixelArtistry",
       "publishedAt": "2026-03-22T13:30:06Z",
       "url": "https://www.youtube.com/watch?v=0wuP4ePTArE",
-      "viewCount": 10247,
-      "likeCount": 400,
+      "viewCount": 10298,
+      "likeCount": 401,
       "commentCount": 25,
       "duration": "PT11M35S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-04-19T02:25:00.238065",
-      "engagementScore": 43.92
-    },
-    {
-      "platform": "youtube",
-      "id": "n2PJYteTjKo",
-      "title": "Cinema 4D | 2026 Demo Reel",
-      "description": "Follow us for more great content https://instagram.com/maxonvfx https://facebook.com/MaxonVFX ...",
-      "thumbnail": "https://i.ytimg.com/vi/n2PJYteTjKo/hqdefault.jpg",
-      "channel": "Maxon",
-      "publishedAt": "2026-04-15T13:00:00Z",
-      "url": "https://www.youtube.com/watch?v=n2PJYteTjKo",
-      "viewCount": 9286,
-      "likeCount": 326,
-      "commentCount": 18,
-      "duration": "PT1M4S",
-      "keyword": "cinema 4d motion",
-      "collectedAt": "2026-04-19T02:25:00.238078",
-      "engagementScore": 38.98
+      "collectedAt": "2026-04-20T02:25:38.386752",
+      "engagementScore": 43.79
     },
     {
       "platform": "youtube",
@@ -525,36 +525,36 @@
       "channel": "Action Planetあくしょんプラネット",
       "publishedAt": "2026-04-14T08:02:52Z",
       "url": "https://www.youtube.com/watch?v=nmRC_c5Z00Q",
-      "viewCount": 5962,
-      "likeCount": 225,
+      "viewCount": 6171,
+      "likeCount": 233,
       "commentCount": 3,
       "duration": "PT1M",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-04-19T02:24:58.522426",
-      "engagementScore": 38.75
+      "collectedAt": "2026-04-20T02:25:36.914884",
+      "engagementScore": 38.73
     },
     {
       "platform": "youtube",
-      "id": "fFFxWMM3ghM",
-      "title": "Mahoraga (Fully Adapted) vs Gojo | #edit  #aftereffects  #fyp #vs #debate #mahoraga #gojo",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/fFFxWMM3ghM/hqdefault.jpg",
-      "channel": "レイ徒🇯🇵",
-      "publishedAt": "2026-04-04T11:01:03Z",
-      "url": "https://www.youtube.com/watch?v=fFFxWMM3ghM",
-      "viewCount": 279857,
-      "likeCount": 8579,
-      "commentCount": 860,
-      "duration": "PT26S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-04-19T02:24:59.713435",
-      "engagementScore": 36.8
+      "id": "n2PJYteTjKo",
+      "title": "Cinema 4D | 2026 Demo Reel",
+      "description": "Follow us for more great content https://instagram.com/maxonvfx https://facebook.com/MaxonVFX ...",
+      "thumbnail": "https://i.ytimg.com/vi/n2PJYteTjKo/hqdefault.jpg",
+      "channel": "Maxon",
+      "publishedAt": "2026-04-15T13:00:00Z",
+      "url": "https://www.youtube.com/watch?v=n2PJYteTjKo",
+      "viewCount": 10313,
+      "likeCount": 352,
+      "commentCount": 18,
+      "duration": "PT1M4S",
+      "keyword": "cinema 4d motion",
+      "collectedAt": "2026-04-20T02:25:38.386762",
+      "engagementScore": 37.62
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 59284744,
-    "avgEngagement": 17.75
+    "totalViews": 60150392,
+    "avgEngagement": 20.72
   }
 }
