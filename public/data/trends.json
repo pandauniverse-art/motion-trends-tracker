@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T03:40:38.232120",
+  "lastUpdated": "2026-06-15T03:55:43.174181",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -30,7 +30,7 @@
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 27533407
+      "totalViews": 23623638
     },
     "vimeo": {
       "count": 0,
@@ -40,23 +40,6 @@
   "topVideos": [
     {
       "platform": "youtube",
-      "id": "fqsrtHEs-80",
-      "title": "Adobe Creative Cloud Pro",
-      "description": "I've been at this for almost 20 years now. Started as a 2D artist, slowly evolved into 3D work - character design, vinyl toys, product ...",
-      "thumbnail": "https://i.ytimg.com/vi/fqsrtHEs-80/hqdefault.jpg",
-      "channel": "eyedesyn",
-      "publishedAt": "2026-05-15T18:46:50Z",
-      "url": "https://www.youtube.com/watch?v=fqsrtHEs-80",
-      "viewCount": 6446612,
-      "likeCount": 8506,
-      "commentCount": 4,
-      "duration": "PT53S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513864",
-      "engagementScore": 1.32
-    },
-    {
-      "platform": "youtube",
       "id": "LhACD5GmyJU",
       "title": "Little Cube Monsters 💖",
       "description": "56. Enter the world of Little Cube Monsters — adorable cube creatures full of life, wiggling, bouncing, and drifting through a vibrant ...",
@@ -64,13 +47,13 @@
       "channel": "Chaos Cruisers",
       "publishedAt": "2026-06-11T21:13:14Z",
       "url": "https://www.youtube.com/watch?v=LhACD5GmyJU",
-      "viewCount": 5760754,
-      "likeCount": 23292,
+      "viewCount": 6887626,
+      "likeCount": 27492,
       "commentCount": 11,
       "duration": "PT16S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513851",
-      "engagementScore": 4.05
+      "collectedAt": "2026-06-15T03:54:59.496346",
+      "engagementScore": 3.99
     },
     {
       "platform": "youtube",
@@ -81,13 +64,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-05-27T12:00:23Z",
       "url": "https://www.youtube.com/watch?v=lM22oiVY2ZY",
-      "viewCount": 2251535,
-      "likeCount": 10258,
+      "viewCount": 2259545,
+      "likeCount": 10333,
       "commentCount": 35,
       "duration": "PT12S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-06-14T03:40:03.832908",
-      "engagementScore": 4.59
+      "collectedAt": "2026-06-15T03:54:58.951074",
+      "engagementScore": 4.6
     },
     {
       "platform": "youtube",
@@ -98,13 +81,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-05-27T12:00:23Z",
       "url": "https://www.youtube.com/watch?v=lM22oiVY2ZY",
-      "viewCount": 2251535,
-      "likeCount": 10258,
+      "viewCount": 2259545,
+      "likeCount": 10333,
       "commentCount": 35,
       "duration": "PT12S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513868",
-      "engagementScore": 4.59
+      "collectedAt": "2026-06-15T03:54:59.496356",
+      "engagementScore": 4.6
     },
     {
       "platform": "youtube",
@@ -115,13 +98,13 @@
       "channel": "DramaticalCorgi",
       "publishedAt": "2026-05-24T21:17:55Z",
       "url": "https://www.youtube.com/watch?v=T0GoNH5gyt8",
-      "viewCount": 1520755,
-      "likeCount": 116629,
-      "commentCount": 1036,
+      "viewCount": 1581013,
+      "likeCount": 119879,
+      "commentCount": 1059,
       "duration": "PT20S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-06-14T03:40:02.860509",
-      "engagementScore": 78.05
+      "collectedAt": "2026-06-15T03:54:57.886397",
+      "engagementScore": 77.16
     },
     {
       "platform": "youtube",
@@ -132,13 +115,13 @@
       "channel": "3DArt.90M",
       "publishedAt": "2026-06-10T02:44:36Z",
       "url": "https://www.youtube.com/watch?v=i5g5zY2XTkM",
-      "viewCount": 1193132,
-      "likeCount": 5021,
-      "commentCount": 3,
+      "viewCount": 1322135,
+      "likeCount": 5627,
+      "commentCount": 4,
       "duration": "PT22S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-06-14T03:40:03.832918",
-      "engagementScore": 4.21
+      "collectedAt": "2026-06-15T03:54:58.951086",
+      "engagementScore": 4.26
     },
     {
       "platform": "youtube",
@@ -149,13 +132,13 @@
       "channel": "Samer295",
       "publishedAt": "2026-05-28T08:25:54Z",
       "url": "https://www.youtube.com/watch?v=-qTx0xq6m10",
-      "viewCount": 1116644,
-      "likeCount": 5014,
+      "viewCount": 1142016,
+      "likeCount": 5112,
       "commentCount": 6,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513875",
-      "engagementScore": 4.5
+      "collectedAt": "2026-06-15T03:54:59.496364",
+      "engagementScore": 4.49
     },
     {
       "platform": "youtube",
@@ -166,13 +149,13 @@
       "channel": "Chaos Cruisers",
       "publishedAt": "2026-06-09T21:13:17Z",
       "url": "https://www.youtube.com/watch?v=5mzPdrPJb2c",
-      "viewCount": 595439,
-      "likeCount": 2428,
+      "viewCount": 623190,
+      "likeCount": 2559,
       "commentCount": 2,
       "duration": "PT19S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-06-14T03:40:03.832922",
-      "engagementScore": 4.08
+      "collectedAt": "2026-06-15T03:54:58.951090",
+      "engagementScore": 4.11
     },
     {
       "platform": "youtube",
@@ -183,13 +166,13 @@
       "channel": "Zumi3D",
       "publishedAt": "2026-05-30T12:00:13Z",
       "url": "https://www.youtube.com/watch?v=FaSbVGqobXY",
-      "viewCount": 595436,
-      "likeCount": 2990,
+      "viewCount": 597381,
+      "likeCount": 3013,
       "commentCount": 0,
       "duration": "PT18S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513878",
-      "engagementScore": 5.02
+      "collectedAt": "2026-06-15T03:54:59.496367",
+      "engagementScore": 5.04
     },
     {
       "platform": "youtube",
@@ -200,13 +183,13 @@
       "channel": "Framer3D",
       "publishedAt": "2026-05-23T12:01:14Z",
       "url": "https://www.youtube.com/watch?v=xzIul32hfpE",
-      "viewCount": 546979,
-      "likeCount": 3268,
+      "viewCount": 550074,
+      "likeCount": 3294,
       "commentCount": 9,
       "duration": "PT14S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-06-14T03:40:03.832924",
-      "engagementScore": 6.01
+      "collectedAt": "2026-06-15T03:54:58.951094",
+      "engagementScore": 6.02
     },
     {
       "platform": "youtube",
@@ -217,13 +200,30 @@
       "channel": "Framer3D",
       "publishedAt": "2026-05-23T12:01:14Z",
       "url": "https://www.youtube.com/watch?v=xzIul32hfpE",
-      "viewCount": 546979,
-      "likeCount": 3268,
+      "viewCount": 550074,
+      "likeCount": 3294,
       "commentCount": 9,
       "duration": "PT14S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513881",
-      "engagementScore": 6.01
+      "collectedAt": "2026-06-15T03:54:59.496371",
+      "engagementScore": 6.02
+    },
+    {
+      "platform": "youtube",
+      "id": "yjbnOR5Zp5k",
+      "title": "Adorable Arched Monsters 💖💖💖",
+      "description": "41. Welcome to Adorable Arched Monsters — delightful arch-shaped creatures that wiggle and drift through a vibrant, seamless ...",
+      "thumbnail": "https://i.ytimg.com/vi/yjbnOR5Zp5k/hqdefault.jpg",
+      "channel": "3DArt.90M",
+      "publishedAt": "2026-06-13T02:38:59Z",
+      "url": "https://www.youtube.com/watch?v=yjbnOR5Zp5k",
+      "viewCount": 546821,
+      "likeCount": 2786,
+      "commentCount": 5,
+      "duration": "PT21S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-06-15T03:54:58.951097",
+      "engagementScore": 5.11
     },
     {
       "platform": "youtube",
@@ -234,13 +234,30 @@
       "channel": "Fireknight99",
       "publishedAt": "2026-05-16T14:00:59Z",
       "url": "https://www.youtube.com/watch?v=i99DxTtqN1U",
-      "viewCount": 442576,
-      "likeCount": 1857,
+      "viewCount": 443017,
+      "likeCount": 1859,
       "commentCount": 1,
       "duration": "PT23S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-06-14T03:40:03.298762",
+      "collectedAt": "2026-06-15T03:54:58.507422",
       "engagementScore": 4.2
+    },
+    {
+      "platform": "youtube",
+      "id": "ExXLS5Gt5QY",
+      "title": "Little Cube Monsters 💖",
+      "description": "56. Enter the world of Little Cube Monsters — adorable cube creatures full of life, wiggling, bouncing, and drifting through a vibrant ...",
+      "thumbnail": "https://i.ytimg.com/vi/ExXLS5Gt5QY/hqdefault.jpg",
+      "channel": "Chaos Cruisers",
+      "publishedAt": "2026-06-14T19:13:13Z",
+      "url": "https://www.youtube.com/watch?v=ExXLS5Gt5QY",
+      "viewCount": 440228,
+      "likeCount": 2995,
+      "commentCount": 2,
+      "duration": "PT16S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-06-15T03:54:59.496380",
+      "engagementScore": 6.81
     },
     {
       "platform": "youtube",
@@ -251,13 +268,47 @@
       "channel": "Metics Media",
       "publishedAt": "2026-05-29T08:17:54Z",
       "url": "https://www.youtube.com/watch?v=VMvZuhcDdnw",
-      "viewCount": 392783,
-      "likeCount": 16154,
-      "commentCount": 313,
+      "viewCount": 408746,
+      "likeCount": 16742,
+      "commentCount": 330,
       "duration": "PT26M10S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513872",
-      "engagementScore": 42.72
+      "collectedAt": "2026-06-15T03:54:59.496360",
+      "engagementScore": 42.57
+    },
+    {
+      "platform": "youtube",
+      "id": "Tk_LF5TrmK4",
+      "title": "Adorable Little Triangle Creatures 💖💖💖",
+      "description": "45. Welcome to Adorable Little Triangle Creatures — charming little three-sided beings that gently wiggle and drift through a ...",
+      "thumbnail": "https://i.ytimg.com/vi/Tk_LF5TrmK4/hqdefault.jpg",
+      "channel": "Chaos Cruisers",
+      "publishedAt": "2026-06-08T19:13:17Z",
+      "url": "https://www.youtube.com/watch?v=Tk_LF5TrmK4",
+      "viewCount": 401152,
+      "likeCount": 1827,
+      "commentCount": 1,
+      "duration": "PT21S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-06-15T03:54:58.951104",
+      "engagementScore": 4.56
+    },
+    {
+      "platform": "youtube",
+      "id": "Tk_LF5TrmK4",
+      "title": "Adorable Little Triangle Creatures 💖💖💖",
+      "description": "45. Welcome to Adorable Little Triangle Creatures — charming little three-sided beings that gently wiggle and drift through a ...",
+      "thumbnail": "https://i.ytimg.com/vi/Tk_LF5TrmK4/hqdefault.jpg",
+      "channel": "Chaos Cruisers",
+      "publishedAt": "2026-06-08T19:13:17Z",
+      "url": "https://www.youtube.com/watch?v=Tk_LF5TrmK4",
+      "viewCount": 401152,
+      "likeCount": 1827,
+      "commentCount": 1,
+      "duration": "PT21S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-06-15T03:54:59.496377",
+      "engagementScore": 4.56
     },
     {
       "platform": "youtube",
@@ -268,12 +319,12 @@
       "channel": "Framer3D",
       "publishedAt": "2026-05-16T14:00:42Z",
       "url": "https://www.youtube.com/watch?v=ToNleDNXue8",
-      "viewCount": 389742,
-      "likeCount": 3285,
+      "viewCount": 393145,
+      "likeCount": 3315,
       "commentCount": 10,
       "duration": "PT20S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-06-14T03:40:03.832927",
+      "collectedAt": "2026-06-15T03:54:58.951100",
       "engagementScore": 8.48
     },
     {
@@ -285,12 +336,12 @@
       "channel": "Framer3D",
       "publishedAt": "2026-05-16T14:00:42Z",
       "url": "https://www.youtube.com/watch?v=ToNleDNXue8",
-      "viewCount": 389742,
-      "likeCount": 3285,
+      "viewCount": 393145,
+      "likeCount": 3315,
       "commentCount": 10,
       "duration": "PT20S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513885",
+      "collectedAt": "2026-06-15T03:54:59.496374",
       "engagementScore": 8.48
     },
     {
@@ -302,81 +353,30 @@
       "channel": "Molob",
       "publishedAt": "2026-05-27T18:56:15Z",
       "url": "https://www.youtube.com/watch?v=y31OQdsCiHY",
-      "viewCount": 365003,
-      "likeCount": 8746,
-      "commentCount": 255,
+      "viewCount": 382669,
+      "likeCount": 9027,
+      "commentCount": 261,
       "duration": "PT22S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-06-14T03:40:02.860520",
-      "engagementScore": 25.36
+      "collectedAt": "2026-06-15T03:54:57.886406",
+      "engagementScore": 24.95
     },
     {
       "platform": "youtube",
-      "id": "Tk_LF5TrmK4",
-      "title": "Adorable Little Triangle Creatures 💖💖💖",
-      "description": "45. Welcome to Adorable Little Triangle Creatures — charming little three-sided beings that gently wiggle and drift through a ...",
-      "thumbnail": "https://i.ytimg.com/vi/Tk_LF5TrmK4/hqdefault.jpg",
-      "channel": "Chaos Cruisers",
-      "publishedAt": "2026-06-08T19:13:17Z",
-      "url": "https://www.youtube.com/watch?v=Tk_LF5TrmK4",
-      "viewCount": 353956,
-      "likeCount": 1595,
-      "commentCount": 1,
-      "duration": "PT21S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-06-14T03:40:03.832930",
-      "engagementScore": 4.51
-    },
-    {
-      "platform": "youtube",
-      "id": "Tk_LF5TrmK4",
-      "title": "Adorable Little Triangle Creatures 💖💖💖",
-      "description": "45. Welcome to Adorable Little Triangle Creatures — charming little three-sided beings that gently wiggle and drift through a ...",
-      "thumbnail": "https://i.ytimg.com/vi/Tk_LF5TrmK4/hqdefault.jpg",
-      "channel": "Chaos Cruisers",
-      "publishedAt": "2026-06-08T19:13:17Z",
-      "url": "https://www.youtube.com/watch?v=Tk_LF5TrmK4",
-      "viewCount": 353956,
-      "likeCount": 1595,
+      "id": "jcOIJ1JYIwg",
+      "title": "Adorable Circular Creatures 💖💖💖",
+      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
+      "thumbnail": "https://i.ytimg.com/vi/jcOIJ1JYIwg/hqdefault.jpg",
+      "channel": "MoonMelt",
+      "publishedAt": "2026-06-13T13:33:00Z",
+      "url": "https://www.youtube.com/watch?v=jcOIJ1JYIwg",
+      "viewCount": 379969,
+      "likeCount": 0,
       "commentCount": 1,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513887",
-      "engagementScore": 4.51
-    },
-    {
-      "platform": "youtube",
-      "id": "FZk10GjrtDA",
-      "title": "Cute Funny Cube Monsters 💖",
-      "description": "67. Enter a playful 3D world of Funny Little Cube Monsters — tiny cube-shaped creatures wobbling, hopping, and drifting through ...",
-      "thumbnail": "https://i.ytimg.com/vi/FZk10GjrtDA/hqdefault.jpg",
-      "channel": "Framer3D",
-      "publishedAt": "2026-05-25T12:00:14Z",
-      "url": "https://www.youtube.com/watch?v=FZk10GjrtDA",
-      "viewCount": 259333,
-      "likeCount": 2271,
-      "commentCount": 19,
-      "duration": "PT13S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-06-14T03:40:04.513894",
-      "engagementScore": 8.9
-    },
-    {
-      "platform": "youtube",
-      "id": "4irZumb0QGI",
-      "title": "WANNA EDIT LIKE ME? 🤫🔥 #Invincible",
-      "description": "Want to take your edits to the next level? Here is the exact 3-step formula I use to make my transitions seamless and my shakes hit ...",
-      "thumbnail": "https://i.ytimg.com/vi/4irZumb0QGI/hqdefault.jpg",
-      "channel": "XenoFX",
-      "publishedAt": "2026-06-01T18:30:09Z",
-      "url": "https://www.youtube.com/watch?v=4irZumb0QGI",
-      "viewCount": 218868,
-      "likeCount": 2455,
-      "commentCount": 189,
-      "duration": "PT16S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-06-14T03:40:02.860524",
-      "engagementScore": 12.94
+      "collectedAt": "2026-06-15T03:54:59.496387",
+      "engagementScore": 0.01
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "DREG",
       "publishedAt": "2026-05-26T07:28:56Z",
       "url": "https://www.youtube.com/watch?v=iOaj71tE7V4",
-      "viewCount": 3254,
-      "likeCount": 211,
+      "viewCount": 3309,
+      "likeCount": 215,
       "commentCount": 54,
       "duration": "PT7M12S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-06-14T03:40:03.298790",
-      "engagementScore": 98.03
+      "collectedAt": "2026-06-15T03:54:58.507480",
+      "engagementScore": 97.61
     },
     {
       "platform": "youtube",
@@ -406,13 +406,13 @@
       "channel": "𝒁𝒎𝒆𝒙 𝑬𝒅𝒊𝒕𝒁",
       "publishedAt": "2026-05-18T12:00:49Z",
       "url": "https://www.youtube.com/watch?v=TsnGTpIBI0w",
-      "viewCount": 15942,
-      "likeCount": 1185,
-      "commentCount": 165,
+      "viewCount": 16224,
+      "likeCount": 1198,
+      "commentCount": 173,
       "duration": "PT2M17S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-06-14T03:40:02.348051",
-      "engagementScore": 95.03
+      "collectedAt": "2026-06-15T03:54:57.284589",
+      "engagementScore": 95.17
     },
     {
       "platform": "youtube",
@@ -423,13 +423,13 @@
       "channel": "DramaticalCorgi",
       "publishedAt": "2026-05-24T21:17:55Z",
       "url": "https://www.youtube.com/watch?v=T0GoNH5gyt8",
-      "viewCount": 1520755,
-      "likeCount": 116629,
-      "commentCount": 1036,
+      "viewCount": 1581013,
+      "likeCount": 119879,
+      "commentCount": 1059,
       "duration": "PT20S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-06-14T03:40:02.860509",
-      "engagementScore": 78.05
+      "collectedAt": "2026-06-15T03:54:57.886397",
+      "engagementScore": 77.16
     },
     {
       "platform": "youtube",
@@ -440,13 +440,13 @@
       "channel": "Vlad Sateev",
       "publishedAt": "2026-05-16T23:00:35Z",
       "url": "https://www.youtube.com/watch?v=XWL2aT_Rbbk",
-      "viewCount": 65086,
-      "likeCount": 4535,
+      "viewCount": 65821,
+      "likeCount": 4569,
       "commentCount": 153,
       "duration": "PT21M44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-06-14T03:40:02.860534",
-      "engagementScore": 74.38
+      "collectedAt": "2026-06-15T03:54:57.886418",
+      "engagementScore": 74.06
     },
     {
       "platform": "youtube",
@@ -457,13 +457,13 @@
       "channel": "Ginyboi Studios",
       "publishedAt": "2026-06-03T21:57:40Z",
       "url": "https://www.youtube.com/watch?v=kisSxS7OnUw",
-      "viewCount": 9090,
-      "likeCount": 546,
+      "viewCount": 9114,
+      "likeCount": 548,
       "commentCount": 4,
       "duration": "PT27S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-06-14T03:40:01.894630",
-      "engagementScore": 60.95
+      "collectedAt": "2026-06-15T03:54:56.845506",
+      "engagementScore": 61.01
     },
     {
       "platform": "youtube",
@@ -474,13 +474,30 @@
       "channel": "School of Motion",
       "publishedAt": "2026-05-17T21:29:36Z",
       "url": "https://www.youtube.com/watch?v=Bj63gd28WPg",
-      "viewCount": 2559,
+      "viewCount": 2560,
       "likeCount": 100,
       "commentCount": 22,
       "duration": "PT4M51S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-06-14T03:40:03.298793",
-      "engagementScore": 56.27
+      "collectedAt": "2026-06-15T03:54:58.507484",
+      "engagementScore": 56.25
+    },
+    {
+      "platform": "youtube",
+      "id": "RrAatgTckjE",
+      "title": "Making the ultimate Aizen edit #aftereffects #editing #anime #bleach",
+      "description": "my editing course : https://www.molobacademy.com/join.",
+      "thumbnail": "https://i.ytimg.com/vi/RrAatgTckjE/hqdefault.jpg",
+      "channel": "Molob",
+      "publishedAt": "2026-06-03T13:41:01Z",
+      "url": "https://www.youtube.com/watch?v=RrAatgTckjE",
+      "viewCount": 75796,
+      "likeCount": 3796,
+      "commentCount": 174,
+      "duration": "PT24S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-06-15T03:54:57.886438",
+      "engagementScore": 54.67
     },
     {
       "platform": "youtube",
@@ -491,13 +508,13 @@
       "channel": "SonduckFilm",
       "publishedAt": "2026-05-18T14:05:01Z",
       "url": "https://www.youtube.com/watch?v=7pgDb6NKEXM",
-      "viewCount": 36862,
-      "likeCount": 1782,
-      "commentCount": 28,
+      "viewCount": 37131,
+      "likeCount": 1797,
+      "commentCount": 29,
       "duration": "PT7M31S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-06-14T03:40:02.348040",
-      "engagementScore": 49.86
+      "collectedAt": "2026-06-15T03:54:57.284578",
+      "engagementScore": 49.96
     },
     {
       "platform": "youtube",
@@ -508,13 +525,13 @@
       "channel": "Maxon",
       "publishedAt": "2026-05-22T21:31:19Z",
       "url": "https://www.youtube.com/watch?v=qI7Pf7mGlnI",
-      "viewCount": 2058,
+      "viewCount": 2061,
       "likeCount": 83,
       "commentCount": 6,
       "duration": "PT4M39S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-06-14T03:40:03.298802",
-      "engagementScore": 46.16
+      "collectedAt": "2026-06-15T03:54:58.507493",
+      "engagementScore": 46.09
     },
     {
       "platform": "youtube",
@@ -525,36 +542,19 @@
       "channel": "School of Motion",
       "publishedAt": "2026-05-17T21:29:43Z",
       "url": "https://www.youtube.com/watch?v=fH-EdqfnZ1w",
-      "viewCount": 2127,
+      "viewCount": 2133,
       "likeCount": 69,
       "commentCount": 14,
       "duration": "PT24S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-06-14T03:40:03.298796",
-      "engagementScore": 45.6
-    },
-    {
-      "platform": "youtube",
-      "id": "QHoZvpsi7gE",
-      "title": "Redshift Solves Repeating Textures + Free C4D Plugin | Motion Mondays",
-      "description": "CORRECTION: In this episode, EJ originally stated that the Atlas Festival titles were created by the talented Mário Domingos.",
-      "thumbnail": "https://i.ytimg.com/vi/QHoZvpsi7gE/hqdefault.jpg",
-      "channel": "School of Motion",
-      "publishedAt": "2026-05-18T12:00:40Z",
-      "url": "https://www.youtube.com/watch?v=QHoZvpsi7gE",
-      "viewCount": 9771,
-      "likeCount": 361,
-      "commentCount": 38,
-      "duration": "PT11M33S",
-      "keyword": "cinema 4d motion",
-      "collectedAt": "2026-06-14T03:40:03.298783",
-      "engagementScore": 44.72
+      "collectedAt": "2026-06-15T03:54:58.507487",
+      "engagementScore": 45.48
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 27533407,
-    "avgEngagement": 24.95
+    "totalViews": 23623638,
+    "avgEngagement": 25.53
   }
 }
