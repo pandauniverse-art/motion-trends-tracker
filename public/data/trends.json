@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T03:28:39.372432",
+  "lastUpdated": "2026-09-28T03:26:17.753778",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -19,18 +19,18 @@
       "count": 10
     },
     {
-      "keyword": "motion graphics 2024",
-      "count": 5
+      "keyword": "motion design trends",
+      "count": 6
     },
     {
-      "keyword": "motion design trends",
-      "count": 5
+      "keyword": "motion graphics 2024",
+      "count": 4
     }
   ],
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 55143786
+      "totalViews": 57569946
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,13 @@
       "channel": "OliverVisualFX",
       "publishedAt": "2026-09-11T11:45:37Z",
       "url": "https://www.youtube.com/watch?v=BqU1l1xjkMU",
-      "viewCount": 14651780,
-      "likeCount": 118039,
-      "commentCount": 582,
+      "viewCount": 15319268,
+      "likeCount": 123590,
+      "commentCount": 610,
       "duration": "PT10S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743690",
-      "engagementScore": 8.14
+      "collectedAt": "2026-09-28T03:25:41.656612",
+      "engagementScore": 8.15
     },
     {
       "platform": "youtube",
@@ -64,30 +64,13 @@
       "channel": "React With R1",
       "publishedAt": "2026-09-16T14:38:58Z",
       "url": "https://www.youtube.com/watch?v=Q3bwFvkHKUE",
-      "viewCount": 6102815,
-      "likeCount": 95611,
-      "commentCount": 387,
+      "viewCount": 6216519,
+      "likeCount": 97897,
+      "commentCount": 392,
       "duration": "PT38S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-09-27T03:27:52.210767",
-      "engagementScore": 15.79
-    },
-    {
-      "platform": "youtube",
-      "id": "J5ravE-H7Wc",
-      "title": "I absolutely love this animated movie. #movie #foryou #edit #funny",
-      "description": "Music Used: rather be Movie/Series Used:Crazy Element City Editing Software: After Effects 2025 / Adobe Premiere Pro 2025 ...",
-      "thumbnail": "https://i.ytimg.com/vi/J5ravE-H7Wc/hqdefault.jpg",
-      "channel": "DSP WCNM",
-      "publishedAt": "2026-09-09T12:06:08Z",
-      "url": "https://www.youtube.com/watch?v=J5ravE-H7Wc",
-      "viewCount": 3004587,
-      "likeCount": 98643,
-      "commentCount": 525,
-      "duration": "PT2M58S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743701",
-      "engagementScore": 33.18
+      "collectedAt": "2026-09-28T03:25:42.100661",
+      "engagementScore": 15.87
     },
     {
       "platform": "youtube",
@@ -98,13 +81,30 @@
       "channel": "3dbarn78",
       "publishedAt": "2026-09-24T11:00:39Z",
       "url": "https://www.youtube.com/watch?v=mf8XKa_gXDM",
-      "viewCount": 2874240,
+      "viewCount": 3116799,
       "likeCount": 0,
-      "commentCount": 17,
+      "commentCount": 18,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-09-27T03:27:53.051525",
+      "collectedAt": "2026-09-28T03:25:43.050361",
       "engagementScore": 0.01
+    },
+    {
+      "platform": "youtube",
+      "id": "J5ravE-H7Wc",
+      "title": "I absolutely love this animated movie. #movie #foryou #edit #funny",
+      "description": "Music Used: rather be Movie/Series Used:Crazy Element City Editing Software: After Effects 2025 / Adobe Premiere Pro 2025 ...",
+      "thumbnail": "https://i.ytimg.com/vi/J5ravE-H7Wc/hqdefault.jpg",
+      "channel": "DSP WCNM",
+      "publishedAt": "2026-09-09T12:06:08Z",
+      "url": "https://www.youtube.com/watch?v=J5ravE-H7Wc",
+      "viewCount": 3044043,
+      "likeCount": 99826,
+      "commentCount": 532,
+      "duration": "PT2M58S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-09-28T03:25:41.656619",
+      "engagementScore": 33.14
     },
     {
       "platform": "youtube",
@@ -115,13 +115,13 @@
       "channel": "Nihaal Edits",
       "publishedAt": "2026-09-08T06:35:22Z",
       "url": "https://www.youtube.com/watch?v=wEDbUVnlJ4I",
-      "viewCount": 2523185,
-      "likeCount": 51144,
+      "viewCount": 2637628,
+      "likeCount": 52777,
       "commentCount": 54,
       "duration": "PT1M",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743707",
-      "engagementScore": 20.31
+      "collectedAt": "2026-09-28T03:25:41.656623",
+      "engagementScore": 20.05
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "RX Gamer 67",
       "publishedAt": "2026-09-19T17:11:07Z",
       "url": "https://www.youtube.com/watch?v=oAnfFLvuqCY",
-      "viewCount": 2247167,
-      "likeCount": 12298,
+      "viewCount": 2282843,
+      "likeCount": 12548,
       "commentCount": 21,
       "duration": "PT19S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638393",
-      "engagementScore": 5.49
+      "collectedAt": "2026-09-28T03:25:42.557226",
+      "engagementScore": 5.52
     },
     {
       "platform": "youtube",
@@ -149,12 +149,12 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-19T14:30:01Z",
       "url": "https://www.youtube.com/watch?v=znVemn4Yuhg",
-      "viewCount": 2122067,
-      "likeCount": 49009,
-      "commentCount": 330,
+      "viewCount": 2199526,
+      "likeCount": 50814,
+      "commentCount": 342,
       "duration": "PT18S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743705",
+      "collectedAt": "2026-09-28T03:25:41.656621",
       "engagementScore": 23.41
     },
     {
@@ -166,13 +166,13 @@
       "channel": "Prompt Pilot",
       "publishedAt": "2026-09-11T06:30:15Z",
       "url": "https://www.youtube.com/watch?v=AJczeuV6VsQ",
-      "viewCount": 1943513,
-      "likeCount": 7697,
+      "viewCount": 1987102,
+      "likeCount": 7754,
       "commentCount": 53,
       "duration": "PT12S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-09-27T03:27:52.210778",
-      "engagementScore": 4.01
+      "collectedAt": "2026-09-28T03:25:42.100665",
+      "engagementScore": 3.96
     },
     {
       "platform": "youtube",
@@ -183,13 +183,13 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-21T14:30:01Z",
       "url": "https://www.youtube.com/watch?v=oI6hnRGzlXQ",
-      "viewCount": 1615082,
-      "likeCount": 32388,
-      "commentCount": 351,
+      "viewCount": 1662582,
+      "likeCount": 32926,
+      "commentCount": 361,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743710",
-      "engagementScore": 20.49
+      "collectedAt": "2026-09-28T03:25:41.656624",
+      "engagementScore": 20.24
     },
     {
       "platform": "youtube",
@@ -200,13 +200,13 @@
       "channel": "AI Search",
       "publishedAt": "2026-09-07T03:30:48Z",
       "url": "https://www.youtube.com/watch?v=Ji4amrxrzVM",
-      "viewCount": 1522419,
-      "likeCount": 16643,
-      "commentCount": 2389,
+      "viewCount": 1525392,
+      "likeCount": 16674,
+      "commentCount": 2387,
       "duration": "PT33M38S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-09-27T03:27:53.051538",
-      "engagementScore": 14.07
+      "collectedAt": "2026-09-28T03:25:43.050374",
+      "engagementScore": 14.06
     },
     {
       "platform": "youtube",
@@ -217,13 +217,30 @@
       "channel": "VAL",
       "publishedAt": "2026-09-12T23:30:12Z",
       "url": "https://www.youtube.com/watch?v=6iM85vvO9ZU",
-      "viewCount": 1282213,
-      "likeCount": 8031,
-      "commentCount": 55,
+      "viewCount": 1287399,
+      "likeCount": 8063,
+      "commentCount": 56,
       "duration": "PT11S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743716",
+      "collectedAt": "2026-09-28T03:25:41.656630",
       "engagementScore": 6.35
+    },
+    {
+      "platform": "youtube",
+      "id": "mMr1dR82nvw",
+      "title": "The 7 Deadly Sins of Anime..💀🔥 - Pride x Wrath edit | Anime Edit | #anime #edit #new #trending",
+      "description": "Music: FUNK Power (Slowed) Program for editing: After Effects 2020 © Copyright All the videos, songs, images, and graphics ...",
+      "thumbnail": "https://i.ytimg.com/vi/mMr1dR82nvw/hqdefault.jpg",
+      "channel": "heisty",
+      "publishedAt": "2026-09-22T11:57:26Z",
+      "url": "https://www.youtube.com/watch?v=mMr1dR82nvw",
+      "viewCount": 1279767,
+      "likeCount": 93536,
+      "commentCount": 6350,
+      "duration": "PT44S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-09-28T03:25:41.656626",
+      "engagementScore": 83.01
     },
     {
       "platform": "youtube",
@@ -234,13 +251,13 @@
       "channel": "Critkey",
       "publishedAt": "2026-09-06T02:33:20Z",
       "url": "https://www.youtube.com/watch?v=5FGHhC-ST9Y",
-      "viewCount": 1111356,
-      "likeCount": 38742,
-      "commentCount": 389,
+      "viewCount": 1161162,
+      "likeCount": 39293,
+      "commentCount": 392,
       "duration": "PT21S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743720",
-      "engagementScore": 35.56
+      "collectedAt": "2026-09-28T03:25:41.656631",
+      "engagementScore": 34.51
     },
     {
       "platform": "youtube",
@@ -251,30 +268,30 @@
       "channel": "VFX VERSE",
       "publishedAt": "2026-09-07T11:00:33Z",
       "url": "https://www.youtube.com/watch?v=Pz541fKlkAs",
-      "viewCount": 1105634,
-      "likeCount": 3438,
+      "viewCount": 1107570,
+      "likeCount": 3442,
       "commentCount": 3,
       "duration": "PT13S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638411",
+      "collectedAt": "2026-09-28T03:25:42.557234",
       "engagementScore": 3.11
     },
     {
       "platform": "youtube",
-      "id": "oD6oIp-EdxA",
-      "title": "Funny Box Monsters💝💖 @jombie93  #3danimation #blender #3dart #animation #boxmonsters",
-      "description": "Funny Box Monsters     #3danimation #blender #3dart #animation #boxmonsters 31. Welcome to the Funny Box Monsters ...",
-      "thumbnail": "https://i.ytimg.com/vi/oD6oIp-EdxA/hqdefault.jpg",
-      "channel": "baby fun",
-      "publishedAt": "2026-09-15T10:27:02Z",
-      "url": "https://www.youtube.com/watch?v=oD6oIp-EdxA",
-      "viewCount": 906380,
-      "likeCount": 3657,
+      "id": "Wcp6FHMfAiA",
+      "title": "Aborable Cricular Creatures 💖💖💖# #3danimation",
+      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
+      "thumbnail": "https://i.ytimg.com/vi/Wcp6FHMfAiA/hqdefault.jpg",
+      "channel": "@RinkuRoy315",
+      "publishedAt": "2026-09-26T07:08:41Z",
+      "url": "https://www.youtube.com/watch?v=Wcp6FHMfAiA",
+      "viewCount": 955856,
+      "likeCount": 0,
       "commentCount": 3,
-      "duration": "PT11S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638417",
-      "engagementScore": 4.04
+      "duration": "PT21S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-09-28T03:25:43.050376",
+      "engagementScore": 0.01
     },
     {
       "platform": "youtube",
@@ -285,13 +302,30 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-04T10:55:31Z",
       "url": "https://www.youtube.com/watch?v=jEdQGDpbDn8",
-      "viewCount": 882369,
-      "likeCount": 20354,
-      "commentCount": 110,
+      "viewCount": 920972,
+      "likeCount": 21317,
+      "commentCount": 111,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743713",
-      "engagementScore": 23.32
+      "collectedAt": "2026-09-28T03:25:41.656628",
+      "engagementScore": 23.39
+    },
+    {
+      "platform": "youtube",
+      "id": "oD6oIp-EdxA",
+      "title": "Funny Box Monsters💝💖 @jombie93  #3danimation #blender #3dart #animation #boxmonsters",
+      "description": "Funny Box Monsters     #3danimation #blender #3dart #animation #boxmonsters 31. Welcome to the Funny Box Monsters ...",
+      "thumbnail": "https://i.ytimg.com/vi/oD6oIp-EdxA/hqdefault.jpg",
+      "channel": "baby fun",
+      "publishedAt": "2026-09-15T10:27:02Z",
+      "url": "https://www.youtube.com/watch?v=oD6oIp-EdxA",
+      "viewCount": 908170,
+      "likeCount": 3664,
+      "commentCount": 3,
+      "duration": "PT11S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-09-28T03:25:42.557236",
+      "engagementScore": 4.04
     },
     {
       "platform": "youtube",
@@ -302,13 +336,13 @@
       "channel": "Alifilmworx",
       "publishedAt": "2026-08-31T02:33:56Z",
       "url": "https://www.youtube.com/watch?v=Jd-zHyV4h5g",
-      "viewCount": 864488,
-      "likeCount": 23448,
-      "commentCount": 1229,
+      "viewCount": 871139,
+      "likeCount": 23565,
+      "commentCount": 1236,
       "duration": "PT8M47S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638408",
-      "engagementScore": 29.97
+      "collectedAt": "2026-09-28T03:25:42.557232",
+      "engagementScore": 29.89
     },
     {
       "platform": "youtube",
@@ -319,13 +353,13 @@
       "channel": "RX Gamer 67",
       "publishedAt": "2026-09-24T16:50:24Z",
       "url": "https://www.youtube.com/watch?v=VyyFRhTsaxk",
-      "viewCount": 789937,
-      "likeCount": 3726,
+      "viewCount": 843743,
+      "likeCount": 4047,
       "commentCount": 6,
       "duration": "PT14S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-09-27T03:27:53.051545",
-      "engagementScore": 4.73
+      "collectedAt": "2026-09-28T03:25:43.050381",
+      "engagementScore": 4.81
     },
     {
       "platform": "youtube",
@@ -336,50 +370,50 @@
       "channel": "Candy Bliss",
       "publishedAt": "2026-09-21T02:00:00Z",
       "url": "https://www.youtube.com/watch?v=DBU4tJfQ4s0",
-      "viewCount": 774024,
-      "likeCount": 10903,
+      "viewCount": 774879,
+      "likeCount": 10913,
       "commentCount": 16,
       "duration": "PT16S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638420",
-      "engagementScore": 14.13
-    },
-    {
-      "platform": "youtube",
-      "id": "5hQhgMrrHcU",
-      "title": "Welcome to Adorable Octagon Creatures💖💝 @jombie93 #3danimation #blender #animation",
-      "description": "42. Welcome to Adorable Octagon Creatures — charming little eight-sided creatures that gently wiggle and drift through a colorful, ...",
-      "thumbnail": "https://i.ytimg.com/vi/5hQhgMrrHcU/hqdefault.jpg",
-      "channel": "baby fun",
-      "publishedAt": "2026-09-14T08:51:52Z",
-      "url": "https://www.youtube.com/watch?v=5hQhgMrrHcU",
-      "viewCount": 738402,
-      "likeCount": 2416,
-      "commentCount": 3,
-      "duration": "PT11S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638431",
-      "engagementScore": 3.28
-    },
-    {
-      "platform": "youtube",
-      "id": "kfggQvFWD8s",
-      "title": "DEATH NOTE LIGHT YAGAMI EDIT | MEOW BOSS (Slowed)",
-      "description": "sukuna​​ #gojo​​ #jogo​​ #kashimo​​ #yorozu​​ #choso​​ #ryu​​ #moduloyuji​​ #shorts​​ #edit​​ #aftereffects​​ ...",
-      "thumbnail": "https://i.ytimg.com/vi/kfggQvFWD8s/hqdefault.jpg",
-      "channel": "KAMADO",
-      "publishedAt": "2026-09-18T18:00:39Z",
-      "url": "https://www.youtube.com/watch?v=kfggQvFWD8s",
-      "viewCount": 714598,
-      "likeCount": 0,
-      "commentCount": 167,
-      "duration": "PT22S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743725",
-      "engagementScore": 0.47
+      "collectedAt": "2026-09-28T03:25:42.557237",
+      "engagementScore": 14.12
     }
   ],
   "topEngagement": [
+    {
+      "platform": "youtube",
+      "id": "mMr1dR82nvw",
+      "title": "The 7 Deadly Sins of Anime..💀🔥 - Pride x Wrath edit | Anime Edit | #anime #edit #new #trending",
+      "description": "Music: FUNK Power (Slowed) Program for editing: After Effects 2020 © Copyright All the videos, songs, images, and graphics ...",
+      "thumbnail": "https://i.ytimg.com/vi/mMr1dR82nvw/hqdefault.jpg",
+      "channel": "heisty",
+      "publishedAt": "2026-09-22T11:57:26Z",
+      "url": "https://www.youtube.com/watch?v=mMr1dR82nvw",
+      "viewCount": 1279767,
+      "likeCount": 93536,
+      "commentCount": 6350,
+      "duration": "PT44S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-09-28T03:25:41.656626",
+      "engagementScore": 83.01
+    },
+    {
+      "platform": "youtube",
+      "id": "AKz-1l0Ai9o",
+      "title": "Top 5 After Effects Motion Design Skills in After Effects",
+      "description": "Top 5 After Effects Motion Design Skills in After Effects ▻ 50000+ templates for After Effects: sonduckfilm.com ▻ 100 FREE ...",
+      "thumbnail": "https://i.ytimg.com/vi/AKz-1l0Ai9o/hqdefault.jpg",
+      "channel": "SonduckFilm",
+      "publishedAt": "2026-09-17T13:00:29Z",
+      "url": "https://www.youtube.com/watch?v=AKz-1l0Ai9o",
+      "viewCount": 49110,
+      "likeCount": 2284,
+      "commentCount": 12,
+      "duration": "PT1M23S",
+      "keyword": "motion design trends",
+      "collectedAt": "2026-09-28T03:25:41.146184",
+      "engagementScore": 47.0
+    },
     {
       "platform": "youtube",
       "id": "gmDhK6xx8-M",
@@ -389,13 +423,13 @@
       "channel": "SonduckFilm",
       "publishedAt": "2026-09-09T15:58:48Z",
       "url": "https://www.youtube.com/watch?v=gmDhK6xx8-M",
-      "viewCount": 48939,
-      "likeCount": 1737,
+      "viewCount": 49895,
+      "likeCount": 1776,
       "commentCount": 8,
       "duration": "PT1M21S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-09-27T03:27:50.875536",
-      "engagementScore": 35.82
+      "collectedAt": "2026-09-28T03:25:40.706347",
+      "engagementScore": 35.92
     },
     {
       "platform": "youtube",
@@ -406,13 +440,13 @@
       "channel": "Critkey",
       "publishedAt": "2026-09-06T02:33:20Z",
       "url": "https://www.youtube.com/watch?v=5FGHhC-ST9Y",
-      "viewCount": 1111356,
-      "likeCount": 38742,
-      "commentCount": 389,
+      "viewCount": 1161162,
+      "likeCount": 39293,
+      "commentCount": 392,
       "duration": "PT21S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743720",
-      "engagementScore": 35.56
+      "collectedAt": "2026-09-28T03:25:41.656631",
+      "engagementScore": 34.51
     },
     {
       "platform": "youtube",
@@ -423,30 +457,13 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-09T12:06:08Z",
       "url": "https://www.youtube.com/watch?v=J5ravE-H7Wc",
-      "viewCount": 3004587,
-      "likeCount": 98643,
-      "commentCount": 525,
+      "viewCount": 3044043,
+      "likeCount": 99826,
+      "commentCount": 532,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-09-27T03:27:51.743701",
-      "engagementScore": 33.18
-    },
-    {
-      "platform": "youtube",
-      "id": "hHJkbIdObpc",
-      "title": "🔥ЧТО СКРЫВАЕТ КУБ❓#3D #CINEMA4D #C4D #ЛАЙФХАК #SHORTS #РЕК #MotionDesign #Мемы",
-      "description": "Подписывайся, здесь много полезных 3D-приколов ! #3d #cinema4d #c4d #motiondesign #cg #мемы #лайфхак #simulation ...",
-      "thumbnail": "https://i.ytimg.com/vi/hHJkbIdObpc/hqdefault.jpg",
-      "channel": "Никита Германов | Cinema 4D",
-      "publishedAt": "2026-08-28T10:17:17Z",
-      "url": "https://www.youtube.com/watch?v=hHJkbIdObpc",
-      "viewCount": 355866,
-      "likeCount": 11323,
-      "commentCount": 78,
-      "duration": "PT43S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-09-27T03:27:53.051548",
-      "engagementScore": 32.26
+      "collectedAt": "2026-09-28T03:25:41.656619",
+      "engagementScore": 33.14
     },
     {
       "platform": "youtube",
@@ -457,13 +474,13 @@
       "channel": "Руслан Цапенко",
       "publishedAt": "2026-09-03T15:28:08Z",
       "url": "https://www.youtube.com/watch?v=x1xOCn5PEsg",
-      "viewCount": 4448,
+      "viewCount": 4457,
       "likeCount": 101,
       "commentCount": 21,
       "duration": "PT7M9S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-09-27T03:27:51.313977",
-      "engagementScore": 32.15
+      "collectedAt": "2026-09-28T03:25:41.146189",
+      "engagementScore": 32.08
     },
     {
       "platform": "youtube",
@@ -474,13 +491,13 @@
       "channel": "Alifilmworx",
       "publishedAt": "2026-08-31T02:33:56Z",
       "url": "https://www.youtube.com/watch?v=Jd-zHyV4h5g",
-      "viewCount": 864488,
-      "likeCount": 23448,
-      "commentCount": 1229,
+      "viewCount": 871139,
+      "likeCount": 23565,
+      "commentCount": 1236,
       "duration": "PT8M47S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-09-27T03:27:52.638408",
-      "engagementScore": 29.97
+      "collectedAt": "2026-09-28T03:25:42.557232",
+      "engagementScore": 29.89
     },
     {
       "platform": "youtube",
@@ -491,13 +508,13 @@
       "channel": "Ben Marriott",
       "publishedAt": "2026-09-01T11:08:50Z",
       "url": "https://www.youtube.com/watch?v=ylXeuDp_8XM",
-      "viewCount": 238730,
-      "likeCount": 6279,
+      "viewCount": 242489,
+      "likeCount": 6337,
       "commentCount": 132,
       "duration": "PT18M30S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-09-27T03:27:51.313961",
-      "engagementScore": 27.41
+      "collectedAt": "2026-09-28T03:25:41.146177",
+      "engagementScore": 27.22
     },
     {
       "platform": "youtube",
@@ -513,48 +530,31 @@
       "commentCount": 0,
       "duration": "PT33S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-09-27T03:27:51.313980",
+      "collectedAt": "2026-09-28T03:25:41.146191",
       "engagementScore": 24.61
     },
     {
       "platform": "youtube",
-      "id": "MheQ2Ww7EMQ",
-      "title": "DaVinci Resolve Full Course (3+ Hours)",
-      "description": "Welcome to my DaVinci Resolve motion design course… Try this tool for free to make custom soundtracks for your videos: ...",
-      "thumbnail": "https://i.ytimg.com/vi/MheQ2Ww7EMQ/hqdefault.jpg",
-      "channel": "Zane Hoyer",
-      "publishedAt": "2026-09-08T12:30:38Z",
-      "url": "https://www.youtube.com/watch?v=MheQ2Ww7EMQ",
-      "viewCount": 283280,
-      "likeCount": 5530,
-      "commentCount": 581,
-      "duration": "PT3H48M50S",
-      "keyword": "motion graphics 2024",
-      "collectedAt": "2026-09-27T03:27:50.875524",
-      "engagementScore": 23.62
-    },
-    {
-      "platform": "youtube",
-      "id": "MheQ2Ww7EMQ",
-      "title": "DaVinci Resolve Full Course (3+ Hours)",
-      "description": "Welcome to my DaVinci Resolve motion design course… Try this tool for free to make custom soundtracks for your videos: ...",
-      "thumbnail": "https://i.ytimg.com/vi/MheQ2Ww7EMQ/hqdefault.jpg",
-      "channel": "Zane Hoyer",
-      "publishedAt": "2026-09-08T12:30:38Z",
-      "url": "https://www.youtube.com/watch?v=MheQ2Ww7EMQ",
-      "viewCount": 283280,
-      "likeCount": 5530,
-      "commentCount": 581,
-      "duration": "PT3H48M50S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-09-27T03:27:53.051569",
-      "engagementScore": 23.62
+      "id": "znVemn4Yuhg",
+      "title": "YUJI X TODO EDIT JUJUTSU KAISEN💀||#jujutsukaisen #yuji #todo",
+      "description": "SONG - APOLOGISE IN BRAZIL (Slowed) (Related) GETO X GOJO EDIT, . . Software used: After-effects 2025! . . © Copyright - I ...",
+      "thumbnail": "https://i.ytimg.com/vi/znVemn4Yuhg/hqdefault.jpg",
+      "channel": "Anshuledits",
+      "publishedAt": "2026-09-19T14:30:01Z",
+      "url": "https://www.youtube.com/watch?v=znVemn4Yuhg",
+      "viewCount": 2199526,
+      "likeCount": 50814,
+      "commentCount": 342,
+      "duration": "PT18S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-09-28T03:25:41.656621",
+      "engagementScore": 23.41
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 55143786,
-    "avgEngagement": 13.58
+    "totalViews": 57569946,
+    "avgEngagement": 15.23
   }
 }
