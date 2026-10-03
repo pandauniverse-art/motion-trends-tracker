@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T03:54:02.758493",
+  "lastUpdated": "2026-10-03T03:39:00.011312",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -30,7 +30,7 @@
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 45812957
+      "totalViews": 48073583
     },
     "vimeo": {
       "count": 0,
@@ -47,12 +47,12 @@
       "channel": "React With R1",
       "publishedAt": "2026-09-16T14:38:58Z",
       "url": "https://www.youtube.com/watch?v=Q3bwFvkHKUE",
-      "viewCount": 6411575,
-      "likeCount": 101347,
+      "viewCount": 6423002,
+      "likeCount": 101517,
       "commentCount": 409,
       "duration": "PT38S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-10-02T03:53:23.883367",
+      "collectedAt": "2026-10-03T03:37:57.453579",
       "engagementScore": 15.93
     },
     {
@@ -64,13 +64,47 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-09T12:06:08Z",
       "url": "https://www.youtube.com/watch?v=J5ravE-H7Wc",
-      "viewCount": 3278186,
-      "likeCount": 105467,
-      "commentCount": 561,
+      "viewCount": 3313817,
+      "likeCount": 106273,
+      "commentCount": 565,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414764",
-      "engagementScore": 32.51
+      "collectedAt": "2026-10-03T03:37:57.001102",
+      "engagementScore": 32.41
+    },
+    {
+      "platform": "youtube",
+      "id": "Wcp6FHMfAiA",
+      "title": "Aborable Cricular Creatures 💖💖💖# #3danimation",
+      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
+      "thumbnail": "https://i.ytimg.com/vi/Wcp6FHMfAiA/hqdefault.jpg",
+      "channel": "@RinkuRoy315",
+      "publishedAt": "2026-09-26T07:08:41Z",
+      "url": "https://www.youtube.com/watch?v=Wcp6FHMfAiA",
+      "viewCount": 3056929,
+      "likeCount": 0,
+      "commentCount": 5,
+      "duration": "PT21S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-10-03T03:37:57.997933",
+      "engagementScore": 0.0
+    },
+    {
+      "platform": "youtube",
+      "id": "Wcp6FHMfAiA",
+      "title": "Aborable Cricular Creatures 💖💖💖# #3danimation",
+      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
+      "thumbnail": "https://i.ytimg.com/vi/Wcp6FHMfAiA/hqdefault.jpg",
+      "channel": "@RinkuRoy315",
+      "publishedAt": "2026-09-26T07:08:41Z",
+      "url": "https://www.youtube.com/watch?v=Wcp6FHMfAiA",
+      "viewCount": 3056929,
+      "likeCount": 0,
+      "commentCount": 5,
+      "duration": "PT21S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-10-03T03:37:58.501064",
+      "engagementScore": 0.0
     },
     {
       "platform": "youtube",
@@ -81,47 +115,13 @@
       "channel": "Nihaal Edits",
       "publishedAt": "2026-09-08T06:35:22Z",
       "url": "https://www.youtube.com/watch?v=wEDbUVnlJ4I",
-      "viewCount": 2881185,
-      "likeCount": 56129,
+      "viewCount": 2967447,
+      "likeCount": 57382,
       "commentCount": 61,
       "duration": "PT1M",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414776",
-      "engagementScore": 19.52
-    },
-    {
-      "platform": "youtube",
-      "id": "Wcp6FHMfAiA",
-      "title": "Aborable Cricular Creatures 💖💖💖# #3danimation",
-      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
-      "thumbnail": "https://i.ytimg.com/vi/Wcp6FHMfAiA/hqdefault.jpg",
-      "channel": "@RinkuRoy315",
-      "publishedAt": "2026-09-26T07:08:41Z",
-      "url": "https://www.youtube.com/watch?v=Wcp6FHMfAiA",
-      "viewCount": 2596140,
-      "likeCount": 0,
-      "commentCount": 5,
-      "duration": "PT21S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-02T03:53:24.332935",
-      "engagementScore": 0.0
-    },
-    {
-      "platform": "youtube",
-      "id": "Wcp6FHMfAiA",
-      "title": "Aborable Cricular Creatures 💖💖💖# #3danimation",
-      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
-      "thumbnail": "https://i.ytimg.com/vi/Wcp6FHMfAiA/hqdefault.jpg",
-      "channel": "@RinkuRoy315",
-      "publishedAt": "2026-09-26T07:08:41Z",
-      "url": "https://www.youtube.com/watch?v=Wcp6FHMfAiA",
-      "viewCount": 2596140,
-      "likeCount": 0,
-      "commentCount": 5,
-      "duration": "PT21S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-10-02T03:53:24.861415",
-      "engagementScore": 0.0
+      "collectedAt": "2026-10-03T03:37:57.001117",
+      "engagementScore": 19.38
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-19T14:30:01Z",
       "url": "https://www.youtube.com/watch?v=znVemn4Yuhg",
-      "viewCount": 2338888,
-      "likeCount": 53594,
-      "commentCount": 363,
+      "viewCount": 2374142,
+      "likeCount": 54218,
+      "commentCount": 367,
       "duration": "PT18S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414779",
-      "engagementScore": 23.22
+      "collectedAt": "2026-10-03T03:37:57.001113",
+      "engagementScore": 23.15
     },
     {
       "platform": "youtube",
@@ -149,13 +149,30 @@
       "channel": "Prompt Pilot",
       "publishedAt": "2026-09-11T06:30:15Z",
       "url": "https://www.youtube.com/watch?v=AJczeuV6VsQ",
-      "viewCount": 2051866,
-      "likeCount": 7856,
+      "viewCount": 2053735,
+      "likeCount": 7864,
       "commentCount": 55,
       "duration": "PT12S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-10-02T03:53:23.883380",
+      "collectedAt": "2026-10-03T03:37:57.453590",
       "engagementScore": 3.88
+    },
+    {
+      "platform": "youtube",
+      "id": "tcpc5dQASCU",
+      "title": "Adorable Octagon Creatures 💖",
+      "description": "Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, seamless ...",
+      "thumbnail": "https://i.ytimg.com/vi/tcpc5dQASCU/hqdefault.jpg",
+      "channel": "Crack YouTube ",
+      "publishedAt": "2026-09-28T05:53:47Z",
+      "url": "https://www.youtube.com/watch?v=tcpc5dQASCU",
+      "viewCount": 1961777,
+      "likeCount": 11034,
+      "commentCount": 13,
+      "duration": "PT21S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-10-03T03:37:58.501079",
+      "engagementScore": 5.64
     },
     {
       "platform": "youtube",
@@ -166,13 +183,13 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-21T14:30:01Z",
       "url": "https://www.youtube.com/watch?v=oI6hnRGzlXQ",
-      "viewCount": 1742749,
-      "likeCount": 33793,
+      "viewCount": 1753316,
+      "likeCount": 33909,
       "commentCount": 365,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414783",
-      "engagementScore": 19.81
+      "collectedAt": "2026-10-03T03:37:57.001120",
+      "engagementScore": 19.76
     },
     {
       "platform": "youtube",
@@ -183,13 +200,13 @@
       "channel": "heisty",
       "publishedAt": "2026-09-22T11:57:26Z",
       "url": "https://www.youtube.com/watch?v=mMr1dR82nvw",
-      "viewCount": 1600526,
-      "likeCount": 105747,
-      "commentCount": 6869,
+      "viewCount": 1676819,
+      "likeCount": 108312,
+      "commentCount": 6954,
       "duration": "PT44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414787",
-      "engagementScore": 74.65
+      "collectedAt": "2026-10-03T03:37:57.001123",
+      "engagementScore": 72.89
     },
     {
       "platform": "youtube",
@@ -200,12 +217,12 @@
       "channel": "AI Search",
       "publishedAt": "2026-09-07T03:30:48Z",
       "url": "https://www.youtube.com/watch?v=Ji4amrxrzVM",
-      "viewCount": 1531567,
-      "likeCount": 16719,
+      "viewCount": 1532532,
+      "likeCount": 16727,
       "commentCount": 2392,
       "duration": "PT33M38S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-02T03:53:24.861427",
+      "collectedAt": "2026-10-03T03:37:58.501075",
       "engagementScore": 14.04
     },
     {
@@ -217,30 +234,13 @@
       "channel": "VAL",
       "publishedAt": "2026-09-12T23:30:12Z",
       "url": "https://www.youtube.com/watch?v=6iM85vvO9ZU",
-      "viewCount": 1290639,
-      "likeCount": 8090,
+      "viewCount": 1291320,
+      "likeCount": 8094,
       "commentCount": 56,
       "duration": "PT11S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414804",
+      "collectedAt": "2026-10-03T03:37:57.001140",
       "engagementScore": 6.35
-    },
-    {
-      "platform": "youtube",
-      "id": "mQ8Gq_xbXHM",
-      "title": "Tiny Triangle Monsters 💖💖",
-      "description": "63. Enter the world of Cute Little Triangle Monsters — adorable three-sided creatures drifting, bouncing, and wiggling through a ...",
-      "thumbnail": "https://i.ytimg.com/vi/mQ8Gq_xbXHM/hqdefault.jpg",
-      "channel": "3dbarn78",
-      "publishedAt": "2026-09-28T11:00:11Z",
-      "url": "https://www.youtube.com/watch?v=mQ8Gq_xbXHM",
-      "viewCount": 1176952,
-      "likeCount": 0,
-      "commentCount": 5,
-      "duration": "PT18S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-10-02T03:53:24.861430",
-      "engagementScore": 0.01
     },
     {
       "platform": "youtube",
@@ -251,13 +251,13 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-04T10:55:31Z",
       "url": "https://www.youtube.com/watch?v=jEdQGDpbDn8",
-      "viewCount": 1165558,
-      "likeCount": 25354,
-      "commentCount": 120,
+      "viewCount": 1229102,
+      "likeCount": 26395,
+      "commentCount": 121,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414791",
-      "engagementScore": 21.96
+      "collectedAt": "2026-10-03T03:37:57.001127",
+      "engagementScore": 21.67
     },
     {
       "platform": "youtube",
@@ -268,12 +268,12 @@
       "channel": "VFX VERSE",
       "publishedAt": "2026-09-07T11:00:33Z",
       "url": "https://www.youtube.com/watch?v=Pz541fKlkAs",
-      "viewCount": 1114965,
-      "likeCount": 3458,
+      "viewCount": 1116405,
+      "likeCount": 3463,
       "commentCount": 3,
       "duration": "PT13S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-02T03:53:24.332950",
+      "collectedAt": "2026-10-03T03:37:57.997949",
       "engagementScore": 3.11
     },
     {
@@ -285,13 +285,13 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-16T14:30:31Z",
       "url": "https://www.youtube.com/watch?v=PS3IV7mQRHM",
-      "viewCount": 1087930,
-      "likeCount": 19286,
+      "viewCount": 1089433,
+      "likeCount": 19308,
       "commentCount": 179,
       "duration": "PT18S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414801",
-      "engagementScore": 18.06
+      "collectedAt": "2026-10-03T03:37:57.001137",
+      "engagementScore": 18.05
     },
     {
       "platform": "youtube",
@@ -302,12 +302,12 @@
       "channel": "Vishal ok",
       "publishedAt": "2026-09-22T13:29:00Z",
       "url": "https://www.youtube.com/watch?v=-usjSwR2ftQ",
-      "viewCount": 1074468,
-      "likeCount": 5287,
+      "viewCount": 1078326,
+      "likeCount": 5306,
       "commentCount": 11,
       "duration": "PT24S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-02T03:53:24.332946",
+      "collectedAt": "2026-10-03T03:37:57.997945",
       "engagementScore": 4.94
     },
     {
@@ -319,13 +319,13 @@
       "channel": "Titan Ae ",
       "publishedAt": "2026-09-13T17:29:54Z",
       "url": "https://www.youtube.com/watch?v=zPjoqSFwHZU",
-      "viewCount": 1039335,
-      "likeCount": 15189,
+      "viewCount": 1041312,
+      "likeCount": 15209,
       "commentCount": 111,
       "duration": "PT59S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414794",
-      "engagementScore": 14.83
+      "collectedAt": "2026-10-03T03:37:57.001130",
+      "engagementScore": 14.82
     },
     {
       "platform": "youtube",
@@ -336,13 +336,13 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-24T14:30:05Z",
       "url": "https://www.youtube.com/watch?v=JPEiMN8SWxQ",
-      "viewCount": 1012598,
-      "likeCount": 19994,
+      "viewCount": 1017681,
+      "likeCount": 20075,
       "commentCount": 81,
       "duration": "PT26S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414798",
-      "engagementScore": 19.91
+      "collectedAt": "2026-10-03T03:37:57.001133",
+      "engagementScore": 19.89
     },
     {
       "platform": "youtube",
@@ -353,13 +353,13 @@
       "channel": "baby fun",
       "publishedAt": "2026-09-15T10:27:02Z",
       "url": "https://www.youtube.com/watch?v=oD6oIp-EdxA",
-      "viewCount": 915406,
-      "likeCount": 3679,
+      "viewCount": 916540,
+      "likeCount": 3682,
       "commentCount": 3,
       "duration": "PT11S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-02T03:53:24.332979",
-      "engagementScore": 4.03
+      "collectedAt": "2026-10-03T03:37:57.997952",
+      "engagementScore": 4.02
     },
     {
       "platform": "youtube",
@@ -370,13 +370,13 @@
       "channel": "Crack YouTube ",
       "publishedAt": "2026-09-24T04:06:49Z",
       "url": "https://www.youtube.com/watch?v=Lz78sYrbDVs",
-      "viewCount": 843029,
-      "likeCount": 4950,
+      "viewCount": 902193,
+      "likeCount": 5279,
       "commentCount": 6,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-02T03:53:24.333006",
-      "engagementScore": 5.89
+      "collectedAt": "2026-10-03T03:37:57.997983",
+      "engagementScore": 5.86
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "heisty",
       "publishedAt": "2026-09-22T11:57:26Z",
       "url": "https://www.youtube.com/watch?v=mMr1dR82nvw",
-      "viewCount": 1600526,
-      "likeCount": 105747,
-      "commentCount": 6869,
+      "viewCount": 1676819,
+      "likeCount": 108312,
+      "commentCount": 6954,
       "duration": "PT44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414787",
-      "engagementScore": 74.65
+      "collectedAt": "2026-10-03T03:37:57.001123",
+      "engagementScore": 72.89
     },
     {
       "platform": "youtube",
@@ -406,13 +406,30 @@
       "channel": "SonduckFilm",
       "publishedAt": "2026-09-17T13:00:29Z",
       "url": "https://www.youtube.com/watch?v=AKz-1l0Ai9o",
-      "viewCount": 57075,
-      "likeCount": 2601,
+      "viewCount": 58825,
+      "likeCount": 2672,
       "commentCount": 12,
       "duration": "PT1M23S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-10-02T03:53:22.902159",
-      "engagementScore": 45.99
+      "collectedAt": "2026-10-03T03:37:56.552592",
+      "engagementScore": 45.83
+    },
+    {
+      "platform": "youtube",
+      "id": "FvK4YMpznV4",
+      "title": "Epic 3D Animation &amp; Motion Graphics Showcase | 2024 Reel",
+      "description": "Explore a collection of my best 3D design and motion graphics projects from 2024. This reel showcases various styles and ...",
+      "thumbnail": "https://i.ytimg.com/vi/FvK4YMpznV4/hqdefault.jpg",
+      "channel": "Swoxy ",
+      "publishedAt": "2026-10-02T16:42:12Z",
+      "url": "https://www.youtube.com/watch?v=FvK4YMpznV4",
+      "viewCount": 1874,
+      "likeCount": 75,
+      "commentCount": 3,
+      "duration": "PT17S",
+      "keyword": "motion graphics 2024",
+      "collectedAt": "2026-10-03T03:37:56.165593",
+      "engagementScore": 43.22
     },
     {
       "platform": "youtube",
@@ -423,13 +440,13 @@
       "channel": "SonduckFilm",
       "publishedAt": "2026-09-09T15:58:48Z",
       "url": "https://www.youtube.com/watch?v=gmDhK6xx8-M",
-      "viewCount": 53173,
-      "likeCount": 1908,
+      "viewCount": 53670,
+      "likeCount": 1935,
       "commentCount": 8,
       "duration": "PT1M21S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-10-02T03:53:22.346181",
-      "engagementScore": 36.18
+      "collectedAt": "2026-10-03T03:37:56.165559",
+      "engagementScore": 36.35
     },
     {
       "platform": "youtube",
@@ -440,13 +457,13 @@
       "channel": "Hammad Sayed",
       "publishedAt": "2026-09-23T11:16:36Z",
       "url": "https://www.youtube.com/watch?v=fw7O-yFiyTc",
-      "viewCount": 58335,
-      "likeCount": 1562,
-      "commentCount": 241,
+      "viewCount": 60547,
+      "likeCount": 1639,
+      "commentCount": 243,
       "duration": "PT21H17M1S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-10-02T03:53:22.346176",
-      "engagementScore": 35.04
+      "collectedAt": "2026-10-03T03:37:56.165554",
+      "engagementScore": 35.1
     },
     {
       "platform": "youtube",
@@ -457,13 +474,13 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-09T12:06:08Z",
       "url": "https://www.youtube.com/watch?v=J5ravE-H7Wc",
-      "viewCount": 3278186,
-      "likeCount": 105467,
-      "commentCount": 561,
+      "viewCount": 3313817,
+      "likeCount": 106273,
+      "commentCount": 565,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414764",
-      "engagementScore": 32.51
+      "collectedAt": "2026-10-03T03:37:57.001102",
+      "engagementScore": 32.41
     },
     {
       "platform": "youtube",
@@ -474,30 +491,13 @@
       "channel": "Руслан Цапенко",
       "publishedAt": "2026-09-03T15:28:08Z",
       "url": "https://www.youtube.com/watch?v=x1xOCn5PEsg",
-      "viewCount": 4485,
-      "likeCount": 101,
+      "viewCount": 4491,
+      "likeCount": 102,
       "commentCount": 21,
       "duration": "PT7M9S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-10-02T03:53:22.902175",
-      "engagementScore": 31.88
-    },
-    {
-      "platform": "youtube",
-      "id": "T5tzFgQ0rmE",
-      "title": "Epic 3D Motion Graphics Reel | Visual Effects Showreel 2024",
-      "description": "Explore a stunning collection of 3D motion design and dynamic visual effects from my latest projects. This reel highlights the ...",
-      "thumbnail": "https://i.ytimg.com/vi/T5tzFgQ0rmE/hqdefault.jpg",
-      "channel": "Swoxy ",
-      "publishedAt": "2026-09-29T20:11:13Z",
-      "url": "https://www.youtube.com/watch?v=T5tzFgQ0rmE",
-      "viewCount": 1620,
-      "likeCount": 40,
-      "commentCount": 1,
-      "duration": "PT11S",
-      "keyword": "motion graphics 2024",
-      "collectedAt": "2026-10-02T03:53:22.346197",
-      "engagementScore": 25.93
+      "collectedAt": "2026-10-03T03:37:56.552608",
+      "engagementScore": 32.06
     },
     {
       "platform": "youtube",
@@ -513,7 +513,7 @@
       "commentCount": 0,
       "duration": "PT33S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-10-02T03:53:22.902179",
+      "collectedAt": "2026-10-03T03:37:56.552612",
       "engagementScore": 24.59
     },
     {
@@ -525,13 +525,13 @@
       "channel": "Dot CSV Lab ",
       "publishedAt": "2026-09-24T17:02:02Z",
       "url": "https://www.youtube.com/watch?v=j906Pf7n7Sg",
-      "viewCount": 391926,
-      "likeCount": 8444,
-      "commentCount": 500,
+      "viewCount": 397816,
+      "likeCount": 8512,
+      "commentCount": 501,
       "duration": "PT27M53S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-02T03:53:24.861454",
-      "engagementScore": 24.1
+      "collectedAt": "2026-10-03T03:37:58.501100",
+      "engagementScore": 23.92
     },
     {
       "platform": "youtube",
@@ -542,19 +542,19 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-19T14:30:01Z",
       "url": "https://www.youtube.com/watch?v=znVemn4Yuhg",
-      "viewCount": 2338888,
-      "likeCount": 53594,
-      "commentCount": 363,
+      "viewCount": 2374142,
+      "likeCount": 54218,
+      "commentCount": 367,
       "duration": "PT18S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-02T03:53:23.414779",
-      "engagementScore": 23.22
+      "collectedAt": "2026-10-03T03:37:57.001113",
+      "engagementScore": 23.15
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 45812957,
-    "avgEngagement": 15.0
+    "totalViews": 48073583,
+    "avgEngagement": 15.02
   }
 }
