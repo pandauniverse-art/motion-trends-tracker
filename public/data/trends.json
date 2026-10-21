@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T03:15:10.112139",
+  "lastUpdated": "2026-10-21T03:10:13.182420",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -30,7 +30,7 @@
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 23756323
+      "totalViews": 25372663
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,13 @@
       "channel": "heisty",
       "publishedAt": "2026-09-22T11:57:26Z",
       "url": "https://www.youtube.com/watch?v=mMr1dR82nvw",
-      "viewCount": 2740558,
-      "likeCount": 141271,
-      "commentCount": 7892,
+      "viewCount": 2783869,
+      "likeCount": 142544,
+      "commentCount": 7917,
       "duration": "PT44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383510",
-      "engagementScore": 57.31
+      "collectedAt": "2026-10-21T03:09:14.367617",
+      "engagementScore": 56.89
     },
     {
       "platform": "youtube",
@@ -64,13 +64,13 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-21T10:01:17Z",
       "url": "https://www.youtube.com/watch?v=E6oMOx_OLvo",
-      "viewCount": 2729503,
-      "likeCount": 116102,
+      "viewCount": 2730720,
+      "likeCount": 116147,
       "commentCount": 0,
       "duration": "PT2M54S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383496",
-      "engagementScore": 42.54
+      "collectedAt": "2026-10-21T03:09:14.367603",
+      "engagementScore": 42.53
     },
     {
       "platform": "youtube",
@@ -81,12 +81,12 @@
       "channel": "4X GAMER 1M FF",
       "publishedAt": "2026-10-18T12:06:08Z",
       "url": "https://www.youtube.com/watch?v=LEYrKGHZ8rA",
-      "viewCount": 1932771,
+      "viewCount": 2244390,
       "likeCount": 0,
       "commentCount": 0,
       "duration": "PT16S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699062",
+      "collectedAt": "2026-10-21T03:09:15.785197",
       "engagementScore": 0.0
     },
     {
@@ -98,13 +98,13 @@
       "channel": "Switch the Edit",
       "publishedAt": "2026-10-13T13:30:11Z",
       "url": "https://www.youtube.com/watch?v=HGkIniop400",
-      "viewCount": 1086990,
+      "viewCount": 1123869,
       "likeCount": 0,
-      "commentCount": 188,
+      "commentCount": 193,
       "duration": "PT59S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383514",
-      "engagementScore": 0.35
+      "collectedAt": "2026-10-21T03:09:14.367622",
+      "engagementScore": 0.34
     },
     {
       "platform": "youtube",
@@ -115,13 +115,30 @@
       "channel": "Lego Ranking ",
       "publishedAt": "2026-09-23T14:54:46Z",
       "url": "https://www.youtube.com/watch?v=8uyjhOQhaws",
-      "viewCount": 1084681,
+      "viewCount": 1084726,
       "likeCount": 0,
       "commentCount": 17,
       "duration": "PT19S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-10-20T03:14:12.818320",
+      "collectedAt": "2026-10-21T03:09:14.818370",
       "engagementScore": 0.03
+    },
+    {
+      "platform": "youtube",
+      "id": "JPEiMN8SWxQ",
+      "title": "YUJI X TODO EDIT JUJUTSU KAISEN💀||#jujutsukaisen #yuji #todo",
+      "description": "SONG - APOLOGISE IN BRAZIL (Slowed) (Related) YUJI X TODO EDIT, . . Software used: After-effects 2025! . . © Copyright - I ...",
+      "thumbnail": "https://i.ytimg.com/vi/JPEiMN8SWxQ/hqdefault.jpg",
+      "channel": "Anshuledits",
+      "publishedAt": "2026-09-24T14:30:05Z",
+      "url": "https://www.youtube.com/watch?v=JPEiMN8SWxQ",
+      "viewCount": 1027749,
+      "likeCount": 20242,
+      "commentCount": 81,
+      "duration": "PT26S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-10-21T03:09:14.367626",
+      "engagementScore": 19.85
     },
     {
       "platform": "youtube",
@@ -132,13 +149,13 @@
       "channel": "PLUS 4K",
       "publishedAt": "2026-09-27T13:05:01Z",
       "url": "https://www.youtube.com/watch?v=JiBRhBqXICM",
-      "viewCount": 968621,
-      "likeCount": 39202,
+      "viewCount": 974729,
+      "likeCount": 39359,
       "commentCount": 464,
       "duration": "PT48S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383521",
-      "engagementScore": 41.43
+      "collectedAt": "2026-10-21T03:09:14.367633",
+      "engagementScore": 41.33
     },
     {
       "platform": "youtube",
@@ -149,30 +166,13 @@
       "channel": "PLUS 4K",
       "publishedAt": "2026-10-04T13:22:33Z",
       "url": "https://www.youtube.com/watch?v=-LeVGeteTuA",
-      "viewCount": 885275,
-      "likeCount": 36400,
-      "commentCount": 315,
+      "viewCount": 888309,
+      "likeCount": 36470,
+      "commentCount": 316,
       "duration": "PT40S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383518",
-      "engagementScore": 41.83
-    },
-    {
-      "platform": "youtube",
-      "id": "A5GLk4Ot6H4",
-      "title": "The point is the process. #noai #animation #blender #aftereffects #vfx",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/A5GLk4Ot6H4/hqdefault.jpg",
-      "channel": "Jonah Saesan",
-      "publishedAt": "2026-09-28T22:40:19Z",
-      "url": "https://www.youtube.com/watch?v=A5GLk4Ot6H4",
-      "viewCount": 683177,
-      "likeCount": 27687,
-      "commentCount": 312,
-      "duration": "PT20S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383530",
-      "engagementScore": 41.44
+      "collectedAt": "2026-10-21T03:09:14.367629",
+      "engagementScore": 41.77
     },
     {
       "platform": "youtube",
@@ -183,47 +183,13 @@
       "channel": "4X GAMER 1M FF",
       "publishedAt": "2026-10-16T09:44:41Z",
       "url": "https://www.youtube.com/watch?v=C5tHw5mLLqg",
-      "viewCount": 676964,
+      "viewCount": 862452,
       "likeCount": 0,
       "commentCount": 0,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699080",
+      "collectedAt": "2026-10-21T03:09:15.785213",
       "engagementScore": 0.0
-    },
-    {
-      "platform": "youtube",
-      "id": "747ZnEtsRbg",
-      "title": "How to Make Insane Motion Graphics With Opus 5.5",
-      "description": "Get the full Opus 5.5 video kit (every prompt, rule file, and template from this video): ...",
-      "thumbnail": "https://i.ytimg.com/vi/747ZnEtsRbg/hqdefault.jpg",
-      "channel": "Lukas Margerie",
-      "publishedAt": "2026-09-29T06:12:45Z",
-      "url": "https://www.youtube.com/watch?v=747ZnEtsRbg",
-      "viewCount": 624110,
-      "likeCount": 10421,
-      "commentCount": 145,
-      "duration": "PT20M16S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-20T03:14:13.234187",
-      "engagementScore": 17.16
-    },
-    {
-      "platform": "youtube",
-      "id": "747ZnEtsRbg",
-      "title": "How to Make Insane Motion Graphics With Opus 5.5",
-      "description": "Get the full Opus 5.5 video kit (every prompt, rule file, and template from this video): ...",
-      "thumbnail": "https://i.ytimg.com/vi/747ZnEtsRbg/hqdefault.jpg",
-      "channel": "Lukas Margerie",
-      "publishedAt": "2026-09-29T06:12:45Z",
-      "url": "https://www.youtube.com/watch?v=747ZnEtsRbg",
-      "viewCount": 624110,
-      "likeCount": 10421,
-      "commentCount": 145,
-      "duration": "PT20M16S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699076",
-      "engagementScore": 17.16
     },
     {
       "platform": "youtube",
@@ -234,13 +200,30 @@
       "channel": "Switch the Edit",
       "publishedAt": "2026-10-16T13:30:02Z",
       "url": "https://www.youtube.com/watch?v=k95-YE7HX1w",
-      "viewCount": 597058,
+      "viewCount": 841120,
       "likeCount": 0,
-      "commentCount": 217,
+      "commentCount": 258,
       "duration": "PT55S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383528",
-      "engagementScore": 0.73
+      "collectedAt": "2026-10-21T03:09:14.367637",
+      "engagementScore": 0.61
+    },
+    {
+      "platform": "youtube",
+      "id": "A5GLk4Ot6H4",
+      "title": "The point is the process. #noai #animation #blender #aftereffects #vfx",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/A5GLk4Ot6H4/hqdefault.jpg",
+      "channel": "Jonah Saesan",
+      "publishedAt": "2026-09-28T22:40:19Z",
+      "url": "https://www.youtube.com/watch?v=A5GLk4Ot6H4",
+      "viewCount": 685082,
+      "likeCount": 27725,
+      "commentCount": 312,
+      "duration": "PT20S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-10-21T03:09:14.367643",
+      "engagementScore": 41.38
     },
     {
       "platform": "youtube",
@@ -251,13 +234,47 @@
       "channel": "ELECTRIC 8X",
       "publishedAt": "2026-10-15T21:45:28Z",
       "url": "https://www.youtube.com/watch?v=l3iUB1Di0-w",
-      "viewCount": 596659,
+      "viewCount": 649779,
       "likeCount": 0,
-      "commentCount": 54,
+      "commentCount": 56,
       "duration": "PT1M",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383524",
-      "engagementScore": 0.18
+      "collectedAt": "2026-10-21T03:09:14.367640",
+      "engagementScore": 0.17
+    },
+    {
+      "platform": "youtube",
+      "id": "747ZnEtsRbg",
+      "title": "How to Make Insane Motion Graphics With Opus 5.5",
+      "description": "Get the full Opus 5.5 video kit (every prompt, rule file, and template from this video): ...",
+      "thumbnail": "https://i.ytimg.com/vi/747ZnEtsRbg/hqdefault.jpg",
+      "channel": "Lukas Margerie",
+      "publishedAt": "2026-09-29T06:12:45Z",
+      "url": "https://www.youtube.com/watch?v=747ZnEtsRbg",
+      "viewCount": 631263,
+      "likeCount": 10523,
+      "commentCount": 145,
+      "duration": "PT20M16S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-10-21T03:09:15.296049",
+      "engagementScore": 17.13
+    },
+    {
+      "platform": "youtube",
+      "id": "747ZnEtsRbg",
+      "title": "How to Make Insane Motion Graphics With Opus 5.5",
+      "description": "Get the full Opus 5.5 video kit (every prompt, rule file, and template from this video): ...",
+      "thumbnail": "https://i.ytimg.com/vi/747ZnEtsRbg/hqdefault.jpg",
+      "channel": "Lukas Margerie",
+      "publishedAt": "2026-09-29T06:12:45Z",
+      "url": "https://www.youtube.com/watch?v=747ZnEtsRbg",
+      "viewCount": 631263,
+      "likeCount": 10523,
+      "commentCount": 145,
+      "duration": "PT20M16S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-10-21T03:09:15.785209",
+      "engagementScore": 17.13
     },
     {
       "platform": "youtube",
@@ -268,13 +285,13 @@
       "channel": "Anshuledits",
       "publishedAt": "2026-09-30T14:30:11Z",
       "url": "https://www.youtube.com/watch?v=fiAF6AF18k8",
-      "viewCount": 594828,
-      "likeCount": 13581,
+      "viewCount": 595155,
+      "likeCount": 13586,
       "commentCount": 103,
       "duration": "PT13S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383533",
-      "engagementScore": 23.18
+      "collectedAt": "2026-10-21T03:09:14.367647",
+      "engagementScore": 23.17
     },
     {
       "platform": "youtube",
@@ -285,13 +302,13 @@
       "channel": "Arjun craft yt 1",
       "publishedAt": "2026-10-13T13:57:42Z",
       "url": "https://www.youtube.com/watch?v=Q-YyQB3svHU",
-      "viewCount": 579018,
-      "likeCount": 2241,
+      "viewCount": 594411,
+      "likeCount": 2303,
       "commentCount": 4,
       "duration": "PT23S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-20T03:14:13.234194",
-      "engagementScore": 3.88
+      "collectedAt": "2026-10-21T03:09:15.296056",
+      "engagementScore": 3.89
     },
     {
       "platform": "youtube",
@@ -302,13 +319,13 @@
       "channel": "Arjun craft yt 1",
       "publishedAt": "2026-10-13T13:57:42Z",
       "url": "https://www.youtube.com/watch?v=Q-YyQB3svHU",
-      "viewCount": 579018,
-      "likeCount": 2241,
+      "viewCount": 594411,
+      "likeCount": 2303,
       "commentCount": 4,
       "duration": "PT23S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699093",
-      "engagementScore": 3.88
+      "collectedAt": "2026-10-21T03:09:15.785227",
+      "engagementScore": 3.89
     },
     {
       "platform": "youtube",
@@ -319,47 +336,13 @@
       "channel": "Tristen O'Brien",
       "publishedAt": "2026-10-14T15:31:12Z",
       "url": "https://www.youtube.com/watch?v=yf2OwchM9nw",
-      "viewCount": 562004,
-      "likeCount": 9585,
-      "commentCount": 241,
+      "viewCount": 567124,
+      "likeCount": 9666,
+      "commentCount": 244,
       "duration": "PT11M23S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-20T03:14:13.234172",
-      "engagementScore": 17.91
-    },
-    {
-      "platform": "youtube",
-      "id": "aphYYdZES80",
-      "title": "BROLY EDIT | MEOW BOSS TEKK (Super Slowed)",
-      "description": "sukuna​​ #gojo​​ #jogo​​ #kashimo​​ #yorozu​​ #choso​​ #ryu​​ #moduloyuji​​ #shorts​​ #edit​​ #aftereffects​​ ...",
-      "thumbnail": "https://i.ytimg.com/vi/aphYYdZES80/hqdefault.jpg",
-      "channel": "TANJIRO",
-      "publishedAt": "2026-10-08T15:00:39Z",
-      "url": "https://www.youtube.com/watch?v=aphYYdZES80",
-      "viewCount": 514593,
-      "likeCount": 0,
-      "commentCount": 94,
-      "duration": "PT22S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383536",
-      "engagementScore": 0.37
-    },
-    {
-      "platform": "youtube",
-      "id": "j906Pf7n7Sg",
-      "title": "CLAUDE OPUS 5.5 es TODA UNA REVOLUCIÓN AUDIOVISUAL (...sorry Astra)",
-      "description": "Anthropic acaba de presentar su nuevo modelo Opus 5.5, un modelo que ha llevado la animación, motion graphics y el 3D con IA ...",
-      "thumbnail": "https://i.ytimg.com/vi/j906Pf7n7Sg/hqdefault.jpg",
-      "channel": "Dot CSV Lab ",
-      "publishedAt": "2026-09-24T17:02:02Z",
-      "url": "https://www.youtube.com/watch?v=j906Pf7n7Sg",
-      "viewCount": 451263,
-      "likeCount": 9047,
-      "commentCount": 524,
-      "duration": "PT27M53S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699083",
-      "engagementScore": 22.37
+      "collectedAt": "2026-10-21T03:09:15.296036",
+      "engagementScore": 17.9
     },
     {
       "platform": "youtube",
@@ -370,13 +353,30 @@
       "channel": "AzD_3D",
       "publishedAt": "2026-10-14T01:30:01Z",
       "url": "https://www.youtube.com/watch?v=iE4s05qeJoo",
-      "viewCount": 418998,
+      "viewCount": 497176,
       "likeCount": 0,
       "commentCount": 8,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699090",
-      "engagementScore": 0.04
+      "collectedAt": "2026-10-21T03:09:15.785217",
+      "engagementScore": 0.03
+    },
+    {
+      "platform": "youtube",
+      "id": "j906Pf7n7Sg",
+      "title": "CLAUDE OPUS 5.5 es TODA UNA REVOLUCIÓN AUDIOVISUAL (...sorry Astra)",
+      "description": "Anthropic acaba de presentar su nuevo modelo Opus 5.5, un modelo que ha llevado la animación, motion graphics y el 3D con IA ...",
+      "thumbnail": "https://i.ytimg.com/vi/j906Pf7n7Sg/hqdefault.jpg",
+      "channel": "Dot CSV Lab ",
+      "publishedAt": "2026-09-24T17:02:02Z",
+      "url": "https://www.youtube.com/watch?v=j906Pf7n7Sg",
+      "viewCount": 452163,
+      "likeCount": 9054,
+      "commentCount": 524,
+      "duration": "PT27M53S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-10-21T03:09:15.785220",
+      "engagementScore": 22.34
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "Swoxy ",
       "publishedAt": "2026-10-02T16:42:12Z",
       "url": "https://www.youtube.com/watch?v=FvK4YMpznV4",
-      "viewCount": 22954,
+      "viewCount": 22959,
       "likeCount": 1477,
       "commentCount": 22,
       "duration": "PT17S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-10-20T03:14:11.539082",
-      "engagementScore": 66.26
+      "collectedAt": "2026-10-21T03:09:13.466914",
+      "engagementScore": 66.25
     },
     {
       "platform": "youtube",
@@ -406,13 +406,13 @@
       "channel": "heisty",
       "publishedAt": "2026-09-22T11:57:26Z",
       "url": "https://www.youtube.com/watch?v=mMr1dR82nvw",
-      "viewCount": 2740558,
-      "likeCount": 141271,
-      "commentCount": 7892,
+      "viewCount": 2783869,
+      "likeCount": 142544,
+      "commentCount": 7917,
       "duration": "PT44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383510",
-      "engagementScore": 57.31
+      "collectedAt": "2026-10-21T03:09:14.367617",
+      "engagementScore": 56.89
     },
     {
       "platform": "youtube",
@@ -423,13 +423,13 @@
       "channel": "DSP WCNM",
       "publishedAt": "2026-09-21T10:01:17Z",
       "url": "https://www.youtube.com/watch?v=E6oMOx_OLvo",
-      "viewCount": 2729503,
-      "likeCount": 116102,
+      "viewCount": 2730720,
+      "likeCount": 116147,
       "commentCount": 0,
       "duration": "PT2M54S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383496",
-      "engagementScore": 42.54
+      "collectedAt": "2026-10-21T03:09:14.367603",
+      "engagementScore": 42.53
     },
     {
       "platform": "youtube",
@@ -440,13 +440,13 @@
       "channel": "PLUS 4K",
       "publishedAt": "2026-10-04T13:22:33Z",
       "url": "https://www.youtube.com/watch?v=-LeVGeteTuA",
-      "viewCount": 885275,
-      "likeCount": 36400,
-      "commentCount": 315,
+      "viewCount": 888309,
+      "likeCount": 36470,
+      "commentCount": 316,
       "duration": "PT40S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383518",
-      "engagementScore": 41.83
+      "collectedAt": "2026-10-21T03:09:14.367629",
+      "engagementScore": 41.77
     },
     {
       "platform": "youtube",
@@ -457,13 +457,13 @@
       "channel": "Jonah Saesan",
       "publishedAt": "2026-09-28T22:40:19Z",
       "url": "https://www.youtube.com/watch?v=A5GLk4Ot6H4",
-      "viewCount": 683177,
-      "likeCount": 27687,
+      "viewCount": 685082,
+      "likeCount": 27725,
       "commentCount": 312,
       "duration": "PT20S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383530",
-      "engagementScore": 41.44
+      "collectedAt": "2026-10-21T03:09:14.367643",
+      "engagementScore": 41.38
     },
     {
       "platform": "youtube",
@@ -474,13 +474,30 @@
       "channel": "PLUS 4K",
       "publishedAt": "2026-09-27T13:05:01Z",
       "url": "https://www.youtube.com/watch?v=JiBRhBqXICM",
-      "viewCount": 968621,
-      "likeCount": 39202,
+      "viewCount": 974729,
+      "likeCount": 39359,
       "commentCount": 464,
       "duration": "PT48S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-10-20T03:14:12.383521",
-      "engagementScore": 41.43
+      "collectedAt": "2026-10-21T03:09:14.367633",
+      "engagementScore": 41.33
+    },
+    {
+      "platform": "youtube",
+      "id": "6m7Y5SKXhks",
+      "title": "🚨The Top 7 Design Trends of 2027",
+      "description": "Design is changing forever. From handmade graphics and weird mascots to real textures, surrealism, and intentionally bad design ...",
+      "thumbnail": "https://i.ytimg.com/vi/6m7Y5SKXhks/hqdefault.jpg",
+      "channel": "Grayson's Graphics",
+      "publishedAt": "2026-10-15T16:37:23Z",
+      "url": "https://www.youtube.com/watch?v=6m7Y5SKXhks",
+      "viewCount": 25264,
+      "likeCount": 748,
+      "commentCount": 33,
+      "duration": "PT12M47S",
+      "keyword": "motion design trends",
+      "collectedAt": "2026-10-21T03:09:13.880868",
+      "engagementScore": 32.22
     },
     {
       "platform": "youtube",
@@ -491,30 +508,13 @@
       "channel": "Hammad Sayed",
       "publishedAt": "2026-09-23T11:16:36Z",
       "url": "https://www.youtube.com/watch?v=fw7O-yFiyTc",
-      "viewCount": 97267,
-      "likeCount": 2574,
-      "commentCount": 265,
+      "viewCount": 99821,
+      "likeCount": 2647,
+      "commentCount": 268,
       "duration": "PT21H17M1S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-10-20T03:14:11.539068",
-      "engagementScore": 31.91
-    },
-    {
-      "platform": "youtube",
-      "id": "T5tzFgQ0rmE",
-      "title": "Epic 3D Motion Graphics Reel | Visual Effects Showreel 2024",
-      "description": "Explore a stunning collection of 3D motion design and dynamic visual effects from my latest projects. This reel highlights the ...",
-      "thumbnail": "https://i.ytimg.com/vi/T5tzFgQ0rmE/hqdefault.jpg",
-      "channel": "Swoxy ",
-      "publishedAt": "2026-09-29T20:11:13Z",
-      "url": "https://www.youtube.com/watch?v=T5tzFgQ0rmE",
-      "viewCount": 1864,
-      "likeCount": 54,
-      "commentCount": 1,
-      "duration": "PT11S",
-      "keyword": "motion graphics 2024",
-      "collectedAt": "2026-10-20T03:14:11.539112",
-      "engagementScore": 30.04
+      "collectedAt": "2026-10-21T03:09:13.466894",
+      "engagementScore": 31.89
     },
     {
       "platform": "youtube",
@@ -525,13 +525,13 @@
       "channel": "Higgsfield AI",
       "publishedAt": "2026-09-23T18:56:56Z",
       "url": "https://www.youtube.com/watch?v=reFzEtCG_m8",
-      "viewCount": 363849,
-      "likeCount": 9435,
-      "commentCount": 209,
+      "viewCount": 367542,
+      "likeCount": 9535,
+      "commentCount": 211,
       "duration": "PT28M6S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-10-20T03:14:13.234190",
-      "engagementScore": 27.08
+      "collectedAt": "2026-10-21T03:09:15.296053",
+      "engagementScore": 27.09
     },
     {
       "platform": "youtube",
@@ -542,19 +542,19 @@
       "channel": "kaye.creatives",
       "publishedAt": "2026-10-14T12:37:47Z",
       "url": "https://www.youtube.com/watch?v=AsvN_feasyY",
-      "viewCount": 295966,
-      "likeCount": 6796,
+      "viewCount": 321709,
+      "likeCount": 7308,
       "commentCount": 169,
       "duration": "PT12M24S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-10-20T03:14:13.699101",
-      "engagementScore": 24.1
+      "collectedAt": "2026-10-21T03:09:15.785233",
+      "engagementScore": 23.77
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 23756323,
-    "avgEngagement": 14.03
+    "totalViews": 25372663,
+    "avgEngagement": 14.57
   }
 }
