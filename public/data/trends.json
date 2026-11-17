@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T04:36:06.118240",
+  "lastUpdated": "2026-11-17T06:22:40.367488",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -30,7 +30,7 @@
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 48656455
+      "totalViews": 48740413
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-03T14:50:32Z",
       "url": "https://www.youtube.com/watch?v=e6HdlNMTeMM",
-      "viewCount": 5839241,
-      "likeCount": 123185,
-      "commentCount": 1028,
+      "viewCount": 5931416,
+      "likeCount": 124727,
+      "commentCount": 1038,
       "duration": "PT59S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235850",
-      "engagementScore": 21.45
+      "collectedAt": "2026-11-17T06:21:51.765395",
+      "engagementScore": 21.38
     },
     {
       "platform": "youtube",
@@ -64,12 +64,12 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-07T14:00:07Z",
       "url": "https://www.youtube.com/watch?v=0T9mDECVEWc",
-      "viewCount": 5204756,
+      "viewCount": 5437387,
       "likeCount": 0,
-      "commentCount": 15,
+      "commentCount": 18,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-16T04:35:23.181131",
+      "collectedAt": "2026-11-17T06:21:52.608221",
       "engagementScore": 0.01
     },
     {
@@ -81,13 +81,13 @@
       "channel": "TOBIX 8D ",
       "publishedAt": "2026-11-09T14:29:05Z",
       "url": "https://www.youtube.com/watch?v=S5bR0zgJfsM",
-      "viewCount": 4293491,
-      "likeCount": 20526,
+      "viewCount": 4888361,
+      "likeCount": 23028,
       "commentCount": 11,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-16T04:35:23.181147",
-      "engagementScore": 4.79
+      "collectedAt": "2026-11-17T06:21:52.608240",
+      "engagementScore": 4.72
     },
     {
       "platform": "youtube",
@@ -98,13 +98,13 @@
       "channel": "Awesome3D",
       "publishedAt": "2026-10-18T14:00:36Z",
       "url": "https://www.youtube.com/watch?v=p3BVgW0XQls",
-      "viewCount": 3312979,
-      "likeCount": 80305,
-      "commentCount": 2701,
+      "viewCount": 3341742,
+      "likeCount": 80560,
+      "commentCount": 2721,
       "duration": "PT1M27S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-16T04:35:23.181144",
-      "engagementScore": 25.87
+      "collectedAt": "2026-11-17T06:21:52.608237",
+      "engagementScore": 25.74
     },
     {
       "platform": "youtube",
@@ -115,13 +115,13 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-08T14:00:15Z",
       "url": "https://www.youtube.com/watch?v=heguQZP3HB0",
-      "viewCount": 2870058,
-      "likeCount": 15052,
-      "commentCount": 10,
+      "viewCount": 2912874,
+      "likeCount": 15360,
+      "commentCount": 11,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-16T04:35:23.181150",
-      "engagementScore": 5.25
+      "collectedAt": "2026-11-17T06:21:52.608243",
+      "engagementScore": 5.28
     },
     {
       "platform": "youtube",
@@ -132,13 +132,13 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-08T14:00:15Z",
       "url": "https://www.youtube.com/watch?v=heguQZP3HB0",
-      "viewCount": 2870058,
-      "likeCount": 15052,
-      "commentCount": 10,
+      "viewCount": 2912874,
+      "likeCount": 15360,
+      "commentCount": 11,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-11-16T04:35:23.677153",
-      "engagementScore": 5.25
+      "collectedAt": "2026-11-17T06:21:53.048476",
+      "engagementScore": 5.28
     },
     {
       "platform": "youtube",
@@ -149,30 +149,13 @@
       "channel": "coisini",
       "publishedAt": "2026-11-07T16:00:14Z",
       "url": "https://www.youtube.com/watch?v=QzKSmbcvnSo",
-      "viewCount": 2418474,
-      "likeCount": 92138,
-      "commentCount": 596,
+      "viewCount": 2454152,
+      "likeCount": 93213,
+      "commentCount": 604,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235864",
-      "engagementScore": 38.59
-    },
-    {
-      "platform": "youtube",
-      "id": "GCHwpfQDxOw",
-      "title": "Napoleon - &quot;Long live the Emperor! | AINSI BAS LA VIDA (4K)",
-      "description": "Want to make better edits, faster? Get the Alvar Suite plugin and more: https://alvarcreations.com Installation tutorial: ...",
-      "thumbnail": "https://i.ytimg.com/vi/GCHwpfQDxOw/hqdefault.jpg",
-      "channel": "Alvar",
-      "publishedAt": "2026-10-17T18:37:50Z",
-      "url": "https://www.youtube.com/watch?v=GCHwpfQDxOw",
-      "viewCount": 2418239,
-      "likeCount": 74699,
-      "commentCount": 963,
-      "duration": "PT39S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235867",
-      "engagementScore": 31.69
+      "collectedAt": "2026-11-17T06:21:51.765407",
+      "engagementScore": 38.47
     },
     {
       "platform": "youtube",
@@ -183,13 +166,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-09T16:14:43Z",
       "url": "https://www.youtube.com/watch?v=f8kBr_wcZeo",
-      "viewCount": 1838233,
-      "likeCount": 50317,
-      "commentCount": 265,
+      "viewCount": 1963748,
+      "likeCount": 53426,
+      "commentCount": 286,
       "duration": "PT58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235870",
-      "engagementScore": 27.66
+      "collectedAt": "2026-11-17T06:21:51.765411",
+      "engagementScore": 27.5
     },
     {
       "platform": "youtube",
@@ -200,12 +183,12 @@
       "channel": "Arjun craft yt 1",
       "publishedAt": "2026-11-05T15:14:19Z",
       "url": "https://www.youtube.com/watch?v=p5atRU2Eh8A",
-      "viewCount": 1770712,
-      "likeCount": 8985,
+      "viewCount": 1773808,
+      "likeCount": 9000,
       "commentCount": 12,
       "duration": "PT28S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-11-16T04:35:23.677166",
+      "collectedAt": "2026-11-17T06:21:53.048489",
       "engagementScore": 5.09
     },
     {
@@ -217,12 +200,12 @@
       "channel": "NaomyKWC ",
       "publishedAt": "2026-10-21T01:41:12Z",
       "url": "https://www.youtube.com/watch?v=5ny4aFa-ACA",
-      "viewCount": 1736517,
-      "likeCount": 105203,
-      "commentCount": 327,
+      "viewCount": 1769031,
+      "likeCount": 107173,
+      "commentCount": 330,
       "duration": "PT6S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235879",
+      "collectedAt": "2026-11-17T06:21:51.765419",
       "engagementScore": 60.96
     },
     {
@@ -234,13 +217,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-02T14:34:03Z",
       "url": "https://www.youtube.com/watch?v=z0HoDbO_lvY",
-      "viewCount": 1319396,
-      "likeCount": 36725,
-      "commentCount": 226,
+      "viewCount": 1356201,
+      "likeCount": 37673,
+      "commentCount": 229,
       "duration": "PT59S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235876",
-      "engagementScore": 28.18
+      "collectedAt": "2026-11-17T06:21:51.765414",
+      "engagementScore": 28.12
     },
     {
       "platform": "youtube",
@@ -251,13 +234,30 @@
       "channel": "Batx7",
       "publishedAt": "2026-10-20T14:49:17Z",
       "url": "https://www.youtube.com/watch?v=mUFhOypf0UY",
-      "viewCount": 1272192,
-      "likeCount": 49388,
-      "commentCount": 6326,
+      "viewCount": 1291279,
+      "likeCount": 49936,
+      "commentCount": 6418,
       "duration": "PT47S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235873",
-      "engagementScore": 48.77
+      "collectedAt": "2026-11-17T06:21:51.765416",
+      "engagementScore": 48.61
+    },
+    {
+      "platform": "youtube",
+      "id": "CqyyXndIsoE",
+      "title": "Adorable Circular Creatures 💖💖💖 #3danimation",
+      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
+      "thumbnail": "https://i.ytimg.com/vi/CqyyXndIsoE/hqdefault.jpg",
+      "channel": "WEX TOON",
+      "publishedAt": "2026-11-10T10:54:00Z",
+      "url": "https://www.youtube.com/watch?v=CqyyXndIsoE",
+      "viewCount": 1180955,
+      "likeCount": 6162,
+      "commentCount": 5,
+      "duration": "PT21S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-11-17T06:21:53.048492",
+      "engagementScore": 5.23
     },
     {
       "platform": "youtube",
@@ -268,13 +268,13 @@
       "channel": "vanilbean",
       "publishedAt": "2026-10-20T20:33:38Z",
       "url": "https://www.youtube.com/watch?v=yTUqFVECGmk",
-      "viewCount": 1145387,
-      "likeCount": 50392,
-      "commentCount": 3507,
+      "viewCount": 1157770,
+      "likeCount": 50611,
+      "commentCount": 3515,
       "duration": "PT11S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235882",
-      "engagementScore": 50.12
+      "collectedAt": "2026-11-17T06:21:51.765421",
+      "engagementScore": 49.79
     },
     {
       "platform": "youtube",
@@ -285,13 +285,13 @@
       "channel": "Ashoyii",
       "publishedAt": "2026-11-05T00:00:01Z",
       "url": "https://www.youtube.com/watch?v=okqByqNKDbA",
-      "viewCount": 1029972,
-      "likeCount": 40791,
-      "commentCount": 144,
+      "viewCount": 1060347,
+      "likeCount": 41377,
+      "commentCount": 147,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235888",
-      "engagementScore": 39.88
+      "collectedAt": "2026-11-17T06:21:51.765427",
+      "engagementScore": 39.3
     },
     {
       "platform": "youtube",
@@ -302,12 +302,12 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-11T11:00:28Z",
       "url": "https://www.youtube.com/watch?v=fJTyPzVpqn4",
-      "viewCount": 840771,
+      "viewCount": 1013373,
       "likeCount": 0,
-      "commentCount": 8,
+      "commentCount": 9,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-16T04:35:23.181153",
+      "collectedAt": "2026-11-17T06:21:52.608246",
       "engagementScore": 0.02
     },
     {
@@ -319,30 +319,13 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-11T11:00:28Z",
       "url": "https://www.youtube.com/watch?v=fJTyPzVpqn4",
-      "viewCount": 840771,
+      "viewCount": 1013373,
       "likeCount": 0,
-      "commentCount": 8,
+      "commentCount": 9,
       "duration": "PT21S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-11-16T04:35:23.677172",
+      "collectedAt": "2026-11-17T06:21:53.048496",
       "engagementScore": 0.02
-    },
-    {
-      "platform": "youtube",
-      "id": "YKCozfUjm3k",
-      "title": "Cute Monster 💖 #3danimation",
-      "description": "57. Welcome to Little Cuboid Monsters — cute and lively box-shaped friends that wiggle, bounce, and float through a colorful ...",
-      "thumbnail": "https://i.ytimg.com/vi/YKCozfUjm3k/hqdefault.jpg",
-      "channel": "WEX TOON",
-      "publishedAt": "2026-11-10T03:35:10Z",
-      "url": "https://www.youtube.com/watch?v=YKCozfUjm3k",
-      "viewCount": 832331,
-      "likeCount": 4227,
-      "commentCount": 3,
-      "duration": "PT21S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-11-16T04:35:23.677168",
-      "engagementScore": 5.09
     },
     {
       "platform": "youtube",
@@ -353,13 +336,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-10T14:57:25Z",
       "url": "https://www.youtube.com/watch?v=cOviWqlKNz4",
-      "viewCount": 735382,
-      "likeCount": 16179,
-      "commentCount": 81,
+      "viewCount": 787358,
+      "likeCount": 17006,
+      "commentCount": 88,
       "duration": "PT56S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235885",
-      "engagementScore": 22.22
+      "collectedAt": "2026-11-17T06:21:51.765425",
+      "engagementScore": 21.82
     },
     {
       "platform": "youtube",
@@ -370,13 +353,30 @@
       "channel": "banti_10k",
       "publishedAt": "2026-11-07T15:55:20Z",
       "url": "https://www.youtube.com/watch?v=Kiuk6o7V-Mc",
-      "viewCount": 707065,
-      "likeCount": 3278,
+      "viewCount": 711167,
+      "likeCount": 3298,
       "commentCount": 3,
       "duration": "PT20S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-16T04:35:23.181158",
-      "engagementScore": 4.64
+      "collectedAt": "2026-11-17T06:21:52.608252",
+      "engagementScore": 4.65
+    },
+    {
+      "platform": "youtube",
+      "id": "kDcxEIDC5NA",
+      "title": "I Tried Making a Viral Video Using ONLY Claude AI",
+      "description": "Make animated Shorts like this in one click → https://moraviral.com/r/REACHMORA 40% off your first month (applied ...",
+      "thumbnail": "https://i.ytimg.com/vi/kDcxEIDC5NA/hqdefault.jpg",
+      "channel": "ReachMora",
+      "publishedAt": "2026-11-03T15:34:40Z",
+      "url": "https://www.youtube.com/watch?v=kDcxEIDC5NA",
+      "viewCount": 650439,
+      "likeCount": 18065,
+      "commentCount": 861,
+      "duration": "PT7M20S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-11-17T06:21:52.608249",
+      "engagementScore": 30.42
     }
   ],
   "topEngagement": [
@@ -389,12 +389,12 @@
       "channel": "NaomyKWC ",
       "publishedAt": "2026-10-21T01:41:12Z",
       "url": "https://www.youtube.com/watch?v=5ny4aFa-ACA",
-      "viewCount": 1736517,
-      "likeCount": 105203,
-      "commentCount": 327,
+      "viewCount": 1769031,
+      "likeCount": 107173,
+      "commentCount": 330,
       "duration": "PT6S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235879",
+      "collectedAt": "2026-11-17T06:21:51.765419",
       "engagementScore": 60.96
     },
     {
@@ -406,13 +406,13 @@
       "channel": "Provsoo",
       "publishedAt": "2026-10-30T13:39:35Z",
       "url": "https://www.youtube.com/watch?v=YJWm6prEjDI",
-      "viewCount": 14049,
-      "likeCount": 717,
+      "viewCount": 14630,
+      "likeCount": 735,
       "commentCount": 27,
       "duration": "PT17S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-11-16T04:35:21.241519",
-      "engagementScore": 54.88
+      "collectedAt": "2026-11-17T06:21:50.912058",
+      "engagementScore": 53.93
     },
     {
       "platform": "youtube",
@@ -423,13 +423,13 @@
       "channel": "vanilbean",
       "publishedAt": "2026-10-20T20:33:38Z",
       "url": "https://www.youtube.com/watch?v=yTUqFVECGmk",
-      "viewCount": 1145387,
-      "likeCount": 50392,
-      "commentCount": 3507,
+      "viewCount": 1157770,
+      "likeCount": 50611,
+      "commentCount": 3515,
       "duration": "PT11S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235882",
-      "engagementScore": 50.12
+      "collectedAt": "2026-11-17T06:21:51.765421",
+      "engagementScore": 49.79
     },
     {
       "platform": "youtube",
@@ -440,13 +440,13 @@
       "channel": "Batx7",
       "publishedAt": "2026-10-20T14:49:17Z",
       "url": "https://www.youtube.com/watch?v=mUFhOypf0UY",
-      "viewCount": 1272192,
-      "likeCount": 49388,
-      "commentCount": 6326,
+      "viewCount": 1291279,
+      "likeCount": 49936,
+      "commentCount": 6418,
       "duration": "PT47S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235873",
-      "engagementScore": 48.77
+      "collectedAt": "2026-11-17T06:21:51.765416",
+      "engagementScore": 48.61
     },
     {
       "platform": "youtube",
@@ -457,13 +457,30 @@
       "channel": "Layer Lemonade",
       "publishedAt": "2026-11-11T13:51:05Z",
       "url": "https://www.youtube.com/watch?v=V5SZkfNdLfA",
-      "viewCount": 7725,
-      "likeCount": 290,
+      "viewCount": 8011,
+      "likeCount": 302,
       "commentCount": 30,
       "duration": "PT12M29S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-11-16T04:35:21.756914",
-      "engagementScore": 45.31
+      "collectedAt": "2026-11-17T06:21:51.341292",
+      "engagementScore": 45.19
+    },
+    {
+      "platform": "youtube",
+      "id": "T6q_vtq8jrM",
+      "title": "How to Create Animations in OBS Studio Using Claude AI",
+      "description": "Explore Topview for Claude: https://www.topview.ai/?via=osas Learn how to create animations in OBS Studio using Claude AI!",
+      "thumbnail": "https://i.ytimg.com/vi/T6q_vtq8jrM/hqdefault.jpg",
+      "channel": "Osas Studio",
+      "publishedAt": "2026-11-10T23:02:05Z",
+      "url": "https://www.youtube.com/watch?v=T6q_vtq8jrM",
+      "viewCount": 2718,
+      "likeCount": 99,
+      "commentCount": 9,
+      "duration": "PT9M32S",
+      "keyword": "motion graphics 2024",
+      "collectedAt": "2026-11-17T06:21:50.912065",
+      "engagementScore": 43.05
     },
     {
       "platform": "youtube",
@@ -474,13 +491,13 @@
       "channel": "Ashoyii",
       "publishedAt": "2026-11-05T00:00:01Z",
       "url": "https://www.youtube.com/watch?v=okqByqNKDbA",
-      "viewCount": 1029972,
-      "likeCount": 40791,
-      "commentCount": 144,
+      "viewCount": 1060347,
+      "likeCount": 41377,
+      "commentCount": 147,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235888",
-      "engagementScore": 39.88
+      "collectedAt": "2026-11-17T06:21:51.765427",
+      "engagementScore": 39.3
     },
     {
       "platform": "youtube",
@@ -491,13 +508,13 @@
       "channel": "coisini",
       "publishedAt": "2026-11-07T16:00:14Z",
       "url": "https://www.youtube.com/watch?v=QzKSmbcvnSo",
-      "viewCount": 2418474,
-      "likeCount": 92138,
-      "commentCount": 596,
+      "viewCount": 2454152,
+      "likeCount": 93213,
+      "commentCount": 604,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235864",
-      "engagementScore": 38.59
+      "collectedAt": "2026-11-17T06:21:51.765407",
+      "engagementScore": 38.47
     },
     {
       "platform": "youtube",
@@ -508,53 +525,36 @@
       "channel": "Визави",
       "publishedAt": "2026-10-18T11:52:19Z",
       "url": "https://www.youtube.com/watch?v=L4MM8BQ9dTM",
-      "viewCount": 380844,
-      "likeCount": 11619,
-      "commentCount": 307,
+      "viewCount": 385918,
+      "likeCount": 11730,
+      "commentCount": 309,
       "duration": "PT7M30S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-11-16T04:35:23.677182",
-      "engagementScore": 32.12
+      "collectedAt": "2026-11-17T06:21:53.048503",
+      "engagementScore": 32.0
     },
     {
       "platform": "youtube",
-      "id": "GCHwpfQDxOw",
-      "title": "Napoleon - &quot;Long live the Emperor! | AINSI BAS LA VIDA (4K)",
-      "description": "Want to make better edits, faster? Get the Alvar Suite plugin and more: https://alvarcreations.com Installation tutorial: ...",
-      "thumbnail": "https://i.ytimg.com/vi/GCHwpfQDxOw/hqdefault.jpg",
-      "channel": "Alvar",
-      "publishedAt": "2026-10-17T18:37:50Z",
-      "url": "https://www.youtube.com/watch?v=GCHwpfQDxOw",
-      "viewCount": 2418239,
-      "likeCount": 74699,
-      "commentCount": 963,
-      "duration": "PT39S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235867",
-      "engagementScore": 31.69
-    },
-    {
-      "platform": "youtube",
-      "id": "z0HoDbO_lvY",
-      "title": "&quot;Manang Attacked Young Teens&quot; 💀 | Forgotten Island | House of Memories - Panic_ At The Disco",
-      "description": "Character: \"Manang\" edit ‎- Used movie: \"Forgotten Island\" (Directed By Joel Crawford and Januel Mercad) ‎- Music: House of ...",
-      "thumbnail": "https://i.ytimg.com/vi/z0HoDbO_lvY/hqdefault.jpg",
-      "channel": "Abdulaziz-Edits",
-      "publishedAt": "2026-11-02T14:34:03Z",
-      "url": "https://www.youtube.com/watch?v=z0HoDbO_lvY",
-      "viewCount": 1319396,
-      "likeCount": 36725,
-      "commentCount": 226,
-      "duration": "PT59S",
-      "keyword": "after effects animation",
-      "collectedAt": "2026-11-16T04:35:22.235876",
-      "engagementScore": 28.18
+      "id": "kDcxEIDC5NA",
+      "title": "I Tried Making a Viral Video Using ONLY Claude AI",
+      "description": "Make animated Shorts like this in one click → https://moraviral.com/r/REACHMORA 40% off your first month (applied ...",
+      "thumbnail": "https://i.ytimg.com/vi/kDcxEIDC5NA/hqdefault.jpg",
+      "channel": "ReachMora",
+      "publishedAt": "2026-11-03T15:34:40Z",
+      "url": "https://www.youtube.com/watch?v=kDcxEIDC5NA",
+      "viewCount": 650439,
+      "likeCount": 18065,
+      "commentCount": 861,
+      "duration": "PT7M20S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-11-17T06:21:52.608249",
+      "engagementScore": 30.42
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 48656455,
-    "avgEngagement": 18.23
+    "totalViews": 48740413,
+    "avgEngagement": 18.88
   }
 }
