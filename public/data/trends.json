@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T05:35:02.991959",
+  "lastUpdated": "2026-11-24T08:13:17.499841",
   "totalVideos": 50,
   "keywordTrends": [
     {
@@ -11,26 +11,26 @@
       "count": 10
     },
     {
-      "keyword": "3d motion design",
-      "count": 10
-    },
-    {
       "keyword": "cinema 4d motion",
       "count": 10
     },
     {
+      "keyword": "3d motion design",
+      "count": 10
+    },
+    {
       "keyword": "motion design trends",
-      "count": 5
+      "count": 6
     },
     {
       "keyword": "motion graphics 2024",
-      "count": 5
+      "count": 4
     }
   ],
   "platformStats": {
     "youtube": {
       "count": 50,
-      "totalViews": 52461598
+      "totalViews": 55592070
     },
     "vimeo": {
       "count": 0,
@@ -47,13 +47,30 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-07T14:00:07Z",
       "url": "https://www.youtube.com/watch?v=0T9mDECVEWc",
-      "viewCount": 6421388,
+      "viewCount": 6679068,
       "likeCount": 0,
-      "commentCount": 20,
+      "commentCount": 21,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774010",
+      "collectedAt": "2026-11-24T08:12:23.348929",
       "engagementScore": 0.01
+    },
+    {
+      "platform": "youtube",
+      "id": "e6HdlNMTeMM",
+      "title": "&quot;Jo And Raissa Are Best Friends&quot; ❤️ | Forgotten Island | Lush Life - Zara Larsson",
+      "description": "Character: \"Jo and Raissa\" edit ‎- Used movie: \"Forgotten Island\" (Directed By Joel Crawford and Januel Mercad) ‎- Music: Lush ...",
+      "thumbnail": "https://i.ytimg.com/vi/e6HdlNMTeMM/hqdefault.jpg",
+      "channel": "Abdulaziz-Edits",
+      "publishedAt": "2026-11-03T14:50:32Z",
+      "url": "https://www.youtube.com/watch?v=e6HdlNMTeMM",
+      "viewCount": 6617047,
+      "likeCount": 135834,
+      "commentCount": 1129,
+      "duration": "PT59S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-11-24T08:12:22.604075",
+      "engagementScore": 20.87
     },
     {
       "platform": "youtube",
@@ -64,12 +81,12 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-08T14:38:13Z",
       "url": "https://www.youtube.com/watch?v=_YUtvO_3ohM",
-      "viewCount": 4112945,
-      "likeCount": 76979,
-      "commentCount": 618,
+      "viewCount": 4118415,
+      "likeCount": 77092,
+      "commentCount": 619,
       "duration": "PT57S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001575",
+      "collectedAt": "2026-11-24T08:12:22.604085",
       "engagementScore": 19.02
     },
     {
@@ -81,13 +98,13 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-08T14:00:15Z",
       "url": "https://www.youtube.com/watch?v=heguQZP3HB0",
-      "viewCount": 3382954,
-      "likeCount": 17525,
+      "viewCount": 3400029,
+      "likeCount": 17593,
       "commentCount": 13,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774025",
-      "engagementScore": 5.19
+      "collectedAt": "2026-11-24T08:12:23.348941",
+      "engagementScore": 5.18
     },
     {
       "platform": "youtube",
@@ -98,13 +115,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-10-27T20:41:38Z",
       "url": "https://www.youtube.com/watch?v=hsu9WAx96oA",
-      "viewCount": 2888881,
-      "likeCount": 115019,
-      "commentCount": 1639,
+      "viewCount": 2915436,
+      "likeCount": 115739,
+      "commentCount": 1663,
       "duration": "PT44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001588",
-      "engagementScore": 40.95
+      "collectedAt": "2026-11-24T08:12:22.604089",
+      "engagementScore": 40.84
     },
     {
       "platform": "youtube",
@@ -115,13 +132,13 @@
       "channel": "coisini",
       "publishedAt": "2026-11-07T16:00:14Z",
       "url": "https://www.youtube.com/watch?v=QzKSmbcvnSo",
-      "viewCount": 2628548,
-      "likeCount": 97799,
+      "viewCount": 2630360,
+      "likeCount": 97842,
       "commentCount": 644,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001592",
-      "engagementScore": 37.7
+      "collectedAt": "2026-11-24T08:12:22.604092",
+      "engagementScore": 37.69
     },
     {
       "platform": "youtube",
@@ -132,12 +149,12 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-09T16:14:43Z",
       "url": "https://www.youtube.com/watch?v=f8kBr_wcZeo",
-      "viewCount": 2585187,
-      "likeCount": 67005,
-      "commentCount": 354,
+      "viewCount": 2597762,
+      "likeCount": 67325,
+      "commentCount": 358,
       "duration": "PT58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001596",
+      "collectedAt": "2026-11-24T08:12:22.604095",
       "engagementScore": 26.19
     },
     {
@@ -149,30 +166,13 @@
       "channel": "1XㅤRohimㅤϟ",
       "publishedAt": "2026-11-02T23:55:06Z",
       "url": "https://www.youtube.com/watch?v=Oco8nS1h5k0",
-      "viewCount": 2558638,
+      "viewCount": 2570396,
       "likeCount": 0,
       "commentCount": 16,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774029",
+      "collectedAt": "2026-11-24T08:12:23.348944",
       "engagementScore": 0.01
-    },
-    {
-      "platform": "youtube",
-      "id": "My1ieguXEJk",
-      "title": "Endless Wooden Table 🪵✨",
-      "description": "Mesmerizing 3D motion and seamless physics simulation of a wooden table and wooden floor tiles shifting over a dark abyss!",
-      "thumbnail": "https://i.ytimg.com/vi/My1ieguXEJk/hqdefault.jpg",
-      "channel": "SimRush3D",
-      "publishedAt": "2026-11-13T12:00:26Z",
-      "url": "https://www.youtube.com/watch?v=My1ieguXEJk",
-      "viewCount": 2543892,
-      "likeCount": 5849,
-      "commentCount": 9,
-      "duration": "PT6S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-11-23T05:34:18.170822",
-      "engagementScore": 2.31
     },
     {
       "platform": "youtube",
@@ -183,13 +183,13 @@
       "channel": "Elwafi Life",
       "publishedAt": "2026-11-16T17:00:38Z",
       "url": "https://www.youtube.com/watch?v=8XaXlQTXHkM",
-      "viewCount": 2109409,
-      "likeCount": 21117,
-      "commentCount": 22,
+      "viewCount": 2138600,
+      "likeCount": 21338,
+      "commentCount": 23,
       "duration": "PT19S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-11-23T05:34:17.375375",
-      "engagementScore": 10.03
+      "collectedAt": "2026-11-24T08:12:22.972325",
+      "engagementScore": 10.0
     },
     {
       "platform": "youtube",
@@ -200,13 +200,47 @@
       "channel": "Vishal ok",
       "publishedAt": "2026-11-20T13:28:19Z",
       "url": "https://www.youtube.com/watch?v=UY3OGnCGxnQ",
-      "viewCount": 1550832,
-      "likeCount": 8975,
-      "commentCount": 16,
+      "viewCount": 1789446,
+      "likeCount": 10338,
+      "commentCount": 26,
       "duration": "PT21S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774033",
+      "collectedAt": "2026-11-24T08:12:23.348946",
       "engagementScore": 5.81
+    },
+    {
+      "platform": "youtube",
+      "id": "JLXcNua8drw",
+      "title": "Endless Dice Layers 🎲✨",
+      "description": "Get ready to be hypnotized by this hyper-satisfying 3D animation loop! In this video, we explore a mesmerizing procedural ...",
+      "thumbnail": "https://i.ytimg.com/vi/JLXcNua8drw/hqdefault.jpg",
+      "channel": "SimRush3D",
+      "publishedAt": "2026-11-16T12:00:16Z",
+      "url": "https://www.youtube.com/watch?v=JLXcNua8drw",
+      "viewCount": 1595840,
+      "likeCount": 4758,
+      "commentCount": 5,
+      "duration": "PT7S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-11-24T08:12:23.348964",
+      "engagementScore": 2.99
+    },
+    {
+      "platform": "youtube",
+      "id": "JLXcNua8drw",
+      "title": "Endless Dice Layers 🎲✨",
+      "description": "Get ready to be hypnotized by this hyper-satisfying 3D animation loop! In this video, we explore a mesmerizing procedural ...",
+      "thumbnail": "https://i.ytimg.com/vi/JLXcNua8drw/hqdefault.jpg",
+      "channel": "SimRush3D",
+      "publishedAt": "2026-11-16T12:00:16Z",
+      "url": "https://www.youtube.com/watch?v=JLXcNua8drw",
+      "viewCount": 1595840,
+      "likeCount": 4758,
+      "commentCount": 5,
+      "duration": "PT7S",
+      "keyword": "3d motion design",
+      "collectedAt": "2026-11-24T08:12:23.767173",
+      "engagementScore": 2.99
     },
     {
       "platform": "youtube",
@@ -217,47 +251,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-02T14:34:03Z",
       "url": "https://www.youtube.com/watch?v=z0HoDbO_lvY",
-      "viewCount": 1544175,
-      "likeCount": 42330,
+      "viewCount": 1549685,
+      "likeCount": 42453,
       "commentCount": 247,
       "duration": "PT59S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001600",
-      "engagementScore": 27.73
-    },
-    {
-      "platform": "youtube",
-      "id": "JLXcNua8drw",
-      "title": "Endless Dice Layers 🎲✨",
-      "description": "Get ready to be hypnotized by this hyper-satisfying 3D animation loop! In this video, we explore a mesmerizing procedural ...",
-      "thumbnail": "https://i.ytimg.com/vi/JLXcNua8drw/hqdefault.jpg",
-      "channel": "SimRush3D",
-      "publishedAt": "2026-11-16T12:00:16Z",
-      "url": "https://www.youtube.com/watch?v=JLXcNua8drw",
-      "viewCount": 1411614,
-      "likeCount": 4241,
-      "commentCount": 4,
-      "duration": "PT7S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774056",
-      "engagementScore": 3.01
-    },
-    {
-      "platform": "youtube",
-      "id": "JLXcNua8drw",
-      "title": "Endless Dice Layers 🎲✨",
-      "description": "Get ready to be hypnotized by this hyper-satisfying 3D animation loop! In this video, we explore a mesmerizing procedural ...",
-      "thumbnail": "https://i.ytimg.com/vi/JLXcNua8drw/hqdefault.jpg",
-      "channel": "SimRush3D",
-      "publishedAt": "2026-11-16T12:00:16Z",
-      "url": "https://www.youtube.com/watch?v=JLXcNua8drw",
-      "viewCount": 1411614,
-      "likeCount": 4241,
-      "commentCount": 4,
-      "duration": "PT7S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-11-23T05:34:18.170838",
-      "engagementScore": 3.01
+      "collectedAt": "2026-11-24T08:12:22.604098",
+      "engagementScore": 27.71
     },
     {
       "platform": "youtube",
@@ -268,13 +268,13 @@
       "channel": "Ashoyii",
       "publishedAt": "2026-11-05T00:00:01Z",
       "url": "https://www.youtube.com/watch?v=okqByqNKDbA",
-      "viewCount": 1389872,
-      "likeCount": 48105,
-      "commentCount": 164,
+      "viewCount": 1425132,
+      "likeCount": 48760,
+      "commentCount": 167,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001612",
-      "engagementScore": 34.85
+      "collectedAt": "2026-11-24T08:12:22.604105",
+      "engagementScore": 34.45
     },
     {
       "platform": "youtube",
@@ -285,30 +285,13 @@
       "channel": "Mr omi",
       "publishedAt": "2026-11-01T06:15:41Z",
       "url": "https://www.youtube.com/watch?v=OtbLL6OBNE4",
-      "viewCount": 1322755,
-      "likeCount": 31279,
-      "commentCount": 1362,
+      "viewCount": 1352461,
+      "likeCount": 31893,
+      "commentCount": 1377,
       "duration": "PT11M53S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-11-23T05:34:18.170808",
-      "engagementScore": 25.71
-    },
-    {
-      "platform": "youtube",
-      "id": "fJTyPzVpqn4",
-      "title": "Adorable Arched Monsters 💖💖💖",
-      "description": "41. Welcome to Adorable Arched Monsters — delightful arch-shaped creatures that wiggle and drift through a vibrant, seamless ...",
-      "thumbnail": "https://i.ytimg.com/vi/fJTyPzVpqn4/hqdefault.jpg",
-      "channel": "1XㅤRohimㅤϟ",
-      "publishedAt": "2026-11-11T11:00:28Z",
-      "url": "https://www.youtube.com/watch?v=fJTyPzVpqn4",
-      "viewCount": 1300243,
-      "likeCount": 0,
-      "commentCount": 12,
-      "duration": "PT21S",
-      "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774051",
-      "engagementScore": 0.02
+      "collectedAt": "2026-11-24T08:12:23.767158",
+      "engagementScore": 25.62
     },
     {
       "platform": "youtube",
@@ -319,30 +302,13 @@
       "channel": "DramaticalCorgi",
       "publishedAt": "2026-11-15T01:54:06Z",
       "url": "https://www.youtube.com/watch?v=hSjW8JxrABs",
-      "viewCount": 1298525,
-      "likeCount": 30242,
-      "commentCount": 181,
+      "viewCount": 1326461,
+      "likeCount": 30784,
+      "commentCount": 192,
       "duration": "PT22S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001608",
-      "engagementScore": 23.57
-    },
-    {
-      "platform": "youtube",
-      "id": "C99wluZWapQ",
-      "title": "Adorable Circular Creatures 💖",
-      "description": "43. Welcome to Adorable Circular Creatures — charming little round beings that gently wiggle and drift through a colorful, ...",
-      "thumbnail": "https://i.ytimg.com/vi/C99wluZWapQ/hqdefault.jpg",
-      "channel": "THE SANKII 1M",
-      "publishedAt": "2026-11-17T03:49:10Z",
-      "url": "https://www.youtube.com/watch?v=C99wluZWapQ",
-      "viewCount": 1218888,
-      "likeCount": 5302,
-      "commentCount": 11,
-      "duration": "PT21S",
-      "keyword": "3d motion design",
-      "collectedAt": "2026-11-23T05:34:18.170826",
-      "engagementScore": 4.37
+      "collectedAt": "2026-11-24T08:12:22.604108",
+      "engagementScore": 23.5
     },
     {
       "platform": "youtube",
@@ -353,30 +319,64 @@
       "channel": "OTHERLY",
       "publishedAt": "2026-11-20T15:30:37Z",
       "url": "https://www.youtube.com/watch?v=l5vI8jKJVs0",
-      "viewCount": 1199319,
-      "likeCount": 21374,
-      "commentCount": 1341,
+      "viewCount": 1310694,
+      "likeCount": 23467,
+      "commentCount": 1462,
       "duration": "PT19S",
       "keyword": "3d motion design",
-      "collectedAt": "2026-11-23T05:34:18.170830",
-      "engagementScore": 20.06
+      "collectedAt": "2026-11-24T08:12:23.767170",
+      "engagementScore": 20.14
     },
     {
       "platform": "youtube",
-      "id": "6RWolwzwq_M",
-      "title": "Rico always CLUTCHES | #penguinsofmadagascar #edit #aftereffects #shorts #funny",
-      "description": "Watch this funny penguin serum edit as the group navigates a high-stakes mission. See how the team handles a missing supply.",
-      "thumbnail": "https://i.ytimg.com/vi/6RWolwzwq_M/hqdefault.jpg",
-      "channel": "DKay-edits",
-      "publishedAt": "2026-11-05T21:00:07Z",
-      "url": "https://www.youtube.com/watch?v=6RWolwzwq_M",
-      "viewCount": 1140444,
-      "likeCount": 28294,
-      "commentCount": 150,
-      "duration": "PT24S",
+      "id": "fJTyPzVpqn4",
+      "title": "Adorable Arched Monsters 💖💖💖",
+      "description": "41. Welcome to Adorable Arched Monsters — delightful arch-shaped creatures that wiggle and drift through a vibrant, seamless ...",
+      "thumbnail": "https://i.ytimg.com/vi/fJTyPzVpqn4/hqdefault.jpg",
+      "channel": "1XㅤRohimㅤϟ",
+      "publishedAt": "2026-11-11T11:00:28Z",
+      "url": "https://www.youtube.com/watch?v=fJTyPzVpqn4",
+      "viewCount": 1306017,
+      "likeCount": 0,
+      "commentCount": 12,
+      "duration": "PT21S",
+      "keyword": "blender motion graphics",
+      "collectedAt": "2026-11-24T08:12:23.348961",
+      "engagementScore": 0.02
+    },
+    {
+      "platform": "youtube",
+      "id": "Y3XwScMr_J4",
+      "title": "Head Bop Animation Tutorial In Capcut only",
+      "description": "usa.",
+      "thumbnail": "https://i.ytimg.com/vi/Y3XwScMr_J4/hqdefault.jpg",
+      "channel": "One4Eleven",
+      "publishedAt": "2026-10-30T04:04:43Z",
+      "url": "https://www.youtube.com/watch?v=Y3XwScMr_J4",
+      "viewCount": 1150281,
+      "likeCount": 0,
+      "commentCount": 795,
+      "duration": "PT2M11S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001618",
-      "engagementScore": 25.07
+      "collectedAt": "2026-11-24T08:12:22.604102",
+      "engagementScore": 1.38
+    },
+    {
+      "platform": "youtube",
+      "id": "cOviWqlKNz4",
+      "title": "&quot;Prince Mermahn Is So Funny&quot; 😂 | Forgotten Island | Lush Life - Zara Larsson",
+      "description": "Character: \"Prince Mermahn\" edit ‎- Used movie: \"Forgotten Island\" (Directed By Joel Crawford and Januel Mercad) ‎- Music: Lush ...",
+      "thumbnail": "https://i.ytimg.com/vi/cOviWqlKNz4/hqdefault.jpg",
+      "channel": "Abdulaziz-Edits",
+      "publishedAt": "2026-11-10T14:57:25Z",
+      "url": "https://www.youtube.com/watch?v=cOviWqlKNz4",
+      "viewCount": 933767,
+      "likeCount": 19199,
+      "commentCount": 98,
+      "duration": "PT56S",
+      "keyword": "after effects animation",
+      "collectedAt": "2026-11-24T08:12:22.604110",
+      "engagementScore": 20.77
     }
   ],
   "topEngagement": [
@@ -389,13 +389,13 @@
       "channel": "Provsoo",
       "publishedAt": "2026-10-30T13:39:35Z",
       "url": "https://www.youtube.com/watch?v=YJWm6prEjDI",
-      "viewCount": 16913,
-      "likeCount": 791,
+      "viewCount": 17290,
+      "likeCount": 801,
       "commentCount": 27,
       "duration": "PT17S",
       "keyword": "motion graphics 2024",
-      "collectedAt": "2026-11-23T05:34:16.134346",
-      "engagementScore": 49.96
+      "collectedAt": "2026-11-24T08:12:21.900181",
+      "engagementScore": 49.45
     },
     {
       "platform": "youtube",
@@ -406,13 +406,13 @@
       "channel": "Layer Lemonade",
       "publishedAt": "2026-11-11T13:51:05Z",
       "url": "https://www.youtube.com/watch?v=V5SZkfNdLfA",
-      "viewCount": 9027,
-      "likeCount": 328,
-      "commentCount": 30,
+      "viewCount": 9221,
+      "likeCount": 339,
+      "commentCount": 31,
       "duration": "PT12M29S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-11-23T05:34:16.546424",
-      "engagementScore": 42.98
+      "collectedAt": "2026-11-24T08:12:22.240196",
+      "engagementScore": 43.49
     },
     {
       "platform": "youtube",
@@ -423,30 +423,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-10-27T20:41:38Z",
       "url": "https://www.youtube.com/watch?v=hsu9WAx96oA",
-      "viewCount": 2888881,
-      "likeCount": 115019,
-      "commentCount": 1639,
+      "viewCount": 2915436,
+      "likeCount": 115739,
+      "commentCount": 1663,
       "duration": "PT44S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001588",
-      "engagementScore": 40.95
-    },
-    {
-      "platform": "youtube",
-      "id": "T6q_vtq8jrM",
-      "title": "How to Create Animations in OBS Studio Using Claude AI",
-      "description": "Explore Topview for Claude: https://www.topview.ai/?via=osas Learn how to create animations in OBS Studio using Claude AI!",
-      "thumbnail": "https://i.ytimg.com/vi/T6q_vtq8jrM/hqdefault.jpg",
-      "channel": "Osas Studio",
-      "publishedAt": "2026-11-10T23:02:05Z",
-      "url": "https://www.youtube.com/watch?v=T6q_vtq8jrM",
-      "viewCount": 3150,
-      "likeCount": 104,
-      "commentCount": 9,
-      "duration": "PT9M32S",
-      "keyword": "motion graphics 2024",
-      "collectedAt": "2026-11-23T05:34:16.134356",
-      "engagementScore": 38.73
+      "collectedAt": "2026-11-24T08:12:22.604089",
+      "engagementScore": 40.84
     },
     {
       "platform": "youtube",
@@ -457,13 +440,30 @@
       "channel": "coisini",
       "publishedAt": "2026-11-07T16:00:14Z",
       "url": "https://www.youtube.com/watch?v=QzKSmbcvnSo",
-      "viewCount": 2628548,
-      "likeCount": 97799,
+      "viewCount": 2630360,
+      "likeCount": 97842,
       "commentCount": 644,
       "duration": "PT2M58S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001592",
-      "engagementScore": 37.7
+      "collectedAt": "2026-11-24T08:12:22.604092",
+      "engagementScore": 37.69
+    },
+    {
+      "platform": "youtube",
+      "id": "sQB_3fcFMBU",
+      "title": "The Top 5 Motion Design Trends for 2027 (You NEED to know!)",
+      "description": "Learn Better Skills. *Join the Waiting List:* https://stephanzammit.kit.com These are the top 5 motion design trends I think will ...",
+      "thumbnail": "https://i.ytimg.com/vi/sQB_3fcFMBU/hqdefault.jpg",
+      "channel": "Stephan Zammit",
+      "publishedAt": "2026-11-23T15:22:43Z",
+      "url": "https://www.youtube.com/watch?v=sQB_3fcFMBU",
+      "viewCount": 14620,
+      "likeCount": 438,
+      "commentCount": 33,
+      "duration": "PT9M55S",
+      "keyword": "motion design trends",
+      "collectedAt": "2026-11-24T08:12:22.240190",
+      "engagementScore": 34.47
     },
     {
       "platform": "youtube",
@@ -474,13 +474,13 @@
       "channel": "Ashoyii",
       "publishedAt": "2026-11-05T00:00:01Z",
       "url": "https://www.youtube.com/watch?v=okqByqNKDbA",
-      "viewCount": 1389872,
-      "likeCount": 48105,
-      "commentCount": 164,
+      "viewCount": 1425132,
+      "likeCount": 48760,
+      "commentCount": 167,
       "duration": "PT16S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001612",
-      "engagementScore": 34.85
+      "collectedAt": "2026-11-24T08:12:22.604105",
+      "engagementScore": 34.45
     },
     {
       "platform": "youtube",
@@ -491,13 +491,13 @@
       "channel": "CG Shortcuts",
       "publishedAt": "2026-10-27T14:00:19Z",
       "url": "https://www.youtube.com/watch?v=uK8diKb9ffc",
-      "viewCount": 51066,
-      "likeCount": 1210,
+      "viewCount": 51446,
+      "likeCount": 1218,
       "commentCount": 160,
       "duration": "PT17M6S",
       "keyword": "cinema 4d motion",
-      "collectedAt": "2026-11-23T05:34:17.375417",
-      "engagementScore": 29.96
+      "collectedAt": "2026-11-24T08:12:22.972356",
+      "engagementScore": 29.9
     },
     {
       "platform": "youtube",
@@ -508,13 +508,13 @@
       "channel": "ReachMora",
       "publishedAt": "2026-11-03T15:34:40Z",
       "url": "https://www.youtube.com/watch?v=kDcxEIDC5NA",
-      "viewCount": 807418,
-      "likeCount": 21547,
-      "commentCount": 947,
+      "viewCount": 831018,
+      "likeCount": 22134,
+      "commentCount": 964,
       "duration": "PT7M20S",
       "keyword": "blender motion graphics",
-      "collectedAt": "2026-11-23T05:34:17.774059",
-      "engagementScore": 29.03
+      "collectedAt": "2026-11-24T08:12:23.348967",
+      "engagementScore": 28.95
     },
     {
       "platform": "youtube",
@@ -525,13 +525,13 @@
       "channel": "Abdulaziz-Edits",
       "publishedAt": "2026-11-02T14:34:03Z",
       "url": "https://www.youtube.com/watch?v=z0HoDbO_lvY",
-      "viewCount": 1544175,
-      "likeCount": 42330,
+      "viewCount": 1549685,
+      "likeCount": 42453,
       "commentCount": 247,
       "duration": "PT59S",
       "keyword": "after effects animation",
-      "collectedAt": "2026-11-23T05:34:17.001600",
-      "engagementScore": 27.73
+      "collectedAt": "2026-11-24T08:12:22.604098",
+      "engagementScore": 27.71
     },
     {
       "platform": "youtube",
@@ -542,19 +542,19 @@
       "channel": "Kittl",
       "publishedAt": "2026-11-02T21:17:35Z",
       "url": "https://www.youtube.com/watch?v=krH0Hdk2mEw",
-      "viewCount": 164533,
-      "likeCount": 4327,
+      "viewCount": 169351,
+      "likeCount": 4445,
       "commentCount": 70,
       "duration": "PT17M19S",
       "keyword": "motion design trends",
-      "collectedAt": "2026-11-23T05:34:16.546402",
-      "engagementScore": 27.15
+      "collectedAt": "2026-11-24T08:12:22.240170",
+      "engagementScore": 27.07
     }
   ],
   "summary": {
     "youtubeVideos": 50,
     "vimeoVideos": 0,
-    "totalViews": 52461598,
-    "avgEngagement": 15.12
+    "totalViews": 55592070,
+    "avgEngagement": 15.56
   }
 }
